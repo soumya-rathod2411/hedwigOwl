@@ -5,8 +5,8 @@ name: Hedwig Report
 # is commented out, not deleted -- manual-only (workflow_dispatch) until
 # explicitly turned back on. To re-enable, just uncomment "schedule:" below.
 on:
-  # schedule:
-  #   - cron: "30 15 * * *"  # 15:30 UTC = 21:00 IST
+   schedule:
+     - cron: "30 15 * * *"  # 15:30 UTC = 21:00 IST
   workflow_dispatch:
 
 # Least-privilege: only repo-contents write is ever needed here.
