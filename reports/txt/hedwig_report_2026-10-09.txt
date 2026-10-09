@@ -1,0 +1,88 @@
+Hedwig's 9 PM Intelligence Report - Friday, 09 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Indian CERT urges firms to contain exploited internet‑facing flaws within 12 hours**  
+What happened: CERT‑In issued an advisory requiring organisations to patch, mitigate, or isolate known exploited vulnerabilities in internet‑facing “crown‑jewel” systems within a 12‑hour window where feasible, and called for continuous exposure management and AI‑governance controls.  
+Why you should care: As a Diploma IT student in India, you are likely to work with or support domestic enterprises that must meet these strict timelines, making rapid vulnerability assessment and remediation a priority skill.  
+Impact: High  
+Source: CSOOnline.  
+
+**India approves $13.3 billion for fresh semiconductor push**  
+What happened: The Indian government announced a $13.3 billion investment to develop semiconductor intellectual property, chip design capabilities, new fabrication facilities and research and development initiatives.  
+Why you should care: A stronger domestic semiconductor ecosystem will create more internship, project and job opportunities for Diploma IT students and provide locally‑developed hardware platforms for coursework and startups.  
+Impact: High  
+Source: Reuters  
+
+**Arm unveils production‑ready AGI CPU with 136 cores, targeting AI workloads**  
+What happened: Arm announced its first production‑ready AGI CPU, a 136‑core processor designed for high‑performance AI and agentic computing, alongside the new Neoverse CSS N4 platform.  
+Why you should care: The chip signals a shift toward ARM‑based data‑center CPUs, opening opportunities to learn and develop AI‑optimized software on architectures that may become dominant in cloud and edge services used by Indian tech firms.  
+Impact: High  
+Source: Network World
+
+## AI
+**Microchip launches MPLAB AI Coding Assistant for embedded development**  
+What happened: Microchip introduced an AI‑powered chatbot integrated into its MPLAB IDE that offers real‑time code suggestions, autocomplete and product‑specific guidance directly from the sidebar. The tool is continuously updated with Microchip’s embedded product data.  
+Why you should care: Diploma IT students focusing on embedded systems can accelerate learning and prototyping by receiving instant, context‑aware assistance while writing firmware for Microchip microcontrollers, reducing reliance on external forums.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+**Shield AI completes acquisition of Aechelon Technology**  
+What happened: Shield AI, a defense technology firm developing autonomous AI pilots, finalized the purchase of Aechelon Technology, a specialist in high‑fidelity simulation and synthetic‑reality tools, after closing a $2 billion financing round.  
+Why you should care: The deal strengthens AI‑driven simulation platforms that are increasingly used for training autonomous systems, offering potential internship, project, and research opportunities for IT students interested in AI, robotics, and simulation technologies.  
+Impact: Medium  
+Source: pulse2.com  
+
+## Developer World
+**C2Call to Launch Free SDK for Mobile App Developers**  
+What happened: C2Call announced the private‑beta launch of its mobile‑app SDK in April 2013, offering it free of charge along with complimentary cloud hosting and monetisation features.  
+Why you should care: Access to a free, ready‑to‑use SDK and cloud services can accelerate your mobile‑app projects and help build a portfolio without upfront cost—valuable for a Diploma IT student seeking practical experience and internship material.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+## Cybersecurity
+**Indian CERT urges firms to contain exploited internet‑facing flaws within 12 hours**  
+What happened: CERT‑In has issued an advisory demanding that organisations patch, mitigate, or isolate known exploited vulnerabilities affecting internet‑facing “crown‑jewel” systems within a 12‑hour window where feasible, and calls for continuous exposure management and AI‑governance controls.  
+Why you should care: As a Diploma IT student in India, you are likely to work with or support domestic enterprises that must comply with these strict timelines, influencing curriculum focus on rapid vulnerability assessment and remediation practices.  
+Impact: High  
+Source: CSOOnline.  
+
+## India
+**India approves $13.3 billion for fresh semiconductor push**  
+What happened: The Indian government announced a $13.3 billion investment to develop semiconductor intellectual property, chip design capabilities, new fabrication facilities and research and development initiatives.  
+Why you should care: A robust domestic semiconductor ecosystem will create more internship, project and job opportunities for Diploma IT students, and provide access to locally‑developed hardware platforms for coursework and startups.  
+Impact: High  
+Source: Reuters  
+
+## Learn
+No relevant items were found for this section.
+
+## Opportunities
+No relevant items were found for this section.
+
+## Events Near You
+No in‑person tech events were identified in Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+No relevant items were found for this section.
+
+## Tech Outside AI
+**Arm unveils production‑ready AGI CPU with 136 cores, targeting AI workloads**  
+What happened: Arm announced its first production‑ready AGI CPU, a 136‑core processor designed for high‑performance AI and agentic computing, alongside the new Neoverse CSS N4 platform.  
+Why you should care: The chip signals a shift toward ARM‑based data‑center CPUs, opening opportunities to learn and develop AI‑optimized software on architectures that may become dominant in cloud and edge services used by Indian tech firms.  
+Impact: High  
+Source: Network World  
+
+**Semiconductor market hits $795.6 billion in 2025, forecast to double to $1.5 trillion in 2026**  
+What happened: The Semiconductor Industry Association reports global semiconductor sales reached a record $795.6 billion in 2025 and projects worldwide sales will reach $1.5 trillion in 2026.  
+Why you should care: The rapid expansion signals strong demand for hardware design, chip‑level programming, and related IT services, creating abundant internship and job opportunities for Diploma IT students in India and increasing the relevance of semiconductor‑focused coursework.  
+Impact: High  
+Source: Semiconductor Industry Association (semiconductors.org)
+
+## My Action for Tomorrow
+Set up a test environment on a virtual machine to practice rapid patching and isolation of a known vulnerable service, replicating the 12‑hour remediation workflow recommended by CERT‑In.
+
+## If You Only Remember 3 Things
+- Indian CERT mandates 12‑hour remediation for critical internet‑facing flaws.  
+- The government is committing $13.3 billion to build a domestic semiconductor ecosystem.  
+- Arm’s 136‑core AGI CPU introduces a new platform for AI‑focused development.
