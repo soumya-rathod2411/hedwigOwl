@@ -1,15 +1,12 @@
 name: Hedwig Collect
 
-# PAUSED as of Sept 21, 2026 -- automated runs were burning Tavily API
-# credits (80% used in one month) on a report pipeline that was failing
-# anyway. Schedule is commented out, not deleted -- manual-only
-# (workflow_dispatch) until explicitly turned back on. To re-enable,
-# just uncomment the "schedule:" block below.
+# Runs ONCE a day at 20:00 IST, one hour before the report. One run =
+# 11 Tavily searches (~330/month), inside the 1,000/month free tier.
+# (The old setup ran 3x/day plus a collect inside the report job =
+# ~44 searches/day, which would have blown the budget.)
 on:
-   schedule:
-     - cron: "30 0 * * *"   # 00:30 UTC = 06:00 IST
-     - cron: "30 7 * * *"   # 07:30 UTC = 13:00 IST
-     - cron: "30 14 * * *"  # 14:30 UTC = 20:00 IST
+  schedule:
+    - cron: "30 14 * * *"  # 14:30 UTC = 20:00 IST
   workflow_dispatch:  # lets you (or the app) trigger this manually too
 
 # Least-privilege: this job only ever needs to write repo contents (to
