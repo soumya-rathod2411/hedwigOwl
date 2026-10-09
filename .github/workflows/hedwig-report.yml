@@ -1,12 +1,10 @@
 name: Hedwig Report
 
-# PAUSED as of Sept 21, 2026 -- this was failing every night and sending
-# failure emails while the underlying issue was being debugged. Schedule
-# is commented out, not deleted -- manual-only (workflow_dispatch) until
-# explicitly turned back on. To re-enable, just uncomment "schedule:" below.
+# Runs nightly at 21:00 IST. It does NOT collect -- it uses the data that
+# hedwig-collect.yml gathered at 20:00 IST, so Tavily is only hit once a day.
 on:
-   schedule:
-     - cron: "30 15 * * *"  # 15:30 UTC = 21:00 IST
+  schedule:
+    - cron: "30 15 * * *"  # 15:30 UTC = 21:00 IST
   workflow_dispatch:
 
 # Least-privilege: only repo-contents write is ever needed here.
@@ -46,15 +44,6 @@ jobs:
         #   "Client.__init__() got an unexpected keyword argument 'proxies'"
         # httpx<0.28 is the last line of releases before that removal.
         run: pip install requests==2.32.3 openai==1.54.4 "httpx==0.27.2" reportlab==4.2.5
-
-      - name: Collect fresh data first
-        # Runs a collection pass right before reporting, so the nightly
-        # report reflects whatever's newest rather than only what the
-        # last scheduled hedwig-collect.yml run happened to catch.
-        env:
-          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python hedwig_collector.py
 
       - name: Generate the report
         env:
