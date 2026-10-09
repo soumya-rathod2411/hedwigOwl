@@ -1,10 +1,10 @@
 """
 hedwig_reporter.py
 
-Runs once at 10pm (or on-demand, if triggered by the app). Reads
+Runs once at 9 PM IST (or on-demand via workflow_dispatch). Reads
 everything collected since the last report, writes a structured
 intelligence report following the spec, saves it as PDF/txt, and
-updates manifest.json -- the index the app reads to list every report
+updates reports/index.json -- the index the website reads to list every report
 that's ever been generated.
 
 Requires:
@@ -123,7 +123,7 @@ def build_pdf(report_text, pdf_path):
         return text
 
     elements = [
-        Paragraph("Hedwig's 10PM Intelligence Report", title_style),
+        Paragraph("Hedwig's 9 PM Intelligence Report", title_style),
         Paragraph(datetime.now().strftime("%A, %d %B %Y"), subtitle_style),
     ]
 
@@ -460,7 +460,7 @@ if USE_CLOUD_MODEL:
         "reasoning_effort": "low"
     }
 
-frame_response = client.chat.completions.create(**frame_completion_kwargs)
+frame_response = call_model(frame_completion_kwargs, "Stage 3: summary/closing")
 frame_text = frame_response.choices[0].message.content
 
 frame_finish_reason = frame_response.choices[0].finish_reason
@@ -494,7 +494,7 @@ report_text = f"{top_section.strip()}\n\n{body_text}\n\n{bottom_sections.strip()
 today = datetime.now().strftime("%Y-%m-%d")
 report_filename = os.path.join(TXT_FOLDER, f"hedwig_report_{today}.txt")
 with open(report_filename, "w", encoding="utf-8") as f:
-    f.write(f"Hedwig's 10PM Intelligence Report - {datetime.now().strftime('%A, %d %B %Y')}\n")
+    f.write(f"Hedwig's 9 PM Intelligence Report - {datetime.now().strftime('%A, %d %B %Y')}\n")
     f.write("=" * 60 + "\n\n")
     f.write(report_text)
 print(f"Report saved to: {report_filename}")
