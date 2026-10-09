@@ -1,11 +1,12 @@
 name: Hedwig Collect
 
-# Runs ONCE a day at 20:00 IST, one hour before the report. One run =
-# 11 Tavily searches (~330/month), inside the 1,000/month free tier.
-# (The old setup ran 3x/day plus a collect inside the report job =
-# ~44 searches/day, which would have blown the budget.)
+# Runs TWICE a day: 08:00 IST (morning news) and 20:00 IST (one hour before
+# the 21:00 report). One run = 11 Tavily searches, so 2 runs/day = ~660/month,
+# leaving ~340 spare for manual test runs inside the 1,000/month free tier.
+# (3 runs/day would be ~990/month -- too close to the limit.)
 on:
   schedule:
+    - cron: "30 2 * * *"   # 02:30 UTC = 08:00 IST
     - cron: "30 14 * * *"  # 14:30 UTC = 20:00 IST
   workflow_dispatch:  # lets you (or the app) trigger this manually too
 
