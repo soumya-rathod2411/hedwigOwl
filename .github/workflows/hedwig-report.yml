@@ -1,19 +1,33 @@
 name: Hedwig Report
 
-# Runs nightly at 21:00 IST. It does NOT collect -- it uses the data that
-# hedwig-collect.yml gathered at 20:00 IST, so Tavily is only hit once a day.
+# Evening report, with a safety net against GitHub's late scheduling.
+#
+# GitHub starts scheduled jobs late (sometimes hours), so instead of one
+# trigger there are THREE, an hour apart: 18:47, 19:47 and 20:47 IST. The
+# first one that actually starts writes the report. Later ones see that a
+# report was already made in the last 12 hours and stop within seconds
+# (they show up green and cost nothing). If a run fails, the next trigger
+# simply tries again. The minute is :47 because GitHub's scheduler is
+# busiest at :00 and :30.
+#
+# Before writing, the job collects fresh data unless data is under 8 hours
+# old (so the morning collect is reused only if it ran recently). With the
+# morning collect that makes 2 collections/day, ~660 Tavily searches/month.
+#
+# The "Run workflow" button always works and skips the 12-hour check.
 on:
   schedule:
-    - cron: "30 15 * * *"  # 15:30 UTC = 21:00 IST
+    - cron: "17 13 * * *"  # 13:17 UTC = 18:47 IST
+    - cron: "17 14 * * *"  # 14:17 UTC = 19:47 IST
+    - cron: "17 15 * * *"  # 15:17 UTC = 20:47 IST
   workflow_dispatch:
 
 # Least-privilege: only repo-contents write is ever needed here.
 permissions:
   contents: write
 
-# Only one report generation at a time -- if you manually trigger a run
-# while the nightly scheduled one happens to be running, this waits its
-# turn rather than running both simultaneously and colliding.
+# Only one report generation at a time -- if two triggers land together,
+# the second waits its turn and then sees the finished report and skips.
 concurrency:
   group: hedwig-report
   cancel-in-progress: false
@@ -32,7 +46,39 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Skip if a report was made in the last 12 hours
+        id: guard
+        # Only for scheduled runs. Reads reports/index.json (standard
+        # library only, no installs needed) and compares the newest
+        # "generated_at" with now.
+        if: github.event_name == 'schedule'
+        run: |
+          python - <<'PY'
+          import json, os
+          from datetime import datetime, timezone
+          skip = False
+          try:
+              entries = json.load(open("reports/index.json"))
+              newest = None
+              for e in entries:
+                  t = datetime.fromisoformat(e["generated_at"])
+                  if t.tzinfo is None:          # older entries were saved in UTC without a zone
+                      t = t.replace(tzinfo=timezone.utc)
+                  if newest is None or t > newest:
+                      newest = t
+              if newest is not None:
+                  age = (datetime.now(timezone.utc) - newest).total_seconds() / 3600
+                  print(f"Newest report is {age:.1f}h old.")
+                  skip = age < 12
+          except Exception as ex:
+              print(f"Could not read the index ({ex}); continuing normally.")
+          print("Skipping this run." if skip else "No recent report -- generating one.")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              out.write(f"skip={'true' if skip else 'false'}\n")
+          PY
+
       - name: Install dependencies
+        if: steps.guard.outputs.skip != 'true'
         # Pinned exact versions -- secrets are exposed as env vars in
         # this job, so installs here should never silently pull in a
         # newer, unreviewed release.
@@ -45,15 +91,28 @@ jobs:
         # httpx<0.28 is the last line of releases before that removal.
         run: pip install requests==2.32.3 openai==1.54.4 "httpx==0.27.2" reportlab==4.2.5
 
+      - name: Collect fresh data first
+        if: steps.guard.outputs.skip != 'true'
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          # Scheduled runs skip collecting if data is under 8 hours old;
+          # a manual run (empty value) always collects.
+          COLLECT_MIN_GAP_HOURS: ${{ github.event_name == 'schedule' && '8' || '' }}
+        run: python hedwig_collector.py
+
       - name: Generate the report
+        if: steps.guard.outputs.skip != 'true'
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python hedwig_reporter.py
 
       - name: Commit and push the new report
+        if: steps.guard.outputs.skip != 'true'
         run: |
           git config user.name "Hedwig Bot"
           git config user.email "hedwig-bot@users.noreply.github.com"
           git add reports/ data/
           git diff --staged --quiet || git commit -m "Hedwig: report $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push
