@@ -18,7 +18,7 @@ import os
 import re
 import sys
 import time
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import requests
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")  # same fix as the reporter -- non-ASCII in a title/error shouldn't crash printing
@@ -30,8 +30,33 @@ TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY", "tvly-your_key_here").strip()
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "your_youtube_api_key_here").strip()
 # =========================================================
 
+if TAVILY_API_KEY == "tvly-your_key_here":
+    sys.exit("TAVILY_API_KEY is not set -- check the repo's Actions secrets.")
+
 DATA_FOLDER = "data"
 os.makedirs(DATA_FOLDER, exist_ok=True)  # creates the folder if it doesn't exist yet
+
+# --- "Don't collect twice in a row" guard ---
+# GitHub starts scheduled jobs at unpredictable times, so the morning
+# collect and the evening report job can end up close together. When the
+# workflow sets COLLECT_MIN_GAP_HOURS (only for scheduled runs), a run
+# that finds a collection newer than that many hours exits immediately,
+# so Tavily searches are not wasted. Manual runs never set it, so a
+# button press always collects.
+LAST_COLLECT_FILE = os.path.join(DATA_FOLDER, "last_collect.txt")
+_gap = os.environ.get("COLLECT_MIN_GAP_HOURS", "").strip()
+if _gap:
+    try:
+        with open(LAST_COLLECT_FILE, "r", encoding="utf-8") as _f:
+            _last = datetime.fromisoformat(_f.read().strip())
+        if _last.tzinfo is None:
+            _last = _last.replace(tzinfo=timezone.utc)
+        _age_h = (datetime.now(timezone.utc) - _last).total_seconds() / 3600
+        if _age_h < float(_gap):
+            print(f"Skipping: data was collected {_age_h:.1f}h ago (minimum gap {_gap}h).")
+            sys.exit(0)
+    except (FileNotFoundError, ValueError):
+        pass  # no usable marker yet -> collect normally
 
 # 3 query VARIANTS per category, rotated day by day (see query_for_today
 # below). Instead of asking the exact same narrow question forever, each
@@ -120,7 +145,8 @@ def search_tavily(query, topic="general", max_results=5):
             "query": query,
             "topic": topic,
             "max_results": max_results
-        }
+        },
+        timeout=30  # a hung API must not hang the whole job indefinitely
     )
     response.raise_for_status()  # raises an error if the request failed
     return response.json().get("results", [])
@@ -131,7 +157,7 @@ def search_youtube(query, max_results=3):
         "part": "snippet", "q": query, "type": "video",
         "order": "date", "maxResults": max_results, "key": YOUTUBE_API_KEY
     }
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, timeout=30)
     if response.status_code != 200:
         return []
     items = response.json().get("items", [])
@@ -244,3 +270,7 @@ with open(filename, "a", encoding="utf-8") as f:
 
 print(f"\n[{timestamp}] Collected {len(collected)} new items across {len(CATEGORY_QUERY_VARIANTS)} categories "
       f"({skipped_duplicates} duplicates skipped) into {filename}")
+
+# Record when this collection finished (used by the guard above).
+with open(LAST_COLLECT_FILE, "w", encoding="utf-8") as f:
+    f.write(datetime.now(timezone.utc).isoformat())
