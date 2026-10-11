@@ -3,7 +3,7 @@ name: Hedwig Report
 # Evening report, with a safety net against GitHub's late scheduling.
 #
 # GitHub starts scheduled jobs late (sometimes hours), so instead of one
-# trigger there are THREE, an hour apart: 18:47, 19:47 and 20:47 IST. The
+# trigger there are THREE, two hours apart: 16:47, 18:47 and 20:47 IST. The
 # first one that actually starts writes the report. Later ones see that a
 # report was already made in the last 12 hours and stop within seconds
 # (they show up green and cost nothing). If a run fails, the next trigger
@@ -17,8 +17,8 @@ name: Hedwig Report
 # The "Run workflow" button always works and skips the 12-hour check.
 on:
   schedule:
+    - cron: "17 11 * * *"  # 11:17 UTC = 16:47 IST
     - cron: "17 13 * * *"  # 13:17 UTC = 18:47 IST
-    - cron: "17 14 * * *"  # 14:17 UTC = 19:47 IST
     - cron: "17 15 * * *"  # 15:17 UTC = 20:47 IST
   workflow_dispatch:
 
