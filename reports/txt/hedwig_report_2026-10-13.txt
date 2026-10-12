@@ -1,0 +1,124 @@
+Hedwig's 9 PM Intelligence Report - Tuesday, 13 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Google Summer of Code (GSoC) 2024 – Open Source Student Internship**  
+What happened: Google’s GSoC program invites students worldwide to work on open‑source projects with mentoring organizations for a three‑month paid stint. Over 18,000 students have participated since 2021.  
+Why you should care: As a Diploma IT student in India, GSoC offers real‑world coding experience, a stipend, and a pathway to become a long‑term open‑source contributor, strengthening your resume and network.  
+Impact: Medium  
+Source: Google Open Source Documentation  
+
+**PM launches Rs 1 Lakh Crore Research, Development and Innovation Scheme**  
+What happened: The Government of India announced a Rs 1 lakh crore scheme to fund research, development and innovation projects, including the establishment of about 10,000 Atal Tinkering Labs where over one crore school‑age children can conduct experiments.  
+Why you should care: As a Diploma IT student, you can access labs, mentorship and potential project funding that can strengthen your practical skills and enhance your résumé for future internships or startups.  
+Impact: Medium  
+Source: Department Of Science & Technology  
+
+**CERT‑In Issues Advisory on AI‑Driven Cyber Threats to Indian MSMEs**  
+What happened: CERT‑In released an urgent advisory warning that AI tools are enabling faster, scalable cyberattacks, especially targeting small and medium enterprises. The notice stresses patch management, timely updates, and comprehensive system logging to mitigate AI‑assisted exploits.  
+Why you should care: As a Diploma IT student, understanding these emerging AI‑based attack vectors is crucial for coursework, lab projects, and future job roles in network security or support for local businesses. Early familiarity with recommended defenses will give you a practical edge.  
+Impact: Medium  
+Source: DQIndia.
+
+## AI
+**Gemini Code Assist Introduces Enterprise‑Grade AI Coding Features**  
+What happened: Google announced Gemini Code Assist for teams, offering secure generative AI code suggestions, context‑aware completions, and integration with IDEs, with a free tier for individual developers.  
+Why you should care: As a Diploma IT student, you can access advanced AI‑driven code assistance at no cost, helping you understand large codebases and improve coding speed for projects and assignments.  
+Impact: Medium  
+Source: codeassist.google  
+
+**Cursor AI Coding Agent Expands Multi‑Agent Collaboration and Semantic Search**  
+What happened: Cursor released updates in 2026 adding secure codebase indexing, semantic search across repositories, and multi‑agent collaboration features to its AI coding platform.  
+Why you should care: These tools allow you to quickly navigate and query your project files, a practical aid for learning complex programming concepts and building portfolio projects.  
+Impact: Medium  
+Source: cursor.com  
+
+## Developer World
+**GitHub Actions – Integrated CI/CD for Code Repositories**  
+What happened: GitHub Actions provides built-in continuous integration and continuous deployment pipelines directly within GitHub, supporting automated builds, tests, and deployments for a variety of languages and cloud platforms.  
+Why you should care: As a Diploma IT student, you can set up end‑to‑end automation for class projects or internship tasks without installing separate servers, gaining hands‑on experience that aligns with industry DevOps practices.  
+Impact: Medium  
+Source: ELITEX  
+
+**Postman – API Testing and Collaboration Platform**  
+What happened: Postman offers a free tier for designing, testing, and documenting REST and SOAP APIs, with features for scripting test suites, environment variables, and team sharing.  
+Why you should care: Learning API testing is essential for backend development and integration projects; Postman's intuitive UI helps you validate endpoints quickly, a skill valued by employers and useful for college labs.  
+Impact: Medium  
+Source: NotHarshhaa GitHub Repository  
+
+## Cybersecurity
+**CERT‑In Issues Advisory on AI‑Driven Cyber Threats to Indian MSMEs**  
+What happened: CERT‑In released an urgent advisory warning that AI tools are enabling faster, scalable cyberattacks, especially targeting small and medium enterprises. The notice stresses patch management, timely updates, and comprehensive system logging to mitigate AI‑assisted exploits.  
+Why you should care: As a Diploma IT student, understanding these emerging AI‑based attack vectors is crucial for coursework, lab projects, and future job roles in network security or support for local businesses. Early familiarity with recommended defenses will give you a practical edge.  
+Impact: Medium  
+Source: DQIndia.  
+
+## India
+**PM launches Rs 1 Lakh Crore Research, Development and Innovation Scheme**  
+What happened: The Government of India announced a Rs 1 lakh crore scheme to fund research, development and innovation projects, including the establishment of about 10,000 Atal Tinkering Labs where over one crore school‑age children can conduct experiments.  
+Why you should care: As a Diploma IT student, you can access labs, mentorship and potential project funding that can strengthen your practical skills and enhance your résumé for future internships or startups.  
+Impact: Medium  
+Source: Department Of Science & Technology  
+
+**India rolls out world‑leading 50 % matching fund for semiconductor projects**  
+What happened: The federal government released a semiconductor investment package that provides a 50 percent “pari‑passu” matching fund to companies proposing projects, positioning it as the most generous such scheme globally.  
+Why you should care: The programme creates opportunities for hands‑on training, internships and research collaborations in chip design and fabrication—key growth areas for IT graduates seeking high‑tech employment.  
+Impact: Medium  
+Source: ITIF  
+
+## Learn
+**Harvard CS50 – Full Computer Science University Course**  
+What happened: Harvard University released the complete CS50 introductory computer science course online, covering programming fundamentals, algorithms, data structures, web development, and security.  
+Why you should care: Provides a comprehensive, accredited curriculum that aligns with Indian IT diploma syllabi, helping you build a strong foundation and a recognized certificate for job applications.  
+Impact: Medium  
+Source: YouTube – Harvard CS50 – Full Computer Science University Course  
+
+**Google AI Courses – Free Certificates for Engineering Students**  
+What happened: Google launched a series of free AI and machine‑learning courses, offering hands‑on labs and a certification upon completion.  
+Why you should care: Gives diploma students access to industry‑standard AI skills and a Google‑backed credential, enhancing employability in emerging tech roles.  
+Impact: Medium  
+Source: YouTube – Google AI Course FREE – Dinesh Sir Engineering  
+
+## Opportunities
+**Google Summer of Code (GSoC) 2024 – Open Source Student Internship**  
+What happened: Google’s GSoC program invites students worldwide to work on open‑source projects with mentoring organizations for a three‑month paid stint. Over 18,000 students have participated since 2021.  
+Why you should care: As a Diploma IT student in India, GSoC offers real‑world coding experience, a stipend, and a pathway to become a long‑term open‑source contributor, strengthening your resume and network.  
+Impact: Medium  
+Source: Google Open Source Documentation  
+
+**Google Developer Student Club (GDSC) Leads – India Class of 2022‑23 Applications Open**  
+What happened: Google has opened applications for GDSC lead positions at Indian universities, a role that involves organizing tech events, mentoring peers, and accessing Google resources.  
+Why you should care: Securing a lead position gives you leadership experience, exposure to emerging technologies, and the chance to build a tech community on campus—valuable for both learning and future job prospects.  
+Impact: Medium  
+Source: Google Blog (India)  
+
+## Events Near You
+No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+**Generate SDKs Instantly with liblab’s Free Tool**  
+What happened: liblab released a free online service that creates developer‑friendly SDKs in multiple programming languages from any API in about two minutes.  
+Why you should care: As a Diploma IT student, you can quickly produce client libraries for practice projects or coursework without writing boiler‑plate code, saving time and helping you learn API integration.  
+Impact: Low  
+Source: liblab (YouTube)  
+
+## Tech Outside AI
+**NVIDIA CUDA 13.4 Adds Windows on Arm Support**  
+What happened: NVIDIA released CUDA 13.4 with official support for running CUDA‑accelerated applications on Windows devices powered by Arm processors.  
+Why you should care: Enables Indian IT diploma students to experiment with AI and high‑performance computing on affordable Arm‑based laptops or development boards, expanding hands‑on experience beyond x86 PCs.  
+Impact: Medium  
+Source: tech‑insider.org  
+
+**Edge AI System‑on‑Chip (SoC) Market Update – New First‑Gen Edge AI SoC Launches**  
+What happened: Recent reports highlight the launch of first‑generation edge AI SoCs, such as Acrab’s Gelix 1, which combine CPU, GPU and NPU on a unified memory architecture for large AI models and agentic workloads.  
+Why you should care: Understanding these integrated chips helps diploma students grasp the hardware foundations of modern AI applications, informing project choices and future specialization in embedded AI development.  
+Impact: Medium  
+Source: fortunebusinessinsights.com
+
+## My Action for Tomorrow
+Enroll in the Google Summer of Code (GSoC) 2024 program by reviewing the eligibility criteria and preparing a project proposal draft.
+
+## If You Only Remember 3 Things
+- GSoC 2024 provides paid open‑source internship experience for Diploma IT students.  
+- The Rs 1 Lakh Crore R&D scheme creates Atal Tinkering Labs that you can leverage for projects and funding.  
+- CERT‑In warns of AI‑driven cyber threats; adopt patch management and logging practices now.
