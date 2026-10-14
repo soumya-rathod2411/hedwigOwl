@@ -1,0 +1,106 @@
+Hedwig's 9 PM Intelligence Report - Wednesday, 14 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Gartner warns of “agentic AI” expanding faster than security controls, creating new attack surfaces**  
+What happened: Gartner’s 2026 cybersecurity outlook highlights that employees and developers are rapidly deploying AI agents, no‑code/low‑code platforms, and “vibe coding” without adequate oversight, exposing organizations to unassessed risks.  
+Why you should care: Understanding these emerging vulnerabilities is essential for IT diploma students who will work with AI‑enhanced applications and need to design security controls for novel attack vectors.  
+Impact: Medium  
+Source: Quartz  
+
+**Oracle Database 23c Free – Developer Release Now Available**  
+What happened: Oracle has released a free “Developer Release” of Oracle Database 23c, offering early access to new application development features such as JSON Relational Duality that unifies document and relational data models.  
+Why you should care: As a Diploma IT student, you can download and experiment with a full‑featured enterprise‑grade RDBMS at no cost, gaining hands‑on experience with advanced SQL/JSON capabilities that are increasingly demanded in Indian IT projects.  
+Impact: Medium  
+Source: PR Newswire  
+
+**Free Generative AI Course with Certificate – Google Cloud via Simplilearn (SkillUP)**  
+What happened: Google Cloud, in partnership with Simplilearn’s SkillUP platform, launched a free introductory course on Generative AI that awards an official Google Cloud skill badge upon completion. The course covers fundamentals of generative AI, differences from traditional AI, and basics of large language models in a 45‑minute micro‑learning module.  
+Why you should care: The certificate is recognized by Indian IT recruiters and adds a cloud‑focused AI credential to a Diploma IT résumé, helping you stand out for entry‑level roles or internships that require basic AI knowledge.  
+Impact: Medium  
+Source: Simplilearn
+
+## AI
+- **Gartner warns of “agentic AI” expanding faster than security controls, creating new attack surfaces**  
+  What happened: Gartner’s 2026 cybersecurity outlook highlights that employees and developers are rapidly deploying AI agents, no‑code/low‑code platforms, and “vibe coding” without adequate oversight, exposing organizations to unassessed risks.  
+  Why you should care: Understanding these emerging vulnerabilities is essential for IT diploma students who will work with AI‑enhanced applications and need to design security controls for novel attack vectors.  
+  Impact: Medium  
+  Source: Quartz  
+
+- **IBM predicts AI chatbots and agents will become a prime target for infostealer malware in 2026**  
+  What happened: IBM’s 2026 cyber‑threat forecast notes that AI‑driven chatbots integrated into business workflows can store credentials, making compromised AI agents a new vector for malware theft.  
+  Why you should care: Learning how to secure AI integrations and protect credential storage will be a valuable skill for upcoming IT professionals in India’s growing AI services sector.  
+  Impact: Medium  
+  Source: IBM  
+
+## Developer World
+- **Oracle Database 23c Free – Developer Release Now Available**  
+  What happened: Oracle has released a free “Developer Release” of Oracle Database 23c, offering early access to new application development features such as JSON Relational Duality that unifies document and relational data models.  
+  Why you should care: As a Diploma IT student, you can download and experiment with a full‑featured enterprise‑grade RDBMS at no cost, gaining hands‑on experience with advanced SQL/JSON capabilities that are increasingly demanded in Indian IT projects.  
+  Impact: Medium  
+  Source: PR Newswire  
+
+- **Idera SQL Integrity Check – Free Tool for Detecting SQL Server Corruption**  
+  What happened: Idera announced a free utility, SQL Integrity Check, that scans Microsoft SQL Server databases for corruption and integrity issues.  
+  Why you should care: The tool allows students to learn best practices in database health monitoring and troubleshooting on SQL Server, a platform commonly used in Indian enterprises.  
+  Impact: Low  
+  Source: Marketwired  
+
+## Cybersecurity
+No relevant items to include.
+
+## India
+- **Decoding India’s DPDP Act: Your guide to protecting personal data**  
+  What happened: The Acronis blog published a concise 5‑minute guide explaining India’s Digital Personal Data Protection (DPDP) Act, 2023, its key provisions and the new implementing rules released in early 2026.  
+  Why you should care: Understanding DPDP compliance is essential for any IT student working on software development, data handling, or internships, as future employers will expect knowledge of data privacy obligations and best practices in India.  
+  Impact: Medium  
+  Source: Acronis Blog  
+
+## Learn
+- **Free Generative AI Course with Certificate – Google Cloud via Simplilearn (SkillUP)**  
+  What happened: Google Cloud, in partnership with Simplilearn’s SkillUP platform, launched a free introductory course on Generative AI that awards an official Google Cloud skill badge upon completion. The course covers fundamentals of generative AI, differences from traditional AI, and basics of large language models in a 45‑minute micro‑learning module.  
+  Why you should care: The certificate is recognized by Indian IT recruiters and adds a cloud‑focused AI credential to a Diploma IT résumé, helping you stand out for entry‑level roles or internships that require basic AI knowledge.  
+  Impact: Medium  
+  Source: Simplilearn  
+
+- **Free AI Certification Repository – GitHub “free‑ai‑certification”**  
+  What happened: A public GitHub repository curated by balavenkatesh3322 aggregates 100% free, high‑quality AI certifications from top universities, companies, and platforms, including Google Cloud’s Vertex AI badge, IBM AI Fundamentals badge, and others, with details on topics, duration, and enrollment links.  
+  Why you should care: The list provides a centralized, up‑to‑date source for finding free AI/ML certifications that can be completed alongside your diploma coursework, allowing you to earn multiple digital badges that enhance your skill set and employability.  
+  Impact: Medium  
+  Source: GitHub  
+
+## Opportunities
+No relevant items to include.
+
+## Events Near You
+- **Bharat Startup Summit 2026** – 28‑29 Nov 2026, Mahatma Mandir Convention & Exhibition Centre, Gandhinagar. A two‑day startup conference featuring networking, investor meetings and founder sessions. Registration details available on StartupMelas.in.  
+
+- **Entrepreneurs Meetup by We Founders Collab Ahmedabad 2026** – 2026 (date to be confirmed), Creative Infocity Limited, Gandhinagar. A meetup aimed at connecting entrepreneurs and tech professionals. Registration information posted on MeraEvents.  
+
+## Tools Worth Trying
+- **AI‑Powered VS Code Extension Boosts Developer Productivity**  
+  What happened: A new VS Code extension integrates Hugging Face models and GitHub Copilot, enabling AI‑driven code suggestions and rapid feature updates without waiting for VS Code releases.  
+  Why you should care: The tool lets Diploma‑level IT students accelerate coding tasks, experiment with AI models locally, and stay current with the latest productivity features—all free and compatible with standard development environments.  
+  Impact: Medium  
+  Source: YouTube (AI Dev Days video)  
+
+## Tech Outside AI
+- **Intel Announces Crescent Island AI Accelerator Powering New GPU D‑Series Products**  
+  What happened: Intel unveiled its Crescent Island AI accelerator, now integrated into the upcoming GPU D‑Series, delivering up to 1.3 PFLOPS of FP8 compute and 1.5 TB/s memory bandwidth.  
+  Why you should care: Understanding the capabilities of next‑gen AI accelerators helps IT diploma students grasp hardware trends that will influence future software development, cloud services, and edge AI projects in India.  
+  Impact: Medium  
+  Source: Tom’s Hardware  
+
+- **Microsoft Reveals Maia 300 AI Inference Chip for Data‑Center Use**  
+  What happened: Microsoft introduced the Maia 300 accelerator, claiming a 40 % improvement in token output per megawatt over GPUs, slated to run services like Microsoft 365 Copilot and GitHub Copilot from 2027.  
+  Why you should care: Familiarity with emerging proprietary AI silicon equips IT students to anticipate platform‑specific optimizations and potential career opportunities in cloud‑AI ecosystems.  
+  Impact: Medium  
+  Source: Quartz
+
+## My Action for Tomorrow
+Enroll in the free Google Cloud Generative AI course on the Simplilearn SkillUP platform and obtain the certification badge.
+
+## If You Only Remember 3 Things
+- Agentic AI is outpacing security controls; be prepared to address new attack surfaces.  
+- Oracle Database 23c Developer Release offers free, advanced SQL/JSON practice for students.  
+- A free Google Cloud Generative AI certification can boost employability in India’s AI job market.
