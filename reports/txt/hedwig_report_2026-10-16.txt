@@ -1,0 +1,117 @@
+Hedwig's 9 PM Intelligence Report - Friday, 16 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**IndiaAI Mission Allocates ₹1,000 Crore for Public AI Compute and Datasets**  
+What happened: The 2026 Union Budget earmarked ₹1,000 crore for the IndiaAI Mission, expanding public GPU compute capacity to over 38,000 GPUs and growing the IndiaAI Kosh repository to more than 14,000 datasets and 300 AI models.  
+Why you should care: Free or low‑cost high‑performance GPUs and a large curated dataset library enable Diploma IT students to run large‑scale AI experiments and complete capstone projects without personal hardware investment.  
+Impact: High  
+Source: Storyboard18  
+
+**Meta releases Muse Spark Open, an 816‑billion‑parameter open‑weight model for coding and agentic tasks**  
+What happened: Meta unveiled Muse Spark Open, its largest open‑weight AI model to date, optimized for software development and autonomous task execution, with weights publicly available and runnable on dual Apple M5 Ultra Mac Studios.  
+Why you should care: Access to a high‑capacity, code‑focused model lets Diploma IT students experiment with AI‑assisted programming tools, study large‑scale model architectures, and create custom agents without incurring API costs.  
+Impact: Medium  
+Source: Moneycontrol  
+
+**Google Cloud Code adds Gemini Code Assist for AI‑driven coding in VS Code and JetBrains IDEs**  
+What happened: Google Cloud integrated Gemini Code Assist into Cloud Code, providing AI‑powered code completion, code‑block generation from comments, and an in‑IDE chat assistant across VS Code, Cloud Workstations, and JetBrains IDEs.  
+Why you should care: The tool can accelerate development tasks, help students learn best‑practice coding patterns, and reduce debugging time, directly supporting project work and campus‑placement preparation.  
+Impact: Medium  
+Source: cloud.google.com/code
+
+## AI
+**Meta releases Muse Spark Open, an 816‑billion‑parameter open‑weight model for coding and agentic tasks**  
+What happened: Meta unveiled Muse Spark Open, the company’s largest open‑weight AI model to date, designed for software development and autonomous task execution. The model can run locally on dual Apple M5 Ultra Mac Studios and its weights are publicly available for developers.  
+Why you should care: Access to a high‑capacity, code‑focused model lets Diploma IT students experiment with building AI‑assisted programming tools, study large‑scale model architectures, and create custom agents without costly API fees.  
+Impact: Medium  
+Source: Moneycontrol  
+
+**TypeSafe AI launches Jev 1.14 with image handling, box‑type data and 262 k token context**  
+What happened: TypeSafe AI released version 1.14 of its Jev model, adding multimodal image inputs, a new “box” data type for structured information, and extending context length to 262 k tokens.  
+Why you should care: The expanded context and multimodal capabilities enable students to build more sophisticated AI applications—such as document analysis or visual‑code assistants—while learning to integrate varied data types into prompts.  
+Impact: Medium  
+Source: MarkTechPost  
+
+## Developer World
+**Versioned Graph Database on Object Storage – New 2026 Release**  
+What happened: A new graph database that stores its data on object storage was announced, featuring Git‑style workflows and multimodal retrieval capabilities, plus integration hooks for 17 platforms via MCP.  
+Why you should care: Enables Diploma IT students to experiment with scalable graph data handling using familiar version‑control concepts, useful for projects in data engineering, analytics, or AI‑driven applications without needing expensive on‑premise hardware.  
+Impact: Medium  
+
+**National Security Agency’s Ghidra Reverse Engineering Suite – Updated Release**  
+What happened: The NSA’s open‑source reverse engineering tool Ghidra received a significant update, enhancing its analysis features and adding new plugins for binary analysis.  
+Why you should care: Ghidra is free and widely used in cybersecurity curricula; the update provides better support for analyzing modern binaries, helping students develop practical reverse‑engineering and security skills relevant to internships and campus placements.  
+Impact: Medium  
+Source: trendshift.io; dice.com  
+
+## Cybersecurity
+**SAP October 2026 Security Patch Day fixes critical NetWeaver and S/4HANA vulnerabilities**  
+What happened: SAP released patches for two critical‑severity CVEs (CVE‑2026‑89107 and CVE‑2026‑89108) that could allow remote code execution and full system takeover in NetWeaver and S/4HANA environments.  
+Why you should care: Many Indian enterprises run SAP solutions; understanding these patches helps you secure internship projects, campus placements, or freelance work that involves SAP modules.  
+Impact: Medium  
+Source: SecurityWeek  
+
+**Unauthenticated file‑read vulnerability disclosed in eight Atlassian products**  
+What happened: A critical flaw lets attackers without credentials read arbitrary files on servers running Atlassian tools such as Confluence, Jira, and Bitbucket, exposing source code and configuration data.  
+Why you should care: Atlassian suites are widely used in Indian colleges and startups for project management and code hosting; knowing the issue and remediation steps prepares you for real‑world security audits and interview questions.  
+Impact: Medium  
+Source: The Hacker News  
+
+## India
+**IndiaAI Mission Allocates ₹1,000 Crore for Public AI Compute and Datasets**  
+What happened: The government’s IndiaAI Mission, launched in March 2024, received a dedicated ₹1,000 crore budget in the 2026 Union Budget, expanding public GPU compute capacity (over 38,000 GPUs provisioned by mid‑2026) and growing the IndiaAI Kosh repository to more than 14,000 datasets and 300 AI models.  
+Why you should care: Access to free or low‑cost high‑performance GPUs and a large curated dataset library can accelerate project work, capstone assignments, and self‑learning for a Diploma IT student without needing personal hardware investments.  
+Impact: Medium  
+Source: Storyboard18  
+
+**MeitY Budget Boost to ₹21,633 Crore Emphasizes AI and Semiconductor Development**  
+What happened: The 2026 Union Budget increased the Ministry of Electronics and Information Technology’s (MeitY) allocation to ₹21,633 crore, with a specific focus on AI research, semiconductor manufacturing, and display technology.  
+Why you should care: The expanded funding is expected to fund more internships, training programs, and industry‑academia collaborations in AI and chip design, creating new opportunities for practical experience and placement for IT diploma students.  
+Impact: Medium  
+Source: Storyboard18  
+
+## Learn
+**Free IT Certificate Courses on Alison** – Worth doing  
+What happened: Alison is offering free online IT and computing courses, including CompTIA A+ (Parts 1 & 2) and CompTIA Security+ (SY0‑501) prep, plus a Computer Networking module.  
+Why you should care: The courses align with industry‑standard certifications that are recognised by Indian employers and can strengthen a Diploma IT résumé.  
+Impact: Medium  
+Source: alison.com  
+
+**Free Computer Science Courses on Udemy (Updated October 2026)** – Worth doing  
+What happened: Udemy’s curated list features a range of free computer‑science tutorials covering programming, algorithms, data structures, and more, all with video content and certificates of completion.  
+Why you should care: These resources let a Diploma IT student quickly fill knowledge gaps without financial outlay, supporting coursework and project work.  
+Impact: Medium  
+Source: udemy.com  
+
+## Opportunities
+No candidate items fit this section.
+
+## Events Near You
+**FINMAT EXPO – GIFT City, Gandhinagar (13 Oct 2026)**  
+What happened: A finance‑focused exhibition featuring keynote sessions from industry experts and panel discussions on global financial trends and fintech innovation.  
+Why you should care: Offers exposure to the latest fintech developments and networking with potential employers or mentors relevant to IT and software development studies.  
+Impact: Medium  
+Source: startupgrantsindia.com  
+
+## Tools Worth Trying
+**Google Cloud Code adds Gemini Code Assist for AI‑driven coding in VS Code and JetBrains IDEs**  
+What happened: Google Cloud announced that Gemini Code Assist is now integrated into Cloud Code, offering AI‑powered code completion, code‑block generation from comments, and an in‑IDE chat assistant across Visual Studio Code, Cloud Workstations and JetBrains IDEs.  
+Why you should care: The tool can accelerate development tasks, help you learn best‑practice coding patterns, and reduce time spent debugging—useful for a Diploma IT student working on projects or preparing for campus placements.  
+Impact: Medium  
+Source: cloud.google.com/code  
+
+## Tech Outside AI
+**NVIDIA Expands CUDA‑X Libraries to Accelerate AI‑Driven Semiconductor Manufacturing**  
+What happened: NVIDIA announced new CUDA‑X libraries—including cuPotential, cuEST and cuDSS—adopted by leading chip‑design firms such as Synopsys, Cadence and Siemens, delivering up to 30× speed‑ups in simulation workloads.  
+Why you should care: Mastery of these GPU‑accelerated tools is increasingly required for modern hardware design and verification roles; exposure now can give a Diploma IT graduate a competitive edge for internships or entry‑level positions in India’s growing semiconductor ecosystem.  
+Impact: Medium  
+Source: EE Times Asia.
+
+## My Action for Tomorrow
+Set up a free Google Cloud Code environment and enable Gemini Code Assist to assist with a current programming assignment or project.
+
+## If You Only Remember 3 Things
+- IndiaAI Mission’s ₹1,000 crore budget unlocks public GPU compute and datasets for student AI work.  
+- Meta’s Muse Spark Open offers a massive, free, code‑focused model for building AI‑assisted tools.  
+- Google Cloud Code’s Gemini Code Assist can speed up coding and learning in VS Code or JetBrains IDEs.
