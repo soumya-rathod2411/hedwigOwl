@@ -1,0 +1,92 @@
+Hedwig's 9 PM Intelligence Report - Sunday, 18 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**React Native Full Course 2026 – Build, Publish and Monetize a Full‑Stack Mobile App**  
+What happened: A YouTube tutorial released in 2026 walks through React Native fundamentals, app development, publishing to the App Store, and monetization strategies.  
+Why you should care: Mastering React Native lets a Diploma IT student create cross‑platform mobile apps using JavaScript, a skill in demand for startups and IT firms across India.  
+Impact: Medium  
+Source: YouTube – JavaScript Mastery  
+
+**CERT‑In Alerts to Critical Remote‑Code‑Execution Flaws in Google Chrome**  
+What happened: CERT‑In released advisory CIVN‑2026‑0505 identifying multiple critical vulnerabilities in desktop Google Chrome that could allow attackers to execute arbitrary code, steal data, and gain elevated privileges.  
+Why you should care: Chrome is the default browser for many development and testing environments; patching promptly protects your development machines and any web‑based tools you use for coursework or internships.  
+Impact: Medium  
+What to do: Apply the latest Chrome security updates immediately and verify that automatic updates are enabled.  
+Source: CERT‑In advisory (CIAD‑2026‑0049), ET Edge Insights, TechGig.  
+
+**Google Announces India AI Hub in Visakhapatnam**  
+What happened: Google held a groundbreaking ceremony for a new India AI hub in Visakhapatnam, aimed at creating a national industrial ecosystem for artificial intelligence alongside India's digital infrastructure initiatives.  
+Why you should care: The hub is expected to foster AI research collaborations, provide training programs, and create internship opportunities that can enhance practical AI skills for IT diploma students in India.  
+Impact: Medium  
+Source: Google Cloud Press Corner
+
+## AI
+No items.
+
+## Developer World
+**React Native Full Course 2026 – Build, Publish and Monetize a Full‑Stack Mobile App**  
+What happened: A YouTube tutorial released in 2026 walks through React Native fundamentals, app development, publishing to the App Store, and monetization strategies.  
+Why you should care: Mastering React Native lets a Diploma IT student create cross‑platform mobile apps using JavaScript, a skill in demand for startups and IT firms across India.  
+Impact: Medium  
+Source: YouTube – JavaScript Mastery
+
+## Cybersecurity
+**CERT‑In Issues Critical Advisory on AI Agents Exploiting Indian ICT Assets**  
+What happened: CERT‑In warned that AI agents used in research and by financially motivated attackers accessed live systems of Indian organisations, exploiting exposed credentials, mis‑configured cloud roles and permissive settings to read business records and personal data.  
+Why you should care: As a Diploma IT student, you will likely work with cloud services and APIs; understanding AI‑driven attack vectors and tightening access controls is essential for securing future projects and complying with Indian regulations.  
+Impact: Medium  
+
+**CERT‑In Alerts to Critical Remote‑Code‑Execution Flaws in Google Chrome**  
+What happened: CERT‑In released advisory CIVN‑2026‑0505 identifying multiple critical vulnerabilities in desktop Google Chrome that could allow attackers to execute arbitrary code, steal data, and gain elevated privileges.  
+Why you should care: Chrome is the default browser for many development and testing environments; patching promptly protects your development machines and any web‑based tools you use for coursework or internships.  
+Impact: Medium  
+Source: CERT‑In advisory (CIAD‑2026‑0049), ET Edge Insights, TechGig.
+
+## India
+**Google Announces India AI Hub in Visakhapatnam**  
+What happened: Google held a groundbreaking ceremony for a new India AI hub in Visakhapatnam, aimed at creating a national industrial ecosystem for artificial intelligence alongside India's digital infrastructure initiatives.  
+Why you should care: The hub is expected to foster AI research collaborations, provide training programs, and create internship opportunities that can enhance practical AI skills for IT diploma students in India.  
+Impact: Medium  
+Source: Google Cloud Press Corner
+
+## Learn
+**No-Code AI Automation Full Course – Master the fundamentals from scratch**  
+What happened: A comprehensive YouTube masterclass by Vivek Mishra covering AI automation concepts, tools, and hands‑on projects without requiring programming.  
+Why you should care: Offers a free, beginner‑friendly pathway to acquire AI automation skills relevant for entry‑level IT roles and project work in Indian diploma programs.  
+Impact: Low  
+Source: YOUTUBE - Vivek Mishra
+
+## Opportunities
+**Open Source in India 2026 – GirlScript Summer of Code (GSSoC)**  
+What happened: GirlScript Summer of Code 2026 is a free, three‑month open‑source program (May – August) that welcomes beginners and advanced students, offering mentorship and beginner‑friendly issues across many projects.  
+Why you should care: Participating gives a Diploma IT student hands‑on coding experience, mentorship, and a resume‑worthy open‑source contribution record, all without any cost.  
+Impact: Medium  
+Source: gssoc.girlscript.org
+
+## Events Near You
+No events found in Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+No items.
+
+## Tech Outside AI
+**NVIDIA unveils RTX Spark chip for AI on Windows PCs**  
+What happened: NVIDIA announced the RTX Spark, an Arm‑based processor combining 6,144 CUDA cores with a 20‑core Arm Grace CPU, offering up to 1 PFLOP of FP4 AI performance and up to 128 GB unified memory.  
+Why you should care: The chip brings high‑performance AI inference to laptops and desktops, enabling local deployment of AI agents and tools without relying on cloud services—useful for project work and lab experiments in a Diploma IT curriculum.  
+Impact: Medium  
+Source: eciks.org  
+
+**Arm‑based Bluefield‑4 DPU boosts rack‑scale AI inference**  
+What happened: Arm’s Bluefield‑4 data‑processing unit, built on the Neoverse V2‑based Grace CPU, delivers up to six times the compute performance of its predecessor and introduces AI‑specific storage optimizations for rack‑scale inference.  
+Why you should care: Understanding DPU advancements helps you design efficient AI workloads for edge and data‑center environments, a skill increasingly demanded in Indian IT internships and campus projects.  
+Impact: Medium  
+Source: newsroom.arm.com
+
+## My Action for Tomorrow
+Update Chrome on your development workstation to the latest version and enable automatic security updates.
+
+## If You Only Remember 3 Things
+- React Native tutorial offers a practical path to cross‑platform app development with JavaScript.  
+- Critical Chrome RCE flaws demand immediate patching to keep development environments secure.  
+- Google’s new AI hub in Visakhapatnam will create AI training and internship opportunities for Indian IT students.
