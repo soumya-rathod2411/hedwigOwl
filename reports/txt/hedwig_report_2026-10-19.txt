@@ -1,0 +1,100 @@
+Hedwig's 9 PM Intelligence Report - Monday, 19 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**DeepSeek releases V4.1‑Flash‑1017 – free open‑weights model for developers**  
+What happened: DeepSeek launched the V4.1‑Flash‑1017 version of its V4 series, a high‑performance language model available for free download with open weights, priced at roughly $0.20 per inference task.  
+Why you should care: The model can be run locally on a mid‑range GPU (e.g., RTX 3060) and is suitable for experimenting with code generation, natural‑language tasks, and building agentic AI prototypes without incurring cloud costs—ideal for a Diploma IT student in India looking to build portfolio projects.  
+Impact: Medium  
+Source: YouTube – OmniTech Daily  
+
+**GitLab Releases Patches for Critical RCE Vulnerability (CVE‑2026‑97229)**  
+What happened: GitLab issued updates for its AI Gateway (versions 19.2.4, 19.3.2, 19.4.1) to fix a high‑severity remote code execution flaw that could let an authenticated user run arbitrary commands.  
+Why you should care: Many Indian colleges use GitLab for collaborative coding projects; unpatched servers expose student code and credentials to takeover.  
+Impact: Medium  
+Source: securityaffairs.com  
+
+**Government of India launches ‘YUVA AI for ALL’ – free national AI course**  
+What happened: The Ministry of Electronics & Information Technology (MeitY) released a free online course titled “YUVA AI for ALL” under the IndiaAI Mission, aimed at introducing artificial intelligence concepts to Indian youth.  
+Why you should care: The course provides a structured, government‑backed learning path covering AI fundamentals, suitable for Diploma IT students seeking to add AI knowledge without cost.  
+Impact: Medium  
+Source: Digital India
+
+## AI
+**DeepSeek releases V4.1‑Flash‑1017 – free open‑weights model for developers**  
+What happened: DeepSeek launched the V4.1‑Flash‑1017 version of its V4 series, a high‑performance language model available for free download with open weights, priced at roughly $0.20 per inference task.  
+Why you should care: The model can be run locally on a mid‑range GPU (e.g., RTX 3060) and is suitable for experimenting with code generation, natural‑language tasks, and building agentic AI prototypes without incurring cloud costs—ideal for a Diploma IT student in India looking to build portfolio projects.  
+Impact: Medium  
+Source: YouTube – OmniTech Daily  
+
+## Developer World
+No relevant items.
+
+## Cybersecurity
+**GitLab Releases Patches for Critical RCE Vulnerability (CVE‑2026‑97229)**  
+What happened: GitLab issued updates for its AI Gateway (versions 19.2.4, 19.3.2, 19.4.1) to fix a high‑severity remote code execution flaw that could let an authenticated user run arbitrary commands.  
+Why you should care: Many Indian colleges use GitLab for collaborative coding projects; unpatched servers expose student code and credentials to takeover.  
+Impact: Medium  
+Source: securityaffairs.com  
+
+**Atlassian Warns of Critical File‑Access Flaw in Jira, Confluence, Bitbucket (CVE‑2026‑21589)**  
+What happened: Atlassian disclosed a vulnerability that permits arbitrary file access in self‑hosted Data Center editions of Jira, Confluence and Bitbucket, requiring only knowledge of target file paths.  
+Why you should care: These tools are widely deployed in Indian IT labs and internships; exploitation could lead to leakage of project files, assignment data, or deployment scripts.  
+Impact: Medium  
+Source: bleepingcomputer.com  
+
+## India
+**Government of India launches ‘YUVA AI for ALL’ – free national AI course**  
+What happened: The Ministry of Electronics & Information Technology (MeitY) released a free online course titled “YUVA AI for ALL” under the IndiaAI Mission, aimed at introducing artificial intelligence concepts to Indian youth.  
+Why you should care: The course provides a structured, government‑backed learning path covering AI fundamentals, suitable for Diploma IT students seeking to add AI knowledge without cost.  
+Impact: Medium  
+Source: Digital India  
+
+**IndiaAI Innovation Challenge 2024 – national AI competition**  
+What happened: The Software Technology Parks of India (STPI) announced the IndiaAI Innovation Challenge 2024, a competition encouraging startups and students to develop AI solutions aligned with the IndiaAI Mission’s goals of ethical, responsible AI and societal impact.  
+Why you should care: Participation offers Diploma IT students hands‑on experience, networking with industry mentors, and potential access to funding or incubation through STPI’s investor connections.  
+Impact: Medium  
+Source: STPI  
+
+## Learn
+**Free 10‑Hour AI Course with Certificate – AI Skills Passport by Microsoft & EY**  
+What happened: Microsoft and EY launched a free, approximately 10‑hour artificial‑intelligence course that awards a certificate on completion.  
+Why you should care: The curriculum covers core AI concepts and hands‑on tools useful for diploma‑level IT projects and campus placements, and the certificate adds a recognised credential to your resume.  
+Impact: Medium  
+Source: YouTube – Sakshi Mutha  
+
+**Free Udemy Courses for First‑Year Engineering Students**  
+What happened: A curated list of free Udemy courses targeting essential technical skills—such as programming, data structures, and software tools—has been shared for first‑year engineering students.  
+Why you should care: These courses provide immediate, practical learning resources without cost, helping you build a strong foundation for later semesters and internship interviews.  
+Impact: Medium  
+Source: YouTube – Dinesh Sir Counseling  
+
+## Opportunities
+No relevant items.
+
+## Events Near You
+No in‑person tech events found in Gandhinagar, Ahmedabad, or GIFT City.
+
+## Tools Worth Trying
+No relevant items.
+
+## Tech Outside AI
+**Nvidia Launches Open Agent Safety Platform**  
+What happened: Nvidia introduced the Open Agent Safety Platform, a containment system that acts like a “browser for agents,” restricting AI agents to only the resources they need and preventing sandbox breakouts.  
+Why you should care: Understanding AI safety frameworks is increasingly important for IT students, and the platform’s open‑source nature offers a real‑world example to study for coursework on AI security and system design.  
+Impact: Medium  
+Source: CNBC  
+
+**Microsoft Unveils All‑In‑One Copilot App**  
+What happened: Microsoft released an integrated Copilot application that combines AI assistance with full versions of Word, Excel, and PowerPoint, allowing users to create and edit documents within a single AI‑driven interface.  
+Why you should care: The app showcases practical AI integration into everyday productivity tools, providing a hands‑on example for students learning about AI‑enhanced software development and enterprise solutions.  
+Impact: Medium  
+Source: GeekWire
+
+## My Action for Tomorrow
+Download and install the DeepSeek V4.1‑Flash‑1017 model on a local GPU, then run a simple code‑generation prompt to evaluate its suitability for your upcoming project.
+
+## If You Only Remember 3 Things
+- DeepSeek’s free V4.1‑Flash‑1017 model enables low‑cost AI experimentation on a mid‑range GPU.  
+- Patch GitLab AI Gateway immediately to protect collaborative student projects from remote code execution.  
+- Enroll in the government‑backed “YUVA AI for ALL” course for structured, cost‑free AI education.
