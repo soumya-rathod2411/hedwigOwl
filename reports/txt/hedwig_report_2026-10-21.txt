@@ -1,0 +1,100 @@
+Hedwig's 9 PM Intelligence Report - Wednesday, 21 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**AI Coding Assistants: Complete Guide and Best Practices (2026)**  
+What happened: A comprehensive article outlines how AI coding assistants integrate with IDEs, using large language models to provide real‑time code suggestions, explanations, and debugging help. It covers setup, workflow integration, and best practice tips.  
+Why you should care: mastering these tools can accelerate project development, improve code quality, and prepare you for industry expectations where AI‑assisted programming is becoming standard.  
+Impact: Medium  
+Source: Nexapp.ca  
+
+**CERT‑In AI Agents Advisory (CIAD‑2026‑0049) – Critical warning on AI‑driven attacks**  
+What happened: On 15 Oct 2026 India’s CERT‑In issued a critical advisory highlighting that AI agents are exploiting exposed passwords, API keys and over‑permissive cloud roles to infiltrate Indian organisations, moving from initial access to damage within hours.  
+Why you should care: As a Diploma IT student, understanding this new attack vector is essential for labs and projects involving cloud services, DevOps pipelines, and AI tool integration, ensuring you adopt strict credential hygiene and role‑based access controls early.  
+Impact: Medium  
+Source: affixcenter.com  
+
+**Google Summer of Code (GSO​C) 2024 – Paid Open‑Source Internship for Students**  
+What happened: Google announced the 2024 edition of its annual Google Summer of Code program, offering selected undergraduate students a 12‑week paid internship to contribute to open‑source projects. Applications open in March and close in early April.  
+Why you should care: Participation provides hands‑on development experience, mentorship from industry engineers, and a stipend that can support tuition or living costs—valuable for a Diploma IT student from a Tier‑3 college seeking real‑world coding exposure.  
+Impact: Medium  
+Source: YouTube video (How to start with Open Source software contributions?)
+
+## AI
+**AI Coding Assistants: Complete Guide and Best Practices (2026)**  
+What happened: A comprehensive article outlines how AI coding assistants integrate with IDEs, using large language models to provide real‑time code suggestions, explanations, and debugging help. It covers setup, workflow integration, and best practice tips.  
+Why you should care: mastering these tools can accelerate project development, improve code quality, and prepare you for industry expectations where AI‑assisted programming is becoming standard.  
+Impact: Medium  
+Source: Nexapp.ca  
+
+## Developer World
+No relevant items.
+
+## Cybersecurity
+**CERT‑In AI Agents Advisory (CIAD‑2026‑0049) – Critical warning on AI‑driven attacks**  
+What happened: On 15 Oct 2026 India’s CERT‑In issued a critical advisory highlighting that AI agents are exploiting exposed passwords, API keys and over‑permissive cloud roles to infiltrate Indian organisations, moving from initial access to damage within hours.  
+Why you should care: As a Diploma IT student, understanding this new attack vector is essential for labs and projects involving cloud services, DevOps pipelines, and AI tool integration, ensuring you adopt strict credential hygiene and role‑based access controls early.  
+Impact: Medium  
+Source: affixcenter.com  
+
+**EU CERT‑E advisory on unpatched PHP vulnerabilities – sites urged offline**  
+What happened: On 21 Oct 2026 the EU’s CERT‑E warned that two critical PHP flaws remain unpatched on many websites; organisations unable to patch promptly should consider taking affected sites offline to prevent compromise.  
+Why you should care: PHP remains widely taught and used in Indian web‑development curricula; learning how to monitor, patch, and mitigate such vulnerabilities is directly applicable to coursework and future internships.  
+Impact: Medium  
+Source: thenextweb.com  
+
+## India
+No relevant items.
+
+## Learn
+**Introduction to C Programming – Fundamentals in Programming Languages**  
+What happened: A free YouTube tutorial by Pradeep Giri Academy covers the basics of C programming, including syntax, data types, control structures, and simple program examples.  
+Why you should care: C remains a core language for hardware interfacing, embedded systems, and many IT curricula in India; mastering its fundamentals strengthens a Diploma IT student's foundation for later courses and job tasks.  
+Impact: Low  
+Source: YOUTUBE - Pradeep Giri Academy  
+
+## Opportunities
+**Google Summer of Code (GSO​C) 2024 – Paid Open‑Source Internship for Students**  
+What happened: Google announced the 2024 edition of its annual Google Summer of Code program, offering selected undergraduate students a 12‑week paid internship to contribute to open‑source projects. Applications open in March and close in early April.  
+Why you should care: Participation provides hands‑on development experience, mentorship from industry engineers, and a stipend that can support tuition or living costs—valuable for a Diploma IT student from a Tier‑3 college seeking real‑world coding exposure.  
+Impact: Medium  
+Source: YouTube video (How to start with Open Source software contributions?)  
+
+**MLH Fellowship – Remote Software Engineering Fellowship (2024 Cohort)**  
+What happened: The Major League Hacking (MLH) Fellowship launched its 2024 remote cohort, a 12‑week intensive program where students work on real projects, receive mentorship, and earn a certificate. Applications are open now and close in early May.  
+Why you should care: The fellowship offers structured training, networking with tech companies, and portfolio‑building projects that enhance employability for IT diploma graduates in India.  
+Impact: Medium  
+Source: YouTube video (How to start with Open Source software contributions?)  
+
+## Events Near You
+No in‑person tech events found in Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+No relevant items.
+
+## Tech Outside AI
+**Arm Announces New Edge AI Platform “Compute Subsystems” for Mobile Devices**  
+What happened: Arm unveiled its next‑generation edge AI platform, Arm Compute Subsystems (CSS) for Mobile 2, targeting physical AI workloads across data‑center and edge devices.  
+Why you should care: The platform introduces a standardized hardware‑software stack that can simplify AI accelerator integration for student projects and future employment in IoT or embedded systems, aligning with core IT curriculum topics.  
+Impact: Low  
+Source: Investor's Business Daily  
+
+**Global semiconductor revenue surges 31% to record $425 billion in Q2 2026**  
+What happened: Omdia reports that worldwide semiconductor sales jumped 31.4% quarter‑over‑quarter, reaching $425 billion in Q2 2026 and projected to exceed $500 billion in Q3 2026.  
+Why you should care: The rapid growth signals strong demand for hardware and embedded systems skills, making semiconductor knowledge valuable for future IT projects and job prospects in India’s expanding tech sector.  
+Impact: Low  
+Source: Light Reading  
+
+**Semiconductor sector study 2023 – UK government publication**  
+What happened: The UK government’s study identified 623 semiconductor companies, with 615 operating in 65 countries; 33% of international sites are in the US, and India ranks among the top locations.  
+Why you should care: Highlights India’s role in the global semiconductor supply chain, suggesting potential internship, training, or employment opportunities for students interested in hardware design or chip manufacturing.  
+Impact: Low  
+Source: GOV.UK
+
+## My Action for Tomorrow
+Create an account on the Google Summer of Code portal and begin drafting a project proposal aligned with your current skill set.
+
+## If You Only Remember 3 Things
+- AI coding assistants are now standard tools; integrate them into your IDE to boost productivity.  
+- AI‑driven cyber threats are targeting cloud credentials; enforce strict access controls in all lab work.  
+- Google Summer of Code offers a paid, mentorship‑rich pathway to real‑world open‑source experience—apply promptly.
