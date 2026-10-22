@@ -96,5 +96,12 @@
     "txt": "hedwig_report_2026-10-21.txt",
     "generated_at": "2026-10-21T21:30:00.903111+05:30",
     "preview": "AI Coding Assistants: Complete Guide and Best Practices (2026)**"
+  },
+  {
+    "date": "2026-10-22",
+    "pdf": "hedwig_report_2026-10-22.pdf",
+    "txt": "hedwig_report_2026-10-22.txt",
+    "generated_at": "2026-10-22T21:25:40.350348+05:30",
+    "preview": "Critical PHP \u201cphp2shell\u201d RCE Vulnerabilities Prompt Immediate Patch**"
   }
 ]

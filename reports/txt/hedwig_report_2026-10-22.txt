@@ -1,0 +1,106 @@
+Hedwig's 9 PM Intelligence Report - Thursday, 22 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Critical PHP “php2shell” RCE Vulnerabilities Prompt Immediate Patch**  
+What happened: Two unauthenticated remote‑code‑execution flaws in PHP (CVE‑2026‑109618 and CVE‑2026‑109619), dubbed “php2shell,” were disclosed on 21 Oct 2026, affecting all PHP 5+ versions; patches were released in PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35.  
+Why you should care: Most web‑development projects in Indian diploma IT curricula use PHP; unpatched installations can be compromised, leading to loss of data, reputation, and potential legal issues for student projects or internships.  
+Impact: Medium  
+What to do: Verify your development environment’s PHP version and upgrade immediately to one of the patched releases; review any live‑site deployments and apply the update before the next build.  
+Source: Wiz Blog (php2shell vulnerability report).  
+
+**IndiaAI Mission expands GPU compute access for researchers and startups**  
+What happened: The government’s IndiaAI Mission announced the deployment of large‑scale AI compute infrastructure, making thousands of GPU units and foundational model resources publicly available to Indian developers and research teams.  
+Why you should care: Access to high‑performance GPUs removes a major cost barrier, enabling Diploma‑level IT students to train and experiment with modern AI models locally or via cloud portals, directly supporting project work and internships.  
+Impact: Medium  
+Source: ETGovernment  
+
+**Intel’s AI‑chip revenue jumps 230% as the market shifts toward AI accelerators**  
+What happened: Intel reported a 230% surge in AI‑chip revenue, highlighting rapid growth in demand for AI accelerators and positioning the company as a major player alongside rivals such as AMD.  
+Why you should care: The rapid expansion of AI‑chip demand signals strong industry hiring for software developers, firmware engineers, and system integrators—areas where a Diploma IT graduate can seek entry‑level roles or project work.  
+Impact: Medium  
+Source: TickerOn (tickeron.com)
+
+## AI
+**Recursive Releases Flint, an Open‑Weight 40B MoE Local Coding Model for Agents**  
+What happened: Recursive launched “Flint,” an open‑weight 40 billion‑parameter model with 2.5 billion active parameters designed for local agentic coding tasks.  
+Why you should care: The model is freely downloadable and can run on commodity GPUs, offering Diploma IT students hands‑on experience building and testing AI agents without relying on cloud APIs.  
+Impact: Medium  
+Source: MarkTechPost  
+
+**Oracle Extends Fusion Agentic Applications with Introduction of Fusion Claw**  
+What happened: Oracle announced the Fusion Claw extension, adding simulation, modeling, and continuous re‑planning capabilities to its suite of 75 agentic applications.  
+Why you should care: The announcement includes new APIs and SDKs that students can explore to understand how enterprise‑grade AI agents integrate with business processes, providing practical material for project work or internships.  
+Impact: Medium  
+Source: Oracle News  
+
+## Developer World
+No items to report.
+
+## Cybersecurity
+**Critical PHP “php2shell” RCE Vulnerabilities Prompt Immediate Patch**  
+What happened: Two unauthenticated remote‑code‑execution flaws in PHP (CVE‑2026‑109618 and CVE‑2026‑109619), dubbed “php2shell,” were disclosed on 21 Oct 2026, affecting all PHP 5+ versions; patches were released in PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35.  
+Why you should care: Most web‑development projects in Indian diploma IT curricula use PHP; unpatched installations can be compromised, leading to loss of data, reputation, and potential legal issues for student projects or internships.  
+Impact: Medium  
+What to do: Verify your development environment’s PHP version and upgrade immediately to one of the patched releases; review any live‑site deployments and apply the update before the next build.  
+Source: Wiz Blog (php2shell vulnerability report).  
+
+## India
+**IndiaAI Mission expands GPU compute access for researchers and startups**  
+What happened: The government’s IndiaAI Mission announced the deployment of large‑scale AI compute infrastructure, making thousands of GPU units and foundational model resources publicly available to Indian developers and research teams.  
+Why you should care: Access to high‑performance GPUs removes a major cost barrier, enabling Diploma‑level IT students to train and experiment with modern AI models locally or via cloud portals, directly supporting project work and internships.  
+Impact: Medium  
+Source: ETGovernment  
+
+**National AI skilling initiatives launch under FutureSkills pillar**  
+What happened: The Ministry of Skill Development and Entrepreneurship rolled out several AI training programs, including the SOAR – Skilling for AI Readiness course, a partnership with Microsoft for cloud‑based AI labs, and targeted AI career tracks for women under TechSaksham 2.0.  
+Why you should care: These free or low‑cost certifications provide structured learning paths and hands‑on labs that align with industry‑required AI skills, helping Diploma IT students boost employability and qualify for AI‑related internships.  
+Impact: Medium  
+Source: OpenGov Asia  
+
+## Learn
+**5 Free Google AI Courses With Certificates** – Worth doing  
+What happened: Google has released five online artificial‑intelligence courses, each offering a completion certificate at no cost. The courses cover fundamentals of machine learning, TensorFlow, AI ethics, and building AI‑powered applications.  
+Why you should care: As a Diploma IT student, gaining recognized AI credentials can strengthen your résumé, supplement your core curriculum, and prepare you for entry‑level roles in data science or AI development.  
+Impact: Medium  
+Source: YouTube – Future with Nidhi  
+
+**Jio Free AI Course with Certificate** – Worth doing  
+What happened: Jio has launched a free artificial‑intelligence training program for Indian learners, providing video lessons, hands‑on labs, and a certificate upon completion. The curriculum includes Python for AI, basic machine‑learning concepts, and practical projects.  
+Why you should care: The course is tailored for Indian students, requires no prior subscription, and adds a locally‑recognized certification that can be cited in job applications or internships.  
+Impact: Medium  
+Source: YouTube – DigiTatva  
+
+## Opportunities
+**Goldman Sachs India Hackathon 2026**  
+What happened: Goldman Sachs is hosting a 12‑hour, two‑day coding hackathon in India for undergraduates, offering tracks in Computer Science and Quantitative fields where participants solve real‑world financial and tech problems.  
+Why you should care: Participating gives a Diploma IT student practical experience with industry‑level challenges, exposure to financial tech, and a chance to network with recruiters from a global firm.  
+Impact: Medium  
+Source: Goldman Sachs India Hackathon 2026 – goldmansachs.com  
+
+## Events Near You
+No in‑person tech events were found in Gandhinagar, Ahmedabad, or GIFT City for the specified timeframe.
+
+## Tools Worth Trying
+No items to report.
+
+## Tech Outside AI
+**Samsung Electro‑Mechanics partners with NVIDIA to build AI‑chip substrate line in South Korea**  
+What happened: Samsung Electro‑Mechanics and NVIDIA announced a multiyear agreement to construct a dedicated production line for advanced semiconductor substrates that will supply NVIDIA’s AI processors and networking chips.  
+Why you should care: Understanding the supply chain for AI hardware gives IT diploma students insight into emerging job roles in semiconductor manufacturing, AI‑accelerator design, and potential internship or entry‑level positions with Korean component makers expanding globally.  
+Impact: Medium  
+Source: Financial News (fnnews.com)  
+
+**Intel’s AI‑chip revenue jumps 230% as the market shifts toward AI accelerators**  
+What happened: Intel reported a 230% surge in AI‑chip revenue, highlighting rapid growth in demand for AI accelerators and positioning the company as a major player alongside rivals such as AMD.  
+Why you should care: The rapid expansion of AI‑chip demand signals strong industry hiring for software developers, firmware engineers, and system integrators—areas where a Diploma IT graduate can seek entry‑level roles or project work.  
+Impact: Medium  
+Source: TickerOn (tickeron.com)
+
+## My Action for Tomorrow
+Upgrade the PHP installation on your development machine to the latest patched version (PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35) and verify the fix.
+
+## If You Only Remember 3 Things
+- Apply the PHP php2shell patches immediately to protect all current projects.  
+- Leverage the new IndiaAI GPU compute resources for hands‑on AI training.  
+- Monitor AI‑chip market growth; Intel’s surge indicates expanding job opportunities for Diploma IT graduates.
