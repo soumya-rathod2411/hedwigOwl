@@ -103,5 +103,12 @@
     "txt": "hedwig_report_2026-10-22.txt",
     "generated_at": "2026-10-22T21:25:40.350348+05:30",
     "preview": "Critical PHP \u201cphp2shell\u201d RCE Vulnerabilities Prompt Immediate Patch**"
+  },
+  {
+    "date": "2026-10-23",
+    "pdf": "hedwig_report_2026-10-23.pdf",
+    "txt": "hedwig_report_2026-10-23.txt",
+    "generated_at": "2026-10-23T21:17:11.239572+05:30",
+    "preview": "PyTorch FlexAttention Cuts Graph AI Memory Use by 65%**"
   }
 ]
