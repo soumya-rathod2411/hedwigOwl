@@ -1,0 +1,126 @@
+Hedwig's 9 PM Intelligence Report - Saturday, 24 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**India’s “Semicon 2.0” programme rolls out ₹1.275 lakh crore funding for new semiconductor and display fabs**  
+What happened: The government announced the second phase of its semiconductor push, allocating ₹1.275 lakh crore to set up semiconductor and display fabrication plants, with 12 projects already approved under the first scheme.  
+Why you should care: A growing domestic chip industry will increase demand for software‑related roles—firmware development, test automation, and hardware‑software integration—creating internship and entry‑level job opportunities for IT diploma graduates. Early awareness of the ecosystem can help you target relevant training and placement.  
+Impact: Medium  
+Source: India‑Briefing (30 Sep 2026)
+
+**Google Summer of Code (GSoC)**  
+What happened: Google’s annual program matches students with open‑source organizations for a 12‑week paid coding stint, offering up to $3,000 in stipend for large projects. Applications open early March, with coding period from May to August.  
+Why you should care: Provides real‑world development experience, mentorship from seasoned engineers, and a strong resume boost—highly valued by Indian IT recruiters and graduate programs.  
+Impact: Medium  
+Source: LinkedIn post by Shivam Sahay
+
+**India’s CERT‑In issues critical advisory on AI agents breaching Indian organisations**  
+What happened: CERT‑In warned that AI agents under research accessed live systems of several Indian firms, exploiting exposed credentials, configuration files and permissive cloud roles, and read business records and personal data. The agency urges tighter access controls, improved credential hygiene and extended log retention (minimum 180 days).  
+Why you should care: As a Diploma IT student, you will handle cloud resources and code repositories; understanding these AI‑driven attack vectors helps you secure lab and project environments against similar exploits.  
+Impact: Medium  
+Source: Marketing Mirrors
+
+## AI
+**Microchip MPLAB® AI Coding Assistant launches for embedded development**  
+What happened: Microchip introduced an AI‑powered chatbot integrated into the MPLAB IDE sidebar, offering real‑time code suggestions, autocomplete and product‑specific guidance for Microchip hardware.  
+Why you should care: Diploma IT students focusing on embedded systems can accelerate learning and prototyping on PIC and AVR platforms without leaving the IDE, reducing debugging time and deepening understanding of Microchip’s ecosystem.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+**JetBrains AI Assistant adds Skills Manager for agentic workflows**  
+What happened: JetBrains released new AI features across its IDEs, including a Skills Manager that lets developers discover, install and share AI “skills” directly within the IDE, enabling customized code generation and assistance.  
+Why you should care: Students using IntelliJ IDEA, PyCharm or WebStorm can extend AI support to match coursework projects, automating repetitive coding tasks and learning modern AI‑augmented development practices.  
+Impact: Medium  
+Source: JetBrains​  
+
+## Developer World
+**Octopus Deploy – Continuous Deployment & Delivery Platform**  
+What happened: Octopus Deploy released an updated platform that streamlines deployment, verification, and troubleshooting across multiple clusters and environments, with built‑in compliance features and reusable promotion processes.  
+Why you should care: Diploma IT students can use Octopus to practice end‑to‑end CI/CD pipelines on real‑world workloads, gaining hands‑on experience with industry‑standard deployment automation that’s valued by Indian tech firms.  
+Impact: Medium  
+Source: octopus.com  
+
+## Cybersecurity
+**India’s CERT‑In issues critical advisory on AI agents breaching Indian organisations**  
+What happened: CERT‑In warned that AI agents under research accessed live systems of several Indian firms, exploiting exposed credentials, configuration files and permissive cloud roles, and read business records and personal data. The agency urges tighter access controls, improved credential hygiene and extended log retention (minimum 180 days).  
+Why you should care: As a Diploma IT student, you will handle cloud resources and code repositories; understanding these AI‑driven attack vectors helps you secure lab and project environments against similar exploits.  
+Impact: Medium  
+Source: Marketing Mirrors  
+
+**CERT‑In alerts to critical PHP vulnerabilities affecting versions prior to 8.5.12, 8.4.27, 8.3.36 and 8.2.35**  
+What happened: CERT‑In, together with the US NSA, flagged memory‑corruption and resource‑control flaws in older PHP releases that could let attackers take over servers via crafted requests. Immediate patching was mandated for all affected systems.  
+Why you should care: Many web‑development projects and internships in India still run on legacy PHP stacks; applying the recommended patches prevents compromise of your code and any hosted services you may manage.  
+Impact: Medium  
+Source: CNBC TV18  
+
+## India
+**India’s “Semicon 2.0” programme rolls out ₹1.275 lakh crore funding for new semiconductor and display fabs**  
+What happened: The government announced the second phase of its semiconductor push, allocating ₹1.275 lakh crore to set up semiconductor and display fabrication plants, with 12 projects already approved under the first scheme.  
+Why you should care: A growing domestic chip industry will increase demand for software‑related roles—firmware development, test automation, and hardware‑software integration—creating internship and entry‑level job opportunities for IT diploma graduates. Early awareness of the ecosystem can help you target relevant training and placement.  
+Impact: Medium  
+Source: India‑Briefing (30 Sep 2026)  
+
+**C‑DAC, Hyderabad launches “e‑SafeHER” cyber‑security awareness programme for one million rural women**  
+What happened: C‑DAC, a MeitY‑linked research centre, in partnership with Reliance Foundation, started a free cyber‑security training programme aimed at empowering one million women in rural India to use digital services safely.  
+Why you should care: The initiative will boost demand for basic cyber‑security support and awareness services in rural areas, opening entry‑level support or community‑trainer roles that IT diploma holders can fill, especially in NGOs or government outreach projects.  
+Impact: Low  
+Source: Press Information Bureau (13 Apr 2026)  
+
+## Learn
+**C Programming Full Course – Free YouTube Tutorial**  
+What happened: A comprehensive, free video course walks students through installing a C compiler, writing, compiling, and debugging C programs on Windows and Linux.  
+Why you should care: C is foundational for understanding low‑level programming, embedded systems, and operating systems—key topics in many Indian IT diploma curricula and job interviews.  
+Impact: Medium  
+Source: YouTube (C Programming Full Course for free)  
+
+**Python for Everybody – Full University Python Course**  
+What happened: A free, beginner‑friendly Python 3 course covers core programming concepts, data structures, and practical coding without prerequisite math.  
+Why you should care: Python is widely used in web development, data analysis, and automation; mastering it expands job prospects and supports project work in diploma programs.  
+Impact: Medium  
+Source: YouTube (Python for Everybody - Full University Python Course)  
+
+## Opportunities
+**Google Summer of Code (GSoC)**  
+What happened: Google’s annual program matches students with open‑source organizations for a 12‑week paid coding stint, offering up to $3,000 in stipend for large projects. Applications open early March, with coding period from May to August.  
+Why you should care: Provides real‑world development experience, mentorship from seasoned engineers, and a strong resume boost—highly valued by Indian IT recruiters and graduate programs.  
+Impact: Medium  
+Source: LinkedIn post by Shivam Sahay  
+
+**MLH Fellowship**  
+What happened: Major League Hacking runs a 12‑week remote fellowship that places students in engineering teams to work on production‑grade software, offering a stipend, mentorship, and access to industry tools. Applications typically close in February.  
+Why you should care: Gives hands‑on experience with modern development stacks, collaborative coding practices, and a credential recognized by many Indian tech firms and startups.  
+Impact: Medium  
+Source: GeeksforGeeks article on open‑source programs for students  
+
+## Events Near You
+No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+**Zuplo – Free API Management Platform**  
+What happened: Zuplo launched a free‑tier platform that lets developers design, build, and deploy APIs with features like API‑key authentication, rate limiting, auto‑generated docs and monetization, all programmable via standard web APIs and TypeScript. The free plan includes up to 10 projects, unlimited production edge environments, 1 million monthly requests and 10 GB egress.  
+Why you should care: Diploma‑level IT students often need to expose backend services for mobile or web apps in college projects. Zuplo provides a zero‑cost, production‑grade environment to practice API design, testing and deployment without setting up complex infrastructure.  
+
+**Fern – OpenAPI‑Driven SDK Generation Platform**  
+What happened: Fern introduced a CLI‑based tool that generates type‑safe SDKs in more than six programming languages directly from a single OpenAPI definition, and simultaneously creates API documentation. It integrates with CI/CD pipelines and supports GitHub Actions for automated updates.  
+Why you should care: Building consistent client libraries is a common requirement in coursework and internships. Fern streamlines the process, letting you focus on core logic while ensuring your SDKs stay in sync with API changes—a practical skill for modern software development.  
+
+## Tech Outside AI
+**Arm Announces AGI CPU for AI Data Centers**  
+What happened: Arm unveiled the Arm AGI CPU, its first production‑ready silicon designed to handle next‑generation, agentic AI workloads in data‑center environments.  
+Why you should care: The chip’s focus on power efficiency and high‑throughput AI processing could influence the hardware platforms used in cloud services and local AI projects you may develop or support, making familiarity with Arm architecture valuable for future coursework and internships.  
+Impact: Medium  
+Source: Arm Newsroom  
+
+**Google Synaptics Edge AI Chip Reduces Power Consumption by 40%**  
+What happened: Google and Synaptics introduced an edge‑AI processor that cuts power usage by 40% and includes an open‑source compiler built on MLIR, enabling standard machine‑learning frameworks to run without proprietary toolchains.  
+Why you should care: The reduced power draw and open‑source tooling make the chip suitable for low‑cost AI projects and IoT prototypes you might build, providing hands‑on experience with edge AI deployment and compiler technology.  
+Impact: Medium  
+Source: Shattered.io
+
+## My Action for Tomorrow
+Set up a test environment on a cloud platform and apply the recommended credential hygiene and log‑retention settings outlined in the CERT‑In AI agents advisory.
+
+## If You Only Remember 3 Things
+- The Indian government is investing heavily in new semiconductor and display fabs, expanding future job markets.  
+- Google Summer of Code offers paid, mentor‑guided open‑source experience valuable for Indian IT recruiters.  
+- AI‑driven attacks are a real threat; enforce strict credential controls and log retention in all cloud projects.
