@@ -1,0 +1,140 @@
+Hedwig's 9 PM Intelligence Report - Sunday, 25 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Microsoft Research releases Orchard, an open framework for scalable agentic AI**  
+What happened: Microsoft Research announced Orchard, a publicly available framework that includes models, training data, and evaluation methods to build autonomous AI agents capable of planning, reasoning, and acting across complex tasks.  
+Why you should care: The framework provides ready‑to‑use resources for students to experiment with building AI agents, practice prompt engineering, and explore multi‑step problem solving without needing large proprietary infrastructure.  
+Impact: Medium  
+Source: Microsoft Research  
+
+**Critical PHP Vulnerabilities (CVE‑2026‑109618 & CVE‑2026‑109619) Disclosed**  
+What happened: Two remote‑code‑execution flaws were found in PHP’s core runtime, affecting all versions serving web requests back to PHP 5; patches were released on 21 Oct 2026.  
+Why you should care: Most web‑development projects in Indian colleges use PHP; unpatched servers can be fully compromised, leading to data loss or service disruption. Understanding the exploit vectors and applying the updates is essential for secure coding and system administration.  
+Impact: Medium  
+What to do: Apply the released patches immediately to any PHP installations used for coursework or projects.  
+Source: Wired  
+
+**Uber HackTag – 5 Lakhs INR Prizes, Mentorship & Hiring Opportunities**  
+What happened: Uber announced its HackTag hackathon offering prize money up to 5 Lakhs INR, mentorship from Uber engineers, and potential full‑time or internship placements for winners.  
+Why you should care: A high‑value prize and direct hiring pipeline give Diploma IT students a chance to showcase full‑stack skills, network with industry professionals, and secure employment without campus placements.  
+Impact: Medium  
+Source: OpportunityHub
+
+## AI
+**Microsoft Research releases Orchard, an open framework for scalable agentic AI**  
+What happened: Microsoft Research announced Orchard, a publicly available framework that includes models, training data, and evaluation methods to build autonomous AI agents capable of planning, reasoning, and acting across complex tasks.  
+Why you should care: The framework provides ready‑to‑use resources for students to experiment with building AI agents, practice prompt engineering, and explore multi‑step problem solving without needing large proprietary infrastructure.  
+Impact: Medium  
+Source: Microsoft Research  
+
+**NVIDIA launches Nemotron 3.5 Bolt E4B 4GB, a small open‑weight language model for local voice agents**  
+What happened: NVIDIA released Nemotron 3.5 Bolt E4B, a 4 GB open‑weight model optimized for on‑device voice assistants, game characters, and robotics, supporting multimodal (text + audio) inputs.  
+Why you should care: The model’s modest size allows deployment on standard laptops or low‑cost development boards, enabling hands‑on projects in voice‑controlled applications—a valuable skill set for IT diploma coursework and campus hackathons.  
+Impact: Medium  
+Source: MarkTechPost  
+
+## Developer World
+**Google Gemini / gemini‑cli**  
+What happened: An open‑source command‑line tool that integrates Google’s Gemini AI directly into the terminal, enabling code generation, query answering, and scripting assistance.  
+Why you should care: Allows Diploma IT students to experiment with AI‑assisted coding, automate routine tasks, and prototype scripts without leaving their development environment—useful for projects in programming, web development, and automation.  
+Impact: Medium  
+Source: GitHub (google‑gemini / gemini‑cli)  
+
+**Processing (open‑source programming environment)**  
+What happened: Processing, a visual‑oriented programming language and IDE, has been highlighted as one of this year’s most influential open‑source projects for teaching code through interactive graphics and art.  
+Why you should care: Provides a beginner‑friendly platform to learn programming fundamentals, algorithms, and UI concepts, which aligns with the curriculum of Indian IT diplomas and can be used for project work or portfolio building.  
+Impact: Medium  
+Source: GitHub Blog – This year’s most influential open source projects.  
+
+## Cybersecurity
+**Critical PHP Vulnerabilities (CVE‑2026‑109618 & CVE‑2026‑109619) Disclosed**  
+What happened: Two remote‑code‑execution flaws were found in PHP’s core runtime, affecting all versions serving web requests back to PHP 5; patches were released on 21 Oct 2026.  
+Why you should care: Most web‑development projects in Indian colleges use PHP; unpatched servers can be fully compromised, leading to data loss or service disruption. Understanding the exploit vectors and applying the updates is essential for secure coding and system administration.  
+Impact: Medium  
+Source: Wired  
+
+**Node2Shell Brotli Vulnerability (CVE‑2026‑111497) Evolves to HTTP2Shell**  
+What happened: A vulnerability in the Brotli compression library used by Node2Shell was upgraded to affect broader HTTP‑based applications under the name HTTP2Shell, disclosed on 22 Oct 2026.  
+Why you should care: Many Node.js projects and micro‑services rely on Brotli for compression; the flaw can allow attackers to execute arbitrary code via crafted HTTP requests. Awareness helps you audit dependencies and apply patches in your development projects.  
+Impact: Medium  
+Source: aikido.dev  
+
+## India
+**IndiaMEY Empanels TCS, NEC India, Kyndryl to Boost AI in Government**  
+What happened: The Ministry of Electronics and Information Technology (MeitY) announced the empanelment of major IT firms—including TCS, NEC India, and Kyndryl—to develop and implement artificial‑intelligence solutions across government services.  
+Why you should care: These partnerships will create demand for AI‑savvy developers and may open internship, trainee, or entry‑level roles for diploma‑level IT students, plus provide real‑world project case studies for academic work.  
+Impact: Medium.  
+Source: Economic Times Government.  
+
+## Learn
+**CS50: Introduction to Computer Science (Harvard) – Free Online via edX** – Worth doing  
+What happened: Harvard’s flagship introductory computer science course, CS50, is offered for free on the edX platform, providing video lectures, problem sets, and a certificate option.  
+Why you should care: Covers fundamental programming, algorithms, and systems concepts essential for any IT diploma curriculum; recognized internationally by employers and can strengthen your résumé without any tuition cost.  
+Impact: Medium  
+Source: OPIT  
+
+**Coursera Computer Science Courses – Free Audit Options** – Maybe  
+What happened: Coursera lists numerous computer science courses that can be audited for free, giving access to video lectures and reading materials without payment; financial aid is available for certificates.  
+Why you should care: Enables you to explore specific topics such as Python, data structures, or cybersecurity at your own pace, supplementing diploma coursework and building a portfolio of completed modules.  
+Impact: Medium  
+Source: Coursera  
+
+## Opportunities
+**Uber HackTag – 5 Lakhs INR Prizes, Mentorship & Hiring Opportunities**  
+What happened: Uber announced its HackTag hackathon offering prize money up to 5 Lakhs INR, mentorship from Uber engineers, and potential full‑time or internship placements for winners.  
+Why you should care: A high‑value prize and direct hiring pipeline give Diploma IT students a chance to showcase full‑stack skills, network with industry professionals, and secure employment without campus placements.  
+Impact: Medium  
+Source: OpportunityHub  
+
+**Juspay Hiring Challenge – Full‑Time / Internship for Undergraduates**  
+What happened: Juspay launched a hiring challenge targeted at undergraduate students, providing a coding competition that leads to full‑time or internship offers for top performers.  
+Why you should care: Participation offers practical exposure to payment‑gateway technologies, a sector with strong demand in India, and a clear pathway to employment for IT diploma holders.  
+Impact: Medium  
+Source: OpportunityHub  
+
+## Events Near You
+**The smarter E India – Exhibition & Conference**  
+When: March 9–11, 2027  
+Where: Helipad Exhibition Centre (exhibition) and Gift City Club, Gandhinagar, Gujarat (conference)  
+How to attend/register: Registration details are available on the event’s official website; attendees can sign up online for both the exhibition and conference sessions.  
+
+## Tools Worth Trying
+**JetBrains launches AI coding assistant “Junie” with free tier for developers**  
+What happened: JetBrains announced Junie, an AI‑driven coding agent that offers unlimited code completion and support from local AI models in its free tier, plus credit‑based access to cloud‑based AI tools. Higher‑usage “AI Pro” and “AI Ultimate” tiers are also available.  
+Why you should care: The free tier lets Diploma IT students in India integrate advanced AI‑assisted coding into JetBrains IDEs (e.g., IntelliJ IDEA, PyCharm) without cost, boosting productivity on assignments and projects while staying within familiar development environments.  
+Impact: Medium  
+Source: Yahoo Finance.  
+
+## Tech Outside AI
+**OpenAI Unveils “Jalapeño” AI Inference Chip**  
+What happened: OpenAI announced its first custom AI chip, named Jalapeño, claiming industry‑leading speed and efficiency for inference workloads, positioning it as a competitor to Nvidia’s dominance.  
+Why you should care: Understanding emerging AI hardware helps you anticipate the platforms your future projects or internships may run on, and informs curriculum choices around AI model deployment.  
+Impact: Medium  
+Source: CNBC  
+
+**Nvidia’s AI Chip Share Falls to 34% in China as Huawei Gains Ground**  
+What happened: Nvidia’s share of China’s data‑center AI chip market dropped to 34% in H1 2026, while Chinese firms like Huawei expanded their presence amid tighter U.S. export controls.  
+Why you should care: The shift illustrates how geopolitical factors affect hardware availability and may influence where you source components or seek employment in the Indian tech ecosystem.  
+Impact: Medium  
+Source: Mexico Business News  
+
+**Nvidia and Microsoft Launch Open AI Security Alliance**  
+What happened: Nvidia and Microsoft announced a joint Open AI Security Alliance aimed at fostering secure and open AI development, positioning themselves as leaders in AI safety standards.  
+Why you should care: Understanding industry‑driven security frameworks is essential for IT students building AI‑enabled applications, especially when working with Microsoft Azure and Nvidia GPUs in Indian tech projects.  
+Impact: Medium  
+Source: The Verge  
+
+**Pentagon Expands Classified AI Partnerships to Eight Major Tech Firms**  
+What happened: The U.S. Department of Defense signed classified AI agreements with eight leading companies—including Nvidia, Microsoft, Google, Amazon Web Services, OpenAI, SpaceX, Oracle, and Reflection—excluding Anthropic.  
+Why you should care: The deals highlight the strategic importance of enterprise‑grade AI platforms and cloud services; familiarity with these vendors’ tools (e.g., Azure AI, Nvidia CUDA, Google Cloud AI) will enhance employability and project readiness for Indian IT graduates.  
+Impact: Medium  
+Source: DefenseScoop
+
+## My Action for Tomorrow
+Register for the Uber HackTag hackathon and begin assembling a project team to develop a full‑stack prototype you can submit.
+
+## If You Only Remember 3 Things
+- Orchard offers a ready-made AI agent framework for hands‑on experimentation.  
+- Patch PHP immediately to mitigate critical remote‑code‑execution bugs.  
+- Uber HackTag provides a high‑value competition and direct hiring path for diploma students.
