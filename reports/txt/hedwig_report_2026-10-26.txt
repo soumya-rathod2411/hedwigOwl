@@ -1,0 +1,146 @@
+Hedwig's 9 PM Intelligence Report - Monday, 26 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Google Research unveils TurboQuant memory‑compression for AI processing**  
+What happened: Google announced TurboQuant, a compression technology that dramatically reduces memory needed for large AI models, to be detailed at the ICLR conference.  
+Why you should care: Lower memory footprints let Diploma IT students run advanced AI workloads on modest hardware, enabling hands‑on experimentation without expensive GPU clusters.  
+Impact: Medium  
+Source: Network World  
+
+**India DPDP Act Compliance 2027: Timeline, GDPR Comparison, and Business Checklist**  
+What happened: The Digital Personal Data Protection (DPDP) Rules, 2025 were notified, setting a phased compliance schedule that becomes mandatory in 2027, with guidance on consent management, data governance, and vendor oversight.  
+Why you should care: Future employers in India will need staff who can ensure software and data projects meet these new privacy requirements, making this knowledge essential for employability.  
+Impact: Medium  
+Source: india-briefing.com  
+
+**CM IT Fellowship Program – 2‑Year M.Tech in Data Science & AI with ₹50,000 Monthly Stipend**  
+What happened: The Chhattisgarh government launched a fellowship offering a two‑year M.Tech in Data Science and AI, hands‑on government project work, and a monthly stipend of ₹50,000 for eligible candidates.  
+Why you should care: Provides a direct, funded pathway for Diploma IT students to obtain a postgraduate degree and real‑world experience in high‑demand AI fields.  
+Impact: Medium  
+Source: youthpower.in
+
+## AI
+**Google Research unveils TurboQuant memory‑compression for AI processing**  
+What happened: Google announced a new compression technology, TurboQuant, that dramatically reduces the memory required for running large AI models, with details to be presented at the ICLR conference.  
+Why you should care: Lower memory footprints enable running advanced AI workloads on modest hardware, allowing Diploma IT students to experiment with sophisticated models on campus labs or personal computers without needing expensive GPU clusters.  
+Impact: Medium  
+Source: Network World  
+
+**DeepMind’s WeatherNext AI model sets new benchmark in cyclone forecasting**  
+What happened: DeepMind published a paper in *Nature* showing that its WeatherNext model predicts cyclone tracks, intensity, and wind structure with state‑of‑the‑art accuracy, extending reliable forecasts by an additional day.  
+Why you should care: Mastery of cutting‑edge AI models for time‑series and geospatial data equips students with skills applicable to climate tech, disaster management, and data‑science projects, enhancing employability in emerging AI sectors.  
+Impact: Medium  
+Source: DeepMind Blog  
+
+## Developer World
+**Fast Focus: What’s New Across Microsoft SQL and Developer Tooling in 2026**  
+What happened: Microsoft released a session video detailing updates to SQL Server, Azure SQL, Fabric, CI/CD integration, AI‑assisted coding, GitHub Copilot, SSMS, container support, and new drivers.  
+Why you should care: The coverage includes tools and features that directly affect database development, deployment automation, and AI‑enhanced coding—skills essential for IT diploma projects and internships in India.  
+Impact: Medium  
+Source: YouTube  
+
+**Best Database Tools for Developers – Ultimate List**  
+What happened: An online article compiled a comprehensive list of database development tools, highlighting CI/CD platforms, testing frameworks, migration utilities, and visual designers for managing schema changes.  
+Why you should care: The list offers ready‑to‑use options for automating database workflows, improving code quality, and aligning with industry practices, all valuable for coursework and entry‑level developer roles.  
+Impact: Medium  
+Source: DBVis.com  
+
+## Cybersecurity
+**Microsoft 365 Token‑Replay Attacks Compromise 97 Accounts at 79 Organisations**  
+What happened: Researchers reported a new “token‑spraying” technique where attackers replay stolen authentication tokens at scale, breaching 97 Microsoft 365 accounts across 79 organisations.  
+Why you should care: Understanding token‑replay methods helps Diploma IT students secure cloud‑based services they’ll likely manage, and prepares them to implement MFA hardening and token monitoring in corporate environments.  
+Impact: Medium  
+Source: The Hacker News  
+
+**Autonomous “Skynet‑mode” AI Agent Hijacks Other Models to Launch Attacks**  
+What happened: Security firm Symantec disclosed an AI‑driven attack agent that strings together off‑the‑shelf jailbreak techniques into a single autonomous system, enabling it to execute up to 100,000 steps without human oversight.  
+Why you should care: The emergence of LLM‑jacking illustrates a novel threat vector that IT students must learn to detect, mitigate, and incorporate into secure AI development practices.  
+Impact: Medium  
+Source: The Register  
+
+## India
+**India DPDP Act Compliance 2027: Timeline, GDPR Comparison, and Business Checklist**  
+What happened: The Digital Personal Data Protection (DPDP) Rules, 2025 were notified, establishing a phased compliance schedule that will become mandatory in 2027, with detailed guidance on consent management, data governance, and vendor oversight.  
+Why you should care: Understanding these rules is essential for any IT student planning to work on software development, data handling, or cybersecurity projects in India, as future employers will need staff who can ensure compliance with the new data‑privacy framework.  
+Impact: Medium  
+Source: india-briefing.com  
+
+**Central Electricity Authority (CEA) Cyber Security Regulations, 2026 for the Power Sector**  
+What happened: The CEA issued new cyber‑security regulations targeting critical infrastructure in the power sector, mandating security standards, incident reporting, and risk‑assessment procedures for all entities involved.  
+Why you should care: The regulations introduce a growing demand for IT professionals skilled in industrial control system security and compliance, opening entry‑level opportunities for diploma holders in cybersecurity and network protection roles.  
+Impact: Medium  
+Source: kpmg.com  
+
+## Learn
+**Worth doing – Google Releases 9 Free AI Courses with Certificates**  
+What happened: Google launched nine free, certificate‑granting AI courses covering fundamentals such as cloud computing, machine learning, and generative AI, with early‑access enrollment for the first 1,000 learners.  
+Why you should care: The courses are aligned with industry‑recognized Google Cloud credentials, require no payment, and provide practical skills that match the curriculum of IT diploma programs in India, enhancing employability and resume strength.  
+Impact: Medium  
+Source: LinkedIn (Steve Nouri post)  
+
+**Maybe – Introduction to Generative AI – Coursera (offered by Google Cloud)**  
+What happened: Coursera now offers a free “Introduction to Generative AI” course created by Google Cloud, teaching core concepts, model building, and real‑world application of generative models.  
+Why you should care: The content directly supports diploma‑level AI modules, gives hands‑on experience with Google’s AI tools, and awards a Coursera certificate that can be added to job applications or internship profiles.  
+Impact: Medium  
+Source: Coursera  
+
+## Opportunities
+**CM IT Fellowship Program – 2‑Year M.Tech in Data Science & AI with ₹50,000 Monthly Stipend**  
+What happened: The Chhattisgarh government launched the CM IT Fellowship, offering a two‑year M.Tech program in Data Science and Artificial Intelligence, coupled with hands‑on government project work and a monthly stipend of ₹50,000 for eligible young professionals.  
+Why you should care: For a Diploma IT student, the fellowship provides a direct pathway to a postgraduate degree, practical experience on real‑world governance projects, and a substantial financial support package, accelerating career progression in high‑demand AI fields.  
+Impact: Medium  
+Source: youthpower.in  
+
+**Google Computer Science Education Scholarships – India 2024**  
+What happened: Google announced scholarships for Indian students pursuing computer science, targeting those passionate about using technology for sustainable impact. The program includes financial aid and access to Google‑curated learning resources.  
+Why you should care: These scholarships can fund further studies or certifications, give credibility through a global tech brand, and connect you to mentorship and networking opportunities that enhance employability in the IT sector.  
+Impact: Medium  
+Source: edu.google.co.in  
+
+## Events Near You
+**Bharat Startup Summit Gujarat – FROEXPO 2026**  
+What happened: The summit will be held in Gandhinagar, showcasing Gujarat’s emerging job creators and MSME leaders, focusing on building sustainable and scalable business models.  
+Why you should care: Attending offers a Diploma IT student exposure to real‑world startup challenges, networking with industry experts, and potential internship or project collaboration opportunities.  
+Impact: Medium  
+Source: Bharat Startup Summit Gujarat  
+
+**Global Startup Summit 2026**  
+What happened: A startup‑focused conference scheduled for Saturday, 12 December 2026 at Infocity Club and Resort in Gandhinagar.  
+Why you should care: Provides direct access to startup founders, tech demos, and workshops that can enhance practical IT skills and open pathways to internships or entry‑level roles in the local tech ecosystem.  
+Impact: Medium  
+Source: Global Startups Club  
+
+## Tools Worth Trying
+**Metabob AI‑Powered VSCode Extension for Debugging and Refactoring**  
+What happened: Metabob launched a new Visual Studio Code extension that uses generative AI to automatically detect, explain, and suggest fixes for code errors across multiple programming languages.  
+Why you should care: As a Diploma IT student, you spend considerable time fixing bugs in assignments and projects; the extension can cut debugging time by surfacing plain‑language explanations and one‑click refactor suggestions, letting you focus on learning new concepts.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+**Cursor AI IDE for Integrated Coding Assistance**  
+What happened: Cursor released an AI‑driven development environment that combines code editing, AI‑generated suggestions, autonomous workflows, and built‑in security reviews within a single IDE, eliminating the need to switch between separate tools.  
+Why you should care: The all‑in‑one interface streamlines the coding workflow for students building small‑scale apps or practicing algorithms, offering context‑aware autocomplete and instant code generation without leaving the editor.  
+Impact: Medium  
+Source: Greptile  
+
+## Tech Outside AI
+**Raspberry Pi AI HAT + 2 Enables Generative‑AI on Pi 5**  
+What happened: Raspberry Pi released an AI HAT + 2 add‑on board that pairs a dedicated accelerator with high‑speed memory, allowing the Pi 5 to run large‑language‑models, vision‑language models and computer‑vision tasks locally.  
+Why you should care: The low‑cost platform lets Diploma‑level IT students prototype AI‑driven home‑automation, robotics or edge‑computing projects without needing cloud resources or expensive hardware.  
+Impact: Medium  
+Source: Electronic Design  
+
+**Meta Announces MTIA 500 Accelerator with 27.6 TB/s HBM Bandwidth**  
+What happened: Meta detailed its next‑gen MTIA 500 AI accelerator, boosting HBM bandwidth by 50 % to 27.6 TB/s and supporting up to 512 GB HBM per chip, aimed at generative‑AI inference workloads.  
+Why you should care: Understanding emerging AI inference hardware helps students align their learning to future industry demands and prepares them for projects involving high‑performance AI workloads.  
+Impact: Low  
+Source: ServeTheHome
+
+## My Action for Tomorrow
+Enroll in one of Google’s free AI courses with certificate to gain credentials aligned with industry standards.
+
+## If You Only Remember 3 Things
+- TurboQuant could let you run large AI models on campus labs.  
+- DPDP compliance will be mandatory by 2027; know the basics now.  
+- The CM IT Fellowship offers a funded route to an M.Tech in AI.
