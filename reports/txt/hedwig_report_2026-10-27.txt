@@ -1,0 +1,120 @@
+Hedwig's 9 PM Intelligence Report - Tuesday, 27 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Google launches Antigravity AI coding assistant, successor to Gemini CLI**  
+What happened: Google announced Antigravity at I/O 2026, a Go‑based AI coding assistant that runs async background workflows and replaces the Gemini CLI and Gemini Code Assist tiers.  
+Why you should care: As a Diploma IT student, Antigravity offers fast, integrated code generation and task automation directly in your IDE, helping you prototype projects and complete assignments more efficiently.  
+Impact: Medium  
+Source: Shakudo Blog  
+
+**CERT‑In alerts on critical PHP vulnerabilities**  
+What happened: CERT‑In issued an advisory on 22 Oct 2026 about multiple high‑severity PHP flaws that allow remote code execution, risking website defacement and data theft.  
+Why you should care: PHP is widely used in campus projects and internships; the vulnerabilities can affect locally hosted labs or freelance work. Promptly updating PHP versions and applying patches will protect your codebases and client sites from exploitation.  
+Impact: Medium  
+Source: organiser.org  
+
+**Google Summer of Code (GSoC) 2024 – Open‑Source Paid Internship for Students**  
+What happened: Google’s annual GSoC program opens applications for university students to work on open‑source projects over a summer, offering a stipend and mentorship from participating organizations.  
+Why you should care: As a Diploma IT student in India, GSoC provides a paid, remote opportunity to gain real‑world development experience, strengthen your résumé, and build connections in the global open‑source community.  
+Impact: Medium  
+Source: Google Open Source – Student Programs.
+
+## AI
+**Google launches Antigravity AI coding assistant, successor to Gemini CLI**  
+What happened: Google announced Antigravity at I/O 2026, a Go‑based AI coding assistant that runs async background workflows and replaces the Gemini CLI and Gemini Code Assist tiers.  
+Why you should care: As a Diploma IT student, Antigravity offers fast, integrated code generation and task automation directly in your IDE, helping you prototype projects and complete assignments more efficiently.  
+Impact: Medium  
+Source: Shakudo Blog  
+
+**Cursor releases Composer 2.5, enabling multi‑file refactoring via natural language**  
+What happened: Cursor’s AI assistant now includes Composer 2.5, allowing developers to issue natural‑language commands that refactor whole files, generate components, and modify multiple files across frameworks like React, Next.js, and Angular.  
+Why you should care: The feature streamlines common student tasks such as building UI components or restructuring codebases, reducing manual edits and speeding up learning of modern web frameworks.  
+Impact: Medium  
+Source: TechJournal.org  
+
+## Developer World
+**Azure APIOps CLI – New Tool for Automated API Deployment**  
+What happened: Microsoft transitioned the archived Azure APIOps GitHub repository to a new, actively maintained APIOps CLI, offering performance upgrades, stability improvements, and streamlined API deployment workflows.  
+Why you should care: The CLI lets IT diploma students practice GitOps‑style CI/CD for Azure API Management, gaining hands‑on experience with industry‑standard API automation without needing to manage complex pipelines.  
+Impact: Medium  
+Source: azure.github.io/apiops  
+
+**Top Backend Deployment Platforms for 2026 – Quick Reference**  
+What happened: A recent blog enumerated leading services for deploying backend applications, including Kuberns, Railway, Render, Fly.io, Heroku, AWS App Runner, Northflank, DigitalOcean App Platform, Google Cloud Run, and Cloudflare Workers, highlighting suitability for APIs, workers, cron jobs, containers, and edge runtimes.  
+Why you should care: Knowing which platforms support low‑ops deployment and container‑free options helps students select the right environment for projects, internships, or portfolio demos, especially when resources are limited.  
+Impact: Medium  
+Source: kuberns.com/blogs/best-tools-to-deploy-backend-apps  
+
+## Cybersecurity
+**CERT‑In advisory warns of eMudhra certificate authority breach**  
+What happened: CERT‑In flagged a security compromise affecting eight intermediate digital certificate authorities operated by eMudhra, which could let attackers forge SSL/TLS certificates for any website.  
+Why you should care: As a Diploma IT student building web or mobile apps, trusting forged certificates can expose your development and testing environments to man‑in‑the‑middle attacks and invalidate SSL checks. Understanding this advisory helps you verify certificate chains and avoid using compromised CAs in projects.  
+Impact: Medium  
+Source: India Today  
+
+**CERT‑In alerts on critical PHP vulnerabilities**  
+What happened: CERT‑In issued an advisory on 22 Oct 2026 about multiple high‑severity PHP flaws that allow remote code execution, risking website defacement and data theft.  
+Why you should care: PHP is widely used in campus projects and internships; the vulnerabilities can affect locally hosted labs or freelance work. Promptly updating PHP versions and applying patches will protect your codebases and client sites from exploitation.  
+Impact: Medium  
+Source: organiser.org  
+
+## India
+No items available for this section.
+
+## Learn
+**Harvard CS50 – Full Computer Science University Course**  
+What happened: Harvard’s introductory CS50 course is available online, covering fundamentals of computer science, programming concepts, and problem‑solving with lectures, labs, and full source code.  
+Why you should care: Provides a comprehensive, internationally recognized foundation that aligns with the BCA/Diploma IT curriculum, enhancing theory and practical coding skills useful for campus exams and future employment.  
+Impact: Medium  
+Source: YouTube – The Geek Monk  
+
+**Google Courses Every BCA Student Needs**  
+What happened: A YouTube short lists essential free Google certifications and learning paths (e.g., Google IT Support, Data Analytics, Cloud Digital Leader) targeted at BCA students.  
+Why you should care: These certifications are industry‑validated, free to enroll, and improve employability in Indian IT job markets, especially for entry‑level roles after a diploma.  
+Impact: Medium  
+Source: YouTube – The Geek Monk  
+
+## Opportunities
+**Google Summer of Code (GSoC) 2024 – Open‑Source Paid Internship for Students**  
+What happened: Google’s annual GSoC program opens applications for university students to work on open‑source projects over a summer, offering a stipend and mentorship from participating organizations.  
+Why you should care: As a Diploma IT student in India, GSoC provides a paid, remote opportunity to gain real‑world development experience, strengthen your résumé, and build connections in the global open‑source community.  
+Impact: Medium  
+Source: Google Open Source – Student Programs.  
+
+## Events Near You
+No in‑person tech events were found in Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+**RapidAPI – Free Public API Marketplace**  
+What happened: RapidAPI, the largest public API marketplace, now offers free listing for API products, handling billing, authentication, and documentation hosting.  
+Why you should care: Provides a ready-made platform for Diploma IT students to publish, test, and monetize their APIs without building backend infrastructure, useful for coursework and portfolio projects.  
+Impact: Medium  
+Source: suprsonic.ai  
+
+**Zuplo – Free API Management Platform**  
+What happened: Zuplo launched a free tier allowing up to 10 projects, unlimited edge environments, 1 million monthly requests, and 10 GB egress, with built‑in API key authentication, rate limiting, and OpenAPI support.  
+Why you should care: Enables students to design, deploy, and manage APIs quickly using TypeScript, supporting hands‑on learning of modern API development and edge deployment.  
+Impact: Medium  
+Source: ripienaar/free-for-dev  
+
+## Tech Outside AI
+**Arm unveils its first production silicon – the Arm AGI CPU with 136 cores**  
+What happened: In March 2026 Arm announced its first ever production chip, the Arm AGI CPU, a 136‑core processor that marks the company’s shift from pure IP licensing to manufacturing its own silicon.  
+Why you should care: Understanding this move helps IT students grasp emerging CPU architectures, potential software‑toolchain changes, and new opportunities for developing AI‑focused applications on ARM hardware, which is increasingly used in India’s mobile and edge‑device markets.  
+Impact: Medium  
+Source: omdia.tech.informa.com  
+
+**Global Semiconductor Market Surges to $795.6 Billion in 2025, Projected to Reach $1.5 Trillion by 2026**  
+What happened: Industry reports from the Semiconductor Industry Association and World Semiconductor Trade Statistics show 2025 sales hitting $795.6 billion, a 26% YoY increase, with forecasts of $1.5 trillion in 2026 driven by AI, advanced computing and data‑center demand.  
+Why you should care: The rapid expansion creates heightened demand for hardware‑related knowledge, firmware development, and testing skills—areas where a Diploma IT graduate can find entry‑level roles or internships in Indian electronics firms and multinational R&D centers.  
+Impact: Medium.  
+Source: Semiconductor Industry Association (semiconductors.org)
+
+## My Action for Tomorrow
+Update all local PHP installations to the latest stable version and apply any pending security patches.
+
+## If You Only Remember 3 Things
+- Antigravity AI can accelerate coding tasks directly in your IDE.  
+- Critical PHP bugs reported on 22 Oct 2026 require immediate version updates.  
+- GSoC 2024 offers a paid, remote open‑source internship for Diploma IT students.
