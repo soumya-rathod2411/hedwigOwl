@@ -1,0 +1,117 @@
+Hedwig's 9 PM Intelligence Report - Wednesday, 28 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Critical PHP Vulnerabilities (CVE‑2026‑109618 & CVE‑2026‑109619) Actively Exploited – Emergency Patches Released**  
+What happened: U.S. agency CISA confirmed active exploitation of two critical PHP flaws (“PHP2Shell”) and emergency fixes were issued in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35.  
+Why you should care: Most Diploma IT coursework and campus projects rely on PHP; unpatched installations are now a high‑risk target for ransomware and data theft, threatening lab environments and freelance work.  
+Impact: Medium.  
+Source: Cybersecurity Dive.
+
+**India’s AI Mission seeks 10,000 GPUs – MeitY invites proposals**  
+What happened: The Ministry of Electronics and Information Technology announced a plan to acquire 10,000 GPUs for AI computing across ministries, academia, startups and industry, and opened a tender for AI‑capable firms.  
+Why you should care: Access to large‑scale AI compute will enable campus labs and student projects to run advanced models locally, reducing reliance on costly cloud services and opening pathways for internships or contract work with participating vendors.  
+Impact: Medium  
+Source: Medianama
+
+**Agentic India 30 – 3‑Day AI‑Driven Agent Hackathon**  
+What happened: A three‑day online hackathon targeting first‑year and early‑year engineering students focuses on AI‑driven agents, automation, and functional prototypes, including a Developer Day and hands‑on building sessions.  
+Why you should care: Participation provides practical experience with emerging AI technologies, collaborative development, and a portfolio piece that can be showcased to recruiters.  
+Impact: Medium  
+Source: reskilll.com
+
+## AI
+**CopilotKit Launches OpenDuet AI Agent**  
+What happened: CopilotKit released OpenDuet, an AI agent that can operate autonomously without continuous user prompts, enabling background task automation.  
+Why you should care: Learning to integrate OpenDuet can give a Diploma IT student hands‑on experience building and deploying autonomous agents for real‑world workflows, a skill increasingly demanded in Indian tech firms.  
+Impact: Medium  
+Source: YouTube – CopilotKit Flash News  
+
+**ServiceNow and Google Cloud Expand Agentic AI for Industry Workflows**  
+What happened: ServiceNow partnered with Google Cloud to embed Gemini Enterprise into ServiceNow’s Action Fabric, delivering ready‑to‑use agentic AI integrations for retail, telecom sales, and IT operations via the Google Cloud Marketplace.  
+Why you should care: The joint solution provides a practical platform for building AI‑driven workflow automations; students can experiment with the pre‑built connectors and learn enterprise‑level AI deployment using tools accessible in India.  
+Impact: Medium  
+Source: Google Cloud Press Corner  
+
+## Developer World
+No relevant items for this section.
+
+## Cybersecurity
+**Critical PHP Vulnerabilities (CVE‑2026‑109618 & CVE‑2026‑109619) Actively Exploited – Emergency Patches Released**  
+What happened: U.S. agency CISA confirmed active exploitation of two critical PHP flaws (memory‑corruption and stale request‑state) dubbed “PHP2Shell.” Emergency fixes were issued in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35.  
+Why you should care: Most web‑development coursework and campus projects rely on PHP; unpatched installations are now a high‑risk target for ransomware and data theft. Updating to the patched versions and reviewing server configurations will protect your labs and any freelance work.  
+Impact: Medium.  
+Source: Cybersecurity Dive.
+
+## India
+**India’s AI Mission seeks 10,000 GPUs – MeitY invites proposals**  
+What happened: The Ministry of Electronics and Information Technology (MeitY) announced a plan to acquire 10,000 GPUs to power AI computing for ministries, academia, startups and industry under the IndiaAI Mission, and has opened a tender for AI‑capable firms to supply the hardware and related expertise.  
+Why you should care: Access to large‑scale AI compute will enable campus labs, student projects and start‑ups to run advanced models locally, reducing reliance on costly cloud services and opening pathways for internships or contract work with participating vendors.  
+Impact: Medium  
+Source: Medianama  
+
+**IndiaAI Innovation Challenge 2026 – call for AI application development**  
+What happened: IndiaAI, the implementing agency of the IndiaAI Mission, launched the Innovation Challenge 2026, encouraging developers to create AI solutions for priority sectors such as health, agriculture and education, with support for development, deployment and adoption.  
+Why you should care: The challenge offers a platform for diploma‑level students to showcase projects, gain mentorship, and potentially win funding or incubation, directly linking coursework to real‑world AI impact.  
+Impact: Medium  
+Source: IndiaAI.gov.in  
+
+## Learn
+**Free Computer Science Courses on Alison**  
+What happened: Alison offers a collection of free online computer science courses covering software fundamentals, programming, and system concepts, accessible without payment.  
+Why you should care: The courses match the core syllabus of a Diploma in IT and provide certificates that can be added to a resume or LinkedIn profile, helping bridge gaps in practical knowledge.  
+Impact: Low  
+
+**FreeCodeCamp’s “1200 Free Computer Science Courses from Top Universities”**  
+What happened: FreeCodeCamp compiled links to over 1,200 free courses and certifications from institutions such as Harvard, MIT, Google, and Microsoft, including subjects like data structures, web development, and cloud computing.  
+Why you should care: The curated list lets a Diploma IT student quickly find high‑quality, industry‑relevant material and earn recognized certificates without cost, supporting both academic studies and job‑ready skills.  
+Impact: Low  
+Source: alison.com; freecodecamp.org  
+
+## Opportunities
+**Agentic India 30 – 3‑Day AI‑Driven Agent Hackathon**  
+What happened: A three‑day online hackathon titled “Agentic India 30” is targeting first‑year and early‑year engineering students, focusing on AI‑driven agents, automation, and building functional prototypes. The event includes a Developer Day covering fundamentals, tools, and ideation, followed by hands‑on building sessions.  
+Why you should care: Participating will give Diploma IT students practical experience with emerging AI technologies, collaborative development, and a portfolio piece that can be showcased to recruiters.  
+Impact: Medium  
+Source: reskilll.com  
+
+**Internshala’s Ongoing Hackathon Listings – October 2026**  
+What happened: Internshala maintains an up‑to‑date catalogue of hackathons across India, detailing dates, prize structures, and certification for student participants. The listings include both online and campus‑based events covering coding, business, and design challenges.  
+Why you should care: The platform provides a centralized source to discover and register for multiple hackathons, enabling students to select opportunities that match their skill level and schedule, thereby enhancing hands‑on experience and resume credentials.  
+Impact: Medium  
+Source: internshala.com  
+
+## Events Near You
+**GIFT Financial Markets & Technology Forum – 16 September 2024, GIFT City, Ahmedabad**  
+What happened: Arjun Global is hosting a one‑day forum that brings together leaders from financial exchanges, brokerage firms, fintech firms and technology providers to discuss developments in financial markets and related tech.  
+Why you should care: The event offers a rare chance for a Diploma IT student to hear industry experts, learn about emerging fintech platforms, and network with potential employers operating in India’s new financial hub.  
+Impact: Medium  
+Source: arjunglobal.com  
+
+## Tools Worth Trying
+**Sui and Alibaba Cloud launch AI coding assistant for Move smart contracts**  
+What happened: Alibaba Cloud integrated an AI‑powered coding assistant into ChainIDE to help developers write Sui’s Move smart contracts, offering multilingual support, real‑time security suggestions, and automatic code generation.  
+Why you should care: The tool can speed up learning and building Web3 applications on the Sui network, a growing blockchain platform; it also reinforces secure coding practices—both valuable for a Diploma IT student seeking practical blockchain development experience.  
+Impact: Medium.  
+Source: CryptoRank.io  
+
+## Tech Outside AI
+**Anthropic secures $30 billion Azure compute commitment in partnership with Microsoft and Nvidia**  
+What happened: Anthropic agreed to purchase $30 billion in Azure compute capacity and up to a gigawatt of Nvidia GPU power, while Microsoft and Nvidia each pledged multi‑billion‑dollar investments in the startup.  
+Why you should care: The massive Azure commitment expands access to high‑performance AI infrastructure, creating potential internship, training, and cloud‑credit opportunities for students studying cloud computing, AI model development, and data engineering.  
+Impact: Medium  
+Source: CNBC  
+
+**NVIDIA and Microsoft launch the Open Secure AI Alliance, a coalition of 30+ organizations focused on AI security standards**  
+What happened: NVIDIA, Microsoft and more than thirty partners announced the Open Secure AI Alliance to develop shared controls for AI agents, identity management, isolation, vulnerability scanning and secure coding, deliberately excluding OpenAI, Google and Anthropic from the founding roster.  
+Why you should care: The alliance will produce open security frameworks and tooling that can be incorporated into curricula and projects on secure AI development, giving students early exposure to industry‑grade best practices and potential collaboration opportunities.  
+Impact: Medium  
+Source: WinBuzzer
+
+## My Action for Tomorrow
+Update any local PHP installations used for coursework or projects to the latest patched versions (PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35) and verify the patches are applied.
+
+## If You Only Remember 3 Things
+- Patch PHP immediately to avoid active exploitation.  
+- Watch for the IndiaAI GPU tender; it may unlock local AI compute for student labs.  
+- Register for the Agentic India 30 hackathon to gain hands‑on AI agent experience.
