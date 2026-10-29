@@ -1,0 +1,114 @@
+Hedwig's 9 PM Intelligence Report - Thursday, 29 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Microsoft releases first stable Azure Cosmos DB SDK for Rust**  
+What happened: The October 2026 Azure SDK update includes the first stable version of the Azure Cosmos DB SDK for Rust, adding client‑driver and macro crates and migration guidance from preview versions.  
+Why you should care: Rust is gaining traction for system‑level and cloud‑native development; mastering the Cosmos DB Rust SDK equips you to build scalable, low‑latency backend services on Azure, a skill in demand for Indian IT firms handling cloud projects.  
+Impact: Medium  
+Source: Visual Studio Magazine  
+
+**MITRE ATT&CK Framework Version 20 Adds AI‑Threat Techniques**  
+What happened: MITRE released version 20 of its ATT&CK framework, introducing new techniques and sub‑techniques that address AI‑related threats such as prompt injection and AI‑enabled data exfiltration.  
+Why you should care: Understanding these AI‑specific attack vectors is essential for a Diploma IT student preparing for modern security roles, especially when designing defenses for AI‑driven applications.  
+Impact: Medium  
+Source: BankInfoSecurity  
+
+**Free AI Certification Repository on GitHub**  
+What happened: A GitHub repository curated by balavenkatesh3322 lists over 100 free AI/ML/Data Science certifications from universities, companies and platforms, including course details, duration and free digital badges.  
+Why you should care: Provides a centralized, vetted list of no‑cost credentials that can be added to a diploma IT student’s resume and LinkedIn profile, enhancing employability without financial outlay.  
+Impact: Medium  
+Source: GitHub - balavenkatesh3322/free-ai-certification
+
+## AI
+No items to report in this section.
+
+## Developer World
+**Microsoft releases first stable Azure Cosmos DB SDK for Rust**  
+What happened: The October 2026 Azure SDK update includes the first stable version of the Azure Cosmos DB SDK for Rust, adding client‑driver and macro crates and migration guidance from preview versions.  
+Why you should care: Rust is gaining traction for system‑level and cloud‑native development; mastering the Cosmos DB Rust SDK equips you to build scalable, low‑latency backend services on Azure, a skill in demand for Indian IT firms handling cloud projects.  
+Impact: Medium  
+Source: Visual Studio Magazine  
+
+**DBeaver 26.2.2 released – open‑source database management tool**  
+What happened: DBeaver Community announced version 26.2.2, bringing UI refinements, enhanced support for new database engines, and performance improvements.  
+Why you should care: DBeaver is a free, cross‑platform IDE for SQL development and data administration; the update expands compatibility with modern databases, helping you practice queries and data modeling for coursework and internships.  
+Impact: Medium  
+Source: DBeaver Community  
+
+## Cybersecurity
+**MITRE ATT&CK Framework Version 20 Adds AI‑Threat Techniques**  
+What happened: MITRE released version 20 of its ATT&CK framework, introducing new techniques and sub‑techniques that address AI‑related threats such as prompt injection and AI‑enabled data exfiltration.  
+Why you should care: Understanding these AI‑specific attack vectors is essential for a Diploma IT student preparing for modern security roles, especially when designing defenses for AI‑driven applications.  
+Impact: Medium  
+Source: BankInfoSecurity  
+
+**Attackers Exploit Microsoft Teams External Chat to Breach Organizations**  
+What happened: A recent report detailed how threat actors leveraged Microsoft Teams external chat, combining email bombing, IT‑support impersonation, and rapid social engineering to gain remote access and execute payloads.  
+Why you should care: Teams is widely used in Indian enterprises and campuses; recognizing this attack chain helps students secure collaboration tools and advise future employers on mitigations.  
+Impact: Medium  
+Source: Infosecurity Magazine  
+
+## India
+No items to report in this section.
+
+## Learn
+**Free AI Certification Repository on GitHub**  
+What happened: A GitHub repository curated by balavenkatesh3322 lists over 100 free AI/ML/Data Science certifications from universities, companies and platforms, including course details, duration and free digital badges.  
+Why you should care: Provides a centralized, vetted list of no‑cost credentials that can be added to a diploma IT student’s resume and LinkedIn profile, enhancing employability without financial outlay.  
+Impact: Medium  
+Source: GitHub - balavenkatesh3322/free-ai-certification  
+
+**Google Generative AI Leader Full Course (YouTube)**  
+What happened: A 14‑lesson video on the Cert Espresso YouTube channel delivers the complete Google Cloud Generative AI Leader exam preparation, covering theory, hands‑on labs and practice questions.  
+Why you should care: Aligns with Google Cloud’s AI certification path, offering free, exam‑focused training that can help a diploma IT student qualify for a recognized credential and gain cloud‑AI skills in demand.  
+Impact: Medium  
+Source: YouTube - Cert Espresso  
+
+## Opportunities
+**STEM Scholarship Programs for Indian Students**  
+What happened: Several organizations, including the Inlaks Shivdasani Foundation, Tata Scholarships at Cornell University, and the Narotam Sekhsaria Foundation, offer scholarships specifically for Indian students in science, technology, engineering, and mathematics fields; the Indian government’s Science and Engineering Research Board also provides overseas doctoral fellowships.  
+Why you should care: Access to these scholarships can fund further studies or advanced certifications in IT, reducing financial barriers and enhancing qualifications for future employment or higher education.  
+Impact: Medium  
+Source: MPOWER Financing  
+
+## Events Near You
+**GENESIS NextGen Startup Summit – Gandhinagar Edition**  
+What happened: Karnavati University organized a multi‑day summit in Gandhinagar, bringing together aspiring entrepreneurs, innovators, investors and industry leaders to showcase startups and discuss emerging tech trends.  
+When: Dates scheduled for 12‑14 November 2026.  
+Where: Karnavati University campus, Gandhinagar, Gujarat.  
+How to attend: Registration via the university’s event portal; tickets available online (free for students with a valid ID).  
+
+**eChai Ahmedabad Startup Demo Days – Open Demo Event**  
+What happened: The eChai Startup Network hosted a relaxed demo day at GVFL Ahmedabad, inviting founders to present their products publicly, receive feedback and connect with the local startup community.  
+When: 20 November 2026.  
+Where: GVFL (Gujarat Venture Forum Limited), Ahmedabad, Gujarat.  
+How to attend: Open to the public; RSVP through the Meetup event page.  
+
+## Tools Worth Trying
+**Red Hat launches Developer Lightspeed AI‑powered migration toolkit**  
+What happened: Red Hat introduced Developer Lightspeed, an AI‑driven extension for IDEs that automates source‑code refactoring and migration tasks, learning from successful changes to suggest fixes.  
+Why you should care: The tool can speed up learning and handling legacy Java or C/C++ codebases common in Indian IT projects, reducing manual effort for assignments and internships.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+## Tech Outside AI
+**Amazon Invests Additional $5 B in Anthropic AI, Expands Project Rainier Compute Cluster**  
+What happened: Amazon announced a $5 billion investment in Anthropic and the expansion of Project Rainier, one of the world’s largest AI compute clusters built on half‑a‑million Trainium2 chips, to accelerate training and deployment of Claude models.  
+Why you should care: Access to such massive cloud AI infrastructure through AWS can enable Diploma IT students in India to experiment with large‑scale model training and develop AI‑driven applications without prohibitive upfront hardware costs. Understanding this partnership also highlights key industry trends in cloud AI services.  
+Impact: Medium  
+Source: Amazon.com news  
+
+**Revenium Launches Channel Partner Program to Offer AI Cost‑Control Technology to Enterprises**  
+What happened: AI‑cost‑management startup Revenium announced a partner program targeting systems integrators and service providers, enabling them to deliver AI performance‑and‑cost optimisation tools to enterprise customers.  
+Why you should care: For IT students aiming to work in consulting or enterprise solutions, familiarity with AI cost‑control tools can be a differentiator, offering practical knowledge of managing AI workloads and budgets—skills in demand as Indian firms adopt AI at scale.  
+Impact: Medium  
+Source: CRN.com news
+
+## My Action for Tomorrow
+Download the Azure Cosmos DB Rust SDK and run the official quick‑start tutorial to familiarize yourself with its API and migration steps.
+
+## If You Only Remember 3 Things
+- Azure now offers a stable Cosmos DB SDK for Rust, opening cloud‑native development opportunities.  
+- MITRE ATT&CK v20 adds AI‑focused attack techniques, a new priority for security learning.  
+- A curated GitHub list provides over 100 free AI/ML certifications to boost your resume.

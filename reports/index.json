@@ -145,5 +145,12 @@
     "txt": "hedwig_report_2026-10-28.txt",
     "generated_at": "2026-10-28T22:43:14.516685+05:30",
     "preview": "Critical PHP Vulnerabilities (CVE\u20112026\u2011109618 & CVE\u20112026\u2011109619) Actively Exploited \u2013 Emergency Patches Released**"
+  },
+  {
+    "date": "2026-10-29",
+    "pdf": "hedwig_report_2026-10-29.pdf",
+    "txt": "hedwig_report_2026-10-29.txt",
+    "generated_at": "2026-10-29T22:59:16.563863+05:30",
+    "preview": "Microsoft releases first stable Azure Cosmos DB SDK for Rust**"
   }
 ]
