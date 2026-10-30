@@ -1,0 +1,118 @@
+Hedwig's 9 PM Intelligence Report - Friday, 30 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Top 20 AI Coding Assistants Compared – 2026 Review / Qodo AI – “Top 15 AI Coding Assistant Tools to Try in 2026”**  
+What happened: Axify.io published a detailed comparison of 20 AI coding assistants and Qodo.ai released a curated list of 15 assistants with code‑sample demos.  
+Why you should care: The guides let Diploma IT students quickly identify tools that integrate with their IDEs and support debugging, refactoring, and test generation, reducing time on assignments.  
+Impact: Medium  
+Source: axify.io; qodo.ai  
+
+**Harness Announces Agentic Security Integration with Google Cloud’s Apigee API Management Tool**  
+What happened: Harness released a new “Agentic Security” feature that integrates directly with Google Cloud’s Apigee API management platform, promising up to 75 % faster releases, 60 % lower cloud costs and ten‑fold DevOps efficiency.  
+Why you should care: The feature provides a real‑world example of AI‑assisted security controls that students can explore to gain practical exposure to modern cloud‑native API security practices.  
+Impact: Medium  
+Source: PR Newswire  
+
+**Microsoft Azure Student Developer Resources Launches Free Cloud Credits for Indian Students**  
+What happened: Microsoft Azure opened a dedicated portal offering free cloud credits, access to Visual Studio Code, and tutorials for students to develop in Python, Java, C++ and more.  
+Why you should care: Indian Diploma IT students can gain hands‑on experience with industry‑standard cloud services, build and deploy projects, and enhance their resumes without cost.  
+Impact: Medium  
+Source: azure.microsoft.com (Student Developer Resources)
+
+## AI
+**Top 20 AI Coding Assistants Compared – 2026 Review / Qodo AI – “Top 15 AI Coding Assistant Tools to Try in 2026”**  
+What happened: Axify.io published a detailed comparison of 20 AI coding assistants, covering features such as inline code suggestions, multi‑line completions, Copilot Chat for explanations and test generation, Agent Mode for multi‑step tasks, and repository‑aware assistance across projects. Qodo.ai released a curated list of 15 AI coding assistants, each with a brief code‑sample demonstration (e.g., building a React + Tailwind UI chat window) to illustrate practical usage.  
+Why you should care: The guides help Diploma IT students quickly identify which assistant integrates with their preferred IDEs (e.g., VS Code, JetBrains) and supports learning activities like debugging, refactoring, and generating test cases, saving time on assignments and projects. They also provide ready‑to‑run examples for hands‑on experience.  
+Impact: Medium  
+Sources: axify.io; qodo.ai  
+
+## Developer World
+**Harness Announces Agentic Security Integration with Google Cloud’s Apigee API Management Tool**  
+What happened: Harness released a new “Agentic Security” feature that integrates directly with Google Cloud’s Apigee API management platform, promising up to 75 % faster releases, 60 % lower cloud costs and ten‑fold DevOps efficiency.  
+Why you should care: Diploma IT students learning API security, cloud deployment, or CI/CD can explore a real‑world example of AI‑assisted security controls that tie into a widely‑used API gateway, giving practical exposure to modern cloud‑native security practices.  
+Impact: Medium  
+Source: PR Newswire  
+
+**Azure DevOps – All‑in‑One DevOps Platform**  
+What happened: Microsoft’s Azure DevOps provides integrated source‑code repositories, CI/CD pipelines, work‑item tracking, backlog management and package hosting in a single cloud service.  
+Why you should care: The platform is free for small teams and aligns with industry‑standard tools; mastering Azure DevOps equips Diploma IT students with skills in end‑to‑end software delivery pipelines that are in demand by Indian IT firms.  
+Impact: Medium  
+Source: Portainer blog  
+
+## Cybersecurity
+**CERT‑In warns hackers are using AI agents to launch attacks in hours**  
+What happened: CERT‑In issued an advisory on 15 Oct 2026 stating that threat actors now employ AI‑driven tools to reduce the dwell time of intrusions from days to just hours, targeting Indian organisations across sectors.  
+Why you should care: Understanding AI‑assisted attack techniques is essential for a Diploma IT student to anticipate emerging threats, strengthen defensive coding practices, and align lab projects with current security challenges.  
+Impact: Medium  
+Source: cybersecuritynews.com  
+
+**CERT‑In recommends 12‑hour patching for internet‑facing vulnerabilities**  
+What happened: On 26 May 2026 CERT‑In released a guideline urging organisations to apply patches to internet‑exposed systems within 12 hours, emphasizing layered, risk‑based controls to mitigate AI‑assisted cyber threats.  
+Why you should care: Rapid patch management is a core skill for IT graduates; adopting the 12‑hour window in labs and internships will improve employability and align with national security standards.  
+Impact: Medium  
+Source: thehackernews.com  
+
+## India
+**India‑Finland Joint Innovation Call 2026 Launched**  
+What happened: The Technology Development Board announced a joint innovation funding call with Finland’s Business Finland, targeting collaborative projects in emerging technologies under the DST‑Business Finland agreement.  
+Why you should care: The call offers Indian students and recent graduates, including Diploma IT candidates, the chance to apply for research grants, internships, or project collaborations that provide exposure to international R&D and potential funding for prototype development.  
+Impact: Medium  
+Source: Technology Development Board (tdb.gov.in)  
+
+**NIC’s “One‑Time Settlement” (OTS) Scheme Highlights Digital Governance Push**  
+What happened: The National Informatics Centre released a video briefing on its new One‑Time Settlement platform, aimed at streamlining digital payments and services for government agencies.  
+Why you should care: Understanding OTS gives Diploma IT students insight into large‑scale e‑governance infrastructure, useful for campus projects, internships, or future roles in public‑sector IT deployments.  
+Impact: Medium  
+Source: NIC India (facebook.com)  
+
+## Learn
+**Learn C++ from Scratch – Free Full Course (College Wallah)**  
+What happened: College Wallah released a free, comprehensive YouTube video series titled “Learn C++ from Scratch in 2026,” covering basics to advanced topics and interview preparation.  
+Why you should care: Mastering C++ is essential for many diploma‑level programming, data structures, and system design courses, and the free format fits tight student budgets.  
+Impact: Medium  
+Source: YouTube – College Wallah  
+
+## Opportunities
+**Microsoft Azure Student Developer Resources Launches Free Cloud Credits for Indian Students**  
+What happened: Microsoft Azure has opened a dedicated portal offering free cloud credits, access to Visual Studio Code, and tutorials for students to develop in Python, Java, C++ and more.  
+Why you should care: As a Diploma IT student in India, you can gain hands‑on experience with industry‑standard cloud services, build and deploy projects, and enhance your resume without cost.  
+Impact: Medium.  
+Source: azure.microsoft.com (Student Developer Resources)  
+
+## Events Near You
+No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+**Dolby.io API Platform Gets New Media Transcode, Music Mastering & Communications Tools**  
+What happened: Dolby Laboratories upgraded its Dolby.io API platform, adding a Media Transcode API, Music Mastering API, and a Communications SDK for desktop applications.  
+Why you should care: The new APIs let students build and test media‑processing pipelines, integrate high‑quality audio mastering, and add real‑time voice/video chat to projects without needing deep DSP expertise—useful for portfolio apps and internship demos.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+**Samsung Blockchain Platform SDK Launches Simplified Crypto‑Transaction APIs**  
+What happened: Samsung released a Blockchain Platform SDK that abstracts account generation, BIP‑44/32 key restoration, and supports ETH, ERC20, ERC721, BSC, Polygon, Klaytn, TRX, and TRC10 transactions via easy‑to‑call APIs.  
+Why you should care: The SDK provides a ready‑made environment for building decentralized apps or integrating blockchain features into existing web or mobile projects, giving diploma students practical experience with emerging fintech technologies.  
+Impact: Medium  
+Source: Samsung Developer  
+
+## Tech Outside AI
+**Arm Announces AGI CPU for Agentic AI Cloud Infrastructure**  
+What happened: Arm unveiled its first production‑silicon data‑center CPU, the Arm AGI CPU, aimed at powering next‑generation “agentic” AI workloads and integrating with the Neoverse CSS N4 platform.  
+Why you should care: Understanding emerging server‑grade processor architectures is valuable for IT students planning careers in cloud computing, AI hardware, or system design, especially as Indian data‑center markets adopt new AI‑focused chips.  
+Impact: Medium  
+Source: Arm Newsroom  
+
+**How is Singapore developing semiconductor talent to meet industry needs?**  
+What happened: Singapore’s Economic Development Board reports that the nation contributes one in 10 global chips and one‑fifth of semiconductor equipment production, with the sector accounting for nearly 6% of its GDP and employing over 35,000 people. The government is implementing talent‑development programmes across the semiconductor value chain, from IC design to wafer fabrication.  
+Why you should care: Understanding Singapore’s talent‑building strategies can inform Indian diploma‑level curricula and help students align their skill development with global industry standards, especially as India expands its own semiconductor ecosystem.  
+Impact: Low.  
+Source: Singapore EDB.
+
+## My Action for Tomorrow
+Register for the free Azure Student Developer Resources portal and claim the initial cloud credit allocation.
+
+## If You Only Remember 3 Things
+- Use the AI coding assistant comparisons to pick a tool that fits your IDE and project needs.  
+- Explore Harness’s Agentic Security with Apigee to understand AI‑driven API protection.  
+- Activate Azure’s free student credits to practice cloud development and strengthen your portfolio.
