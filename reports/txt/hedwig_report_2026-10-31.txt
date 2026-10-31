@@ -1,0 +1,135 @@
+Hedwig's 9 PM Intelligence Report - Saturday, 31 October 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Mistral Large 4 (“Le Chonk”) Open‑Weight Model Released**  
+What happened: French startup Mistral AI made the weights of its 1‑trillion‑parameter model publicly downloadable, targeting high‑performance agentic tasks such as code generation and planning.  
+Why you should care: Free access to a state‑of‑the‑art LLM enables Diploma IT students to experiment with advanced prompting, fine‑tuning, and deployment on local or cloud GPUs, building portfolio projects that showcase cutting‑edge AI skills.  
+Impact: Medium  
+Source: CNET  
+
+**IndiaAI Fellowship Offers Up to ₹1 Lakh for UG and ₹2 Lakh for PG Students**  
+What happened: MeitY launched the IndiaAI Fellowship, providing financial support of up to ₹1 lakh for undergraduate and ₹2 lakh for postgraduate students to pursue AI‑related projects and research.  
+Why you should care: As a Diploma IT student you can apply for funding to develop AI prototypes, attend workshops, or undertake internships, easing financial barriers and strengthening your résumé.  
+Impact: Medium  
+Source: Indian Express  
+What to do: Review eligibility criteria on the MeitY portal and submit an application before the deadline.
+
+**NSA Advisory: Critical Patches Recommended for PHP Vulnerabilities**  
+What happened: The U.S. NSA issued a press release urging immediate application of critical security patches for newly disclosed PHP vulnerabilities.  
+Why you should care: PHP is widely used in Indian IT diploma coursework and student labs; unpatched systems are vulnerable to remote code execution, risking project integrity and personal data.  
+Impact: Medium  
+Source: NSA Press Release.
+
+## AI
+**Mistral Large 4 (“Le Chonk”) Open‑Weight Model Released**  
+What happened: French AI startup Mistral AI made the weights of its 1‑trillion‑parameter model, Mistral Large 4 (codenamed “Le Chonk”), publicly downloadable. The model is positioned for high‑performance agentic tasks such as code generation, planning and complex enterprise workflows.  
+Why you should care: Access to a state‑of‑the‑art large language model at zero cost lets Diploma IT students experiment with advanced prompting, fine‑tuning and deployment on local or cloud GPUs, building portfolio projects that showcase agentic AI skills.  
+Impact: Medium  
+Source: CNET  
+
+**Google Extends Agentic AI to Gemini for Business Use**  
+What happened: Google announced that its Gemini AI platform now includes a unified “agent” capability, enabling the model to not only answer queries but also execute tasks on behalf of users, with automatic model selection and optional manual override. The feature is being rolled out first to business customers via Google Cloud.  
+Why you should care: Understanding how to integrate Gemini’s agentic APIs can give IT students practical experience with cloud‑based AI services, preparing them for roles that require building AI‑driven automation tools or SaaS solutions.  
+Impact: Medium  
+Source: TechCrunch  
+
+## Developer World
+**DeepInfer Open‑Source Inference Framework**  
+What happened: DeepInfer, an Apache‑2.0 licensed inference framework used by DeepSeek for its production models, was released on GitHub with support for DeepSeek‑V4.1‑Flash and features batch‑invariant inference.  
+Why you should care: The framework lets IT students prototype and run large‑scale AI models locally or on modest cloud instances, providing a ready‑made, production‑grade pipeline for inference, caching and load‑balancing experiments without building from scratch.  
+Impact: Medium  
+Source: DEV Community  
+
+**SIA Self‑Improving AI Framework**  
+What happened: SIA (Self Improving AI) entered GitHub’s trending list as a framework that can autonomously improve the performance of any AI model or agent on benchmark tasks through iterative self‑optimization.  
+Why you should care: It offers a plug‑in architecture for students to experiment with meta‑learning and automated model tuning, enabling hands‑on projects that demonstrate advanced AI capabilities without deep research‑level code.  
+Impact: Medium  
+Source: Magikaru Trending  
+
+## Cybersecurity
+**NSA Advisory: Critical Patches Recommended for PHP Vulnerabilities**  
+What happened: The U.S. National Security Agency issued a press release on 21 Oct 2026 urging immediate application of critical security patches for recently disclosed PHP vulnerabilities.  
+Why you should care: PHP is widely used in web development projects and coursework in Indian IT diploma programs; unpatched systems are vulnerable to remote code execution, which can compromise student labs and personal projects.  
+Impact: Medium.  
+Source: NSA Press Release.
+
+## India
+**IndiaAI Fellowship Offers Up to ₹1 Lakh for UG and ₹2 Lakh for PG Students**  
+What happened: The Ministry of Electronics and Information Technology (MeitY) launched the IndiaAI Fellowship, providing financial support of up to ₹1 lakh for undergraduate and ₹2 lakh for postgraduate students to pursue AI‑related projects and research.  
+Why you should care: As a Diploma IT student, you can apply for funding to develop AI prototypes, attend workshops, or undertake internships, easing financial barriers and enhancing your resume.  
+Impact: Medium  
+Source: Indian Express  
+
+**IndiaAI Mission Allocates ₹10,371 Crore to Boost AI Adoption in MSMEs**  
+What happened: The government announced a ₹10,371 crore budget under the IndiaAI Mission to build compute capacity, create datasets, and support startups, aiming to accelerate AI uptake among micro, small and medium enterprises.  
+Why you should care: The initiative will open internship slots, project collaborations, and access to cloud compute resources that Diploma IT students can leverage for hands‑on experience and industry exposure.  
+Impact: Medium  
+Source: Tech Observer  
+
+## Learn
+**IBM Free Data Analysis Courses with Certificates** – Worth doing  
+What happened: IBM offers free online data analysis courses that include a certificate upon completion, covering topics such as data visualization, Python for data analysis, and statistical methods.  
+Why you should care: The courses provide industry‑recognised credentials at no cost, helping a Diploma IT student build a portfolio in data analytics—a high‑demand skill in Indian tech firms.  
+Impact: Medium  
+Source: YouTube – Top VarSity  
+
+**ISRO Free Data Science Python Certification Course** – Maybe  
+What happened: The Indian Space Research Organisation (ISRO) launched a government‑backed, free online certification program in Data Science using Python, featuring modules on data preprocessing, machine learning, and real‑world satellite data projects.  
+Why you should care: A government‑issued certificate from ISRO adds strong credibility to a resume, and the hands‑on Python focus aligns directly with core IT curriculum and job market needs in India.  
+Impact: Medium  
+Source: YouTube – Tricky Man  
+
+## Opportunities
+**Smart India Hackathon 2025 – AI‑Based Internship Allocation Engine**  
+What happened: A student team built an AI‑driven web platform that scans resumes and matches them with government internship slots, aiming to make the allocation process faster, fairer and more transparent.  
+Why you should care: Demonstrates a real‑world application of AI and full‑stack development that aligns with the PM Internship Scheme, offering a model you can study or extend for your own projects and resume.  
+Impact: Medium  
+Source: LinkedIn post by Varsha Yadav  
+
+**Amazon WoW (Women of the World) Internship Program**  
+What happened: Amazon is running an annual internship and full‑time recruitment drive exclusively for female engineering students, featuring mentorship and career development opportunities in tech.  
+Why you should care: Provides a prestigious industry internship with mentorship, valuable for building experience, networking and enhancing employability for female Diploma IT students in India.  
+Impact: Medium  
+Source: My UVCE​  
+
+## Events Near You
+**DevFest Gandhinagar – GDG Gandhinagar’s Biggest Tech Festival**  
+What happened: Google Developer Group Gandhinagar is hosting its annual DevFest, featuring a General track (AI & ML, Web, Mobile, Flutter, Firebase, open source) and a Cloud track (Google Cloud, Kubernetes, etc.).  
+Why you should care: The event offers hands‑on sessions, workshops, and networking with industry professionals, directly relevant for building the practical skills required in a Diploma IT curriculum.  
+Impact: Medium  
+Source: devfest.gdggandhinagar.dev  
+
+**FINMAT Expo 2026 – Finance & FinTech Expo at GIFT City**  
+What happened: The FINMAT Expo will take place on 13 October 2026 at GIFT City, Gandhinagar, bringing together finance leaders, investors, and fintech professionals for talks, networking, and an exhibition.  
+Why you should care: Exposure to fintech innovations and industry networking can help IT diploma students understand real‑world applications, potential career paths, and internship opportunities in the burgeoning financial technology sector.  
+Impact: Medium  
+Source: startupgrantsindia.com  
+
+## Tools Worth Trying
+**Codeium (now Windsurf) – Unlimited Free AI Code Completions**  
+What happened: Codeium rebranded to Windsurf and now offers truly unlimited code completions at no cost, supporting over 70 programming languages and integrating with more than 40 IDEs including VS Code, JetBrains, Neovim and Emacs.  
+Why you should care: As a Diploma IT student you can accelerate learning and project work without paying for a subscription, using AI assistance for routine coding, debugging, and learning new language syntax.  
+Impact: Medium  
+Source: aidewalt.com  
+
+**Google Gemini Code Assist – Free Tier for Android & Web Development**  
+What happened: Google AI Studio provides a generous free tier for Gemini 1.5 Flash and Pro models; developers can obtain a free API key and plug it into tools like Cline to get a 1‑million‑token context window, enabling deep codebase analysis. Gemini integrates natively with Android Studio and Firebase, generating UI code, API payloads, tests and documentation.  
+Why you should care: The integration streamlines Android and Flutter projects common in Indian IT curricula, offering AI‑driven code generation and documentation without extra cost.  
+Impact: Medium  
+Source: towardsai.net  
+
+## Tech Outside AI
+**NVIDIA Announces New CUDA‑X™ Libraries for AI‑Defined Chip Design**  
+What happened: NVIDIA released updated CUDA‑X™ libraries, including the new cuPotential library, enabling developers to run AI‑driven simulations of atomic and molecular interactions for semiconductor design. Major EDA firms such as Synopsys are already integrating these tools to accelerate chip‑fabrication workflows.  
+Why you should care: Mastering CUDA‑X and the cuPotential library gives IT students practical exposure to AI‑enhanced semiconductor design—a fast‑growing niche that aligns with India’s expanding fab ecosystem and can boost employability in EDA and hardware‑software co‑design roles.  
+Impact: Medium.  
+Source: NVIDIA Newsroom.
+
+## My Action for Tomorrow
+Download and install the latest PHP security patches on all development machines and lab environments you use for coursework.
+
+## If You Only Remember 3 Things
+- Mistral Large 4 is now free to download, opening advanced LLM experimentation.  
+- The IndiaAI Fellowship provides up to ₹2 lakh for AI projects—apply if eligible.  
+- Apply the NSA‑recommended PHP patches today to secure your development environment.
