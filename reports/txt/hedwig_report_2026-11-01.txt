@@ -1,0 +1,108 @@
+Hedwig's 9 PM Intelligence Report - Sunday, 01 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Oracle Database 23c Free – Developer Release Now Available**  
+What happened: Oracle has launched a free developer edition of Oracle Database 23c, offering early access to new application development features such as JSON Relational Duality that blends document and relational data models.  
+Why you should care: As a Diploma IT student, you can practice with a leading enterprise database at no cost, gaining hands‑on experience with modern data handling techniques that are increasingly demanded in Indian IT firms.  
+Impact: Medium  
+Source: PR Newswire  
+
+**Microsoft Free Certification Course 2026 – Cloud, Security & AI** – Worth doing  
+What happened: Microsoft announced a certification week offering free, instructor‑led labs and exam vouchers for its Cloud, Security and AI tracks, delivered via the Skillable platform.  
+Why you should care: The credentials are industry‑recognized and align with the core subjects of a Diploma in IT, giving you hands‑on experience with Azure services, enterprise security frameworks and generative AI tools without any cost.  
+Impact: Medium  
+Source: coursejoiner.com  
+
+**GitHub Copilot**  
+What happened: GitHub released Copilot, an AI‑powered coding assistant that provides in‑IDE code suggestions, completions, and whole‑function generation for multiple programming languages.  
+Why you should care: As a Diploma IT student, Copilot can accelerate learning by offering instant code examples, reducing syntax errors, and helping you understand unfamiliar APIs while working on assignments or personal projects.  
+Impact: Medium  
+Source: beaglesecurity.com
+
+## AI
+No items.
+
+## Developer World
+**Oracle Database 23c Free – Developer Release Now Available**  
+What happened: Oracle has launched a free developer edition of Oracle Database 23c, offering early access to new application development features such as JSON Relational Duality that blends document and relational data models.  
+Why you should care: As a Diploma IT student, you can practice with a leading enterprise database at no cost, gaining hands‑on experience with modern data handling techniques that are increasingly demanded in Indian IT firms.  
+Impact: Medium  
+Source: PR Newswire
+
+## Cybersecurity
+**Redefining Enterprise Defense in the Era of AI‑Led Cyberattacks**  
+What happened: Trend Micro reports a rise in “criminal” large language models (LLMs) such as WormGPT and DarkBERT, which use jailbreak prompts to bypass safety controls and generate malicious code or phishing content.  
+Why you should care: Understanding how AI can be weaponized equips a Diploma IT student to recognize emerging threats, develop defensive scripts, and prepare for roles in security operations or incident response.  
+Impact: Medium  
+Source: Trend Micro
+
+## India
+No items.
+
+## Learn
+**Microsoft Free Certification Course 2026 – Cloud, Security & AI** – Worth doing  
+What happened: Microsoft announced a certification week offering free, instructor‑led labs and exam vouchers for its Cloud, Security and AI tracks, delivered via the Skillable platform.  
+Why you should care: The credentials are industry‑recognized and align with the core subjects of a Diploma in IT, giving you hands‑on experience with Azure services, enterprise security frameworks and generative AI tools without any cost.  
+Impact: Medium  
+Source: coursejoiner.com  
+
+**AWS Certified Generative AI Developer – Exam Preparation 2026 (Free)** – Maybe  
+What happened: AWS released a free, comprehensive video course covering the Generative AI Developer certification, including all exam objectives and practice questions.  
+Why you should care: Mastering AWS’s generative AI services (e.g., Bedrock, SageMaker) complements typical diploma curricula and enhances employability in cloud‑focused roles, especially as Indian enterprises adopt AI‑enabled cloud solutions.  
+Impact: Medium  
+Source: FreeLearn on YouTube
+
+## Opportunities
+**Tech for India Fellowship 2026 – ₹25,344 monthly stipend for graduate students**  
+What happened: The Tech for India Fellowship 2026, a two‑year program offering a monthly stipend of ₹25,344, opened applications for graduate students across India. The application deadline is 8 February 2026.  
+Why you should care: A Diploma IT student can use this fellowship to fund further graduate studies or research, gaining both financial support and industry‑relevant experience in technology projects.  
+Impact: Low  
+Source: quickjankari.com
+
+## Events Near You
+**Entrepreneurs Meetup by We Founders Collab – Ahmedabad 2026**  
+What happened: A networking event for aspiring entrepreneurs organized by We Founders Collab, scheduled to be held at Creative Infocity Limited in Gandhinagar.  
+Why you should care: Attending offers a Diploma IT student direct exposure to startup founders, potential internship leads, and practical insights into launching tech ventures in Gujarat.  
+Impact: Low  
+Source: MeraEvents
+
+## Tools Worth Trying
+**GitHub Copilot**  
+What happened: GitHub released Copilot, an AI‑powered coding assistant that provides in‑IDE code suggestions, completions, and whole‑function generation for multiple programming languages.  
+Why you should care: As a Diploma IT student, Copilot can accelerate learning by offering instant code examples, reducing syntax errors, and helping you understand unfamiliar APIs while working on assignments or personal projects.  
+Impact: Medium  
+Source: beaglesecurity.com  
+
+**Spacelift**  
+What happened: Spacelift launched an updated platform for infrastructure automation, adding Terraform governance, drift detection, and CI/CD pipeline integration.  
+Why you should care: Mastering IaC tools like Terraform is valuable for modern DevOps roles; Spacelift’s managed service lets you practice infrastructure provisioning, compliance checks, and automated deployments without setting up complex self‑hosted environments.  
+Impact: Medium  
+Source: beaglesecurity.com
+
+## Tech Outside AI
+**Intel unveils Crescent Island AI accelerator powering new GPU D‑Series**  
+What happened: Intel announced its Crescent Island AI accelerator, delivering 1.3 PFLOPS of FP8 compute and 1.5 TB/s memory bandwidth, now integrated into the upcoming GPU D‑Series products.  
+Why you should care: Understanding the specifications and architecture of modern AI accelerators helps IT diploma students grasp current hardware trends, essential for coursework in computer architecture, AI workloads, and future job readiness in the Indian tech sector.  
+Impact: Medium  
+Source: Tom's Hardware  
+
+**EY deepens partnership with Microsoft, investing over $1 billion to accelerate enterprise AI transformation**  
+What happened: EY and Microsoft have jointly committed more than $1 billion to a new initiative aimed at fast‑tracking AI adoption across large enterprises, including the rollout of generative‑AI tools and cloud‑based analytics platforms.  
+Why you should care: Understanding how major consulting firms and cloud providers integrate AI can help Diploma IT students grasp real‑world AI deployment models, cloud service economics, and the skill sets (e.g., Azure AI services, data engineering) that employers now prioritize.  
+Impact: Medium  
+Source: Accounting Today  
+
+**Amazon launches “Rufus” AI shopping assistant, signing multi‑year content deals with major publishers**  
+What happened: Amazon’s AI‑driven shopping assistant Rufus, launched in the U.S. in 2024, now uses product data and licensed content from publishers such as Conde Nast and Hearst to deliver AI‑generated product recommendations and comparisons.  
+Why you should care: The rollout illustrates practical applications of generative AI in e‑commerce and highlights the importance of data readiness (structured product catalogs) and API integration—key areas for IT students to master for future development roles.  
+Impact: Medium  
+Source: Press Gazette
+
+## My Action for Tomorrow
+Enroll in the free Microsoft Cloud, Security & AI certification course and begin the instructor‑led labs.
+
+## If You Only Remember 3 Things
+- Oracle Database 23c free edition lets you practice enterprise‑grade data skills at zero cost.  
+- Microsoft’s free certification week provides industry‑validated Azure and security credentials.  
+- GitHub Copilot can speed up coding practice and reduce errors for your assignments.
