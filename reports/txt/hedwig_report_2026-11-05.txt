@@ -1,0 +1,113 @@
+Hedwig's 9 PM Intelligence Report - Thursday, 05 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**SEBI Issues Circular on AI‑Based Cybersecurity Tools for Regulated Entities**  
+What happened: The Securities and Exchange Board of India (SEBI) released a circular requiring all regulated securities market participants to adopt prompt patching, interim virtual patching, regular vulnerability assessments and security audits that may include AI‑driven detection tools.  
+Why you should care: Understanding these compliance requirements helps IT diploma students align project work and future job roles with industry‑mandated security practices, especially when building fintech or trading‑related applications.  
+Impact: Medium  
+Source: TechPolicy.Press  
+
+**DPDP Act and Rules Prompt Organizations to Review Data Retention and Deletion**  
+What happened: India’s Digital Personal Data Protection Act, 2023 and the Digital Personal Data Protection Rules, 2025 now obligate entities to reassess data retention periods, justify storage reasons, and implement secure deletion or anonymisation processes.  
+Why you should care: As a budding IT professional, you will need to design systems that comply with these legal standards, ensuring proper data lifecycle management in software development and database projects.  
+Impact: Medium  
+Source: Legal 500  
+
+**NVIDIA Teams Up with Major Financial Firms to Fund AI Infrastructure**  
+What happened: NVIDIA announced a partnership with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create financing platforms aimed at mobilizing over $500 billion for AI compute infrastructure.  
+Why you should care: The massive investment signals rapid expansion of AI hardware and services in India, creating demand for skilled technicians, system administrators and developers familiar with GPU‑accelerated computing—a key career path for IT diploma graduates.  
+Impact: Medium  
+Source: NVIDIA News
+
+## AI
+**Breakthrough hybrid light‑matter particles could power AI faster and greener**  
+What happened: Researchers at the University of Pennsylvania created a hybrid light‑matter particle that can perform AI computations with far less energy than traditional electronics, promising ultra‑efficient, high‑speed AI hardware.  
+Why you should care: Understanding emerging hardware trends helps IT diploma students anticipate future skill demands in AI acceleration, edge computing, and low‑power device design, areas increasingly relevant to Indian tech firms and startups.  
+Impact: Medium  
+Source: ScienceDaily  
+
+**OpenAI releases “Ten advances in mathematics and theoretical computer science”**  
+What happened: OpenAI published a summary of ten recent breakthroughs in mathematics and theoretical computer science, including results that overturn long‑standing conjectures and impact algorithmic complexity.  
+Why you should care: The highlighted advances directly affect algorithm design, complexity analysis, and cryptographic foundations—core topics for IT curricula and useful for project work, internships, and competitive exams in India.  
+Impact: Medium  
+Source: OpenAI  
+
+## Developer World
+**Couchbase Capella adds Netlify integration and VS Code extension**  
+What happened: Couchbase announced a new release of its Database‑as‑a‑Service platform, Capella, now integrated with Netlify and accompanied by a Visual Studio Code extension for streamlined development and deployment.  
+Why you should care: The integration lets you host front‑end projects on Netlify while directly connecting to a managed NoSQL database, and the VS Code extension provides in‑IDE tools for schema design, query testing, and data management—skills relevant for modern web and cloud‑app development coursework.  
+Impact: Medium  
+Source: StockTitan (BASE)  
+
+## Cybersecurity
+**7 Cybersecurity Trends to Know in 2026 – Coursera Article**  
+What happened: Coursera published a summary of the top cybersecurity trends for 2026, highlighting data protection for remote work, machine‑learning‑based attacks, and advances in multi‑factor authentication.  
+Why you should care: Understanding these trends helps a Diploma IT student focus on the most in‑demand security skills and align coursework or self‑study with industry priorities.  
+Impact: Low  
+Source: Coursera (2026‑09‑21)  
+
+## India
+**SEBI Issues Circular on AI‑Based Cybersecurity Tools for Regulated Entities**  
+What happened: The Securities and Exchange Board of India (SEBI) released a circular requiring all regulated securities market participants to adopt prompt patching, interim virtual patching, regular vulnerability assessments and security audits that may include AI‑driven detection tools.  
+Why you should care: Understanding these compliance requirements helps IT diploma students align project work and future job roles with industry‑mandated security practices, especially when building fintech or trading‑related applications.  
+Impact: Medium  
+Source: TechPolicy.Press  
+
+**DPDP Act and Rules Prompt Organizations to Review Data Retention and Deletion**  
+What happened: India’s Digital Personal Data Protection Act, 2023 and the Digital Personal Data Protection Rules, 2025 now obligate entities to reassess data retention periods, justify storage reasons, and implement secure deletion or anonymisation processes.  
+Why you should care: As a budding IT professional, you will need to design systems that comply with these legal standards, ensuring proper data lifecycle management in software development and database projects.  
+Impact: Medium  
+Source: Legal 500  
+
+## Learn
+**Curated List of Free AI Courses – DeepLearning.AI, Trailhead, Coursera, Microsoft Learn**  
+What happened: A Reddit post compiled a list of truly free AI courses, including Prompt Engineering (DeepLearning.AI, 5 hrs), Salesforce AI (Trailhead, 5 hrs), Google AI Essentials (Coursera, 10 hrs, audit free), and Microsoft AI Fundamentals (MS Learn, 8 hrs).  
+Why you should care: These short, no‑paywall courses cover core AI concepts and practical tools that align with the syllabus of a Diploma in IT, enabling you to build a solid foundation in AI without spending money.  
+Impact: Low  
+
+**Telangana State Free AI & Cloud Computing Training for 100,000 Students**  
+What happened: The Telangana government, in partnership with AWS, announced a program to deliver free AI and cloud computing training to 100,000 students across 643 colleges, with no cost to participants.  
+Why you should care: If you are enrolled in a college in Telangana or can attend virtual sessions, you can earn recognized AWS AI certifications and gain hands‑on cloud experience, boosting employability for IT diploma graduates.  
+Impact: Low  
+Source: Reddit post (r/learnmachinelearning); YouTube coverage of Telangana‑AWS training.  
+
+## Opportunities
+**List of International Tech Fellowships for Students/Researchers offered by India**  
+What happened: The Indian Embassy in Buenos Aires published a compiled list of international tech fellowships, including ICCR scholarships, ITEC Programme, GIAN, and other initiatives for Indian students and researchers.  
+Why you should care: These fellowships provide funding, mentorship, and overseas research exposure that can enhance your IT diploma credentials and open pathways to advanced studies or employment.  
+Impact: Medium  
+Source: Embassy of India, Buenos Aires  
+
+**AI Scholarship Programme for B.Tech, M.Tech, PhD & Beyond**  
+What happened: Union Minister Ashwini Vaishnaw announced a national AI scholarship scheme targeting students across technical degrees, offering financial support and research opportunities in artificial intelligence.  
+Why you should care: As an IT diploma student, the scholarship can fund AI‑focused projects, internships, or further study, aligning with industry demand for AI skills.  
+Impact: Medium  
+Source: YouTube – Government announcement video  
+
+## Events Near You
+No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+No items to report.
+
+## Tech Outside AI
+**NVIDIA Teams Up with Major Financial Firms to Fund AI Infrastructure**  
+What happened: NVIDIA announced a partnership with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create financing platforms aimed at mobilizing over $500 billion for AI compute infrastructure.  
+Why you should care: The massive investment signals rapid expansion of AI hardware and services in India, creating demand for skilled technicians, system administrators and developers familiar with GPU‑accelerated computing—a key career path for IT diploma graduates.  
+Impact: Medium  
+Source: NVIDIA News  
+
+**Developers urged to adopt new AI hardware with familiar tools**  
+What happened: A LinkedIn post highlighted a Korean AI accelerator startup that uses a dataflow architecture and LPDDR5X memory instead of HBM, aiming for lower cost. The author raised questions about the software stack—drivers, compilers, and libraries—required for such hardware.  
+Why you should care: Understanding emerging AI accelerator architectures and their integration challenges helps a Diploma IT student grasp future hardware trends and prepares them to work with cutting‑edge AI compute platforms.  
+Impact: Medium  
+Source: LinkedIn (Jay Gambetta)
+
+## My Action for Tomorrow
+Enroll in the free AI course on Prompt Engineering offered by DeepLearning.AI to build a foundational skill set aligned with emerging AI hardware and compliance trends.
+
+## If You Only Remember 3 Things
+- SEBI now mandates AI‑enabled cybersecurity measures for regulated market participants.  
+- DPDP compliance requires rigorous data retention reviews and secure deletion.  
+- Over $500 billion is being funneled into AI compute infrastructure, expanding job opportunities in GPU‑accelerated systems.
