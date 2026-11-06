@@ -2,107 +2,119 @@ Hedwig's 9 PM Intelligence Report - Friday, 06 November 2026
 ============================================================
 
 ## 3 Things I Absolutely Should Know Today
-**GitHub Copilot Free Plan Launch**  
-What happened: GitHub announced a free tier for Copilot offering 2,000 code completions per month at no cost, integrated into popular IDEs such as VS Code.  
-Why you should care: As a Diploma IT student, you can access an AI coding assistant for routine programming tasks, project work, and exam preparation without spending money, helping you write code faster and learn best practices.  
-Impact: Medium  
-Source: THE PEOPLES PODCAST  
+**Critical PHP Vulnerabilities (CVE‑2026‑109618, CVE‑2026‑109619) Discovered**  
+What happened: Researchers reported two remote‑code‑execution flaws affecting all PHP versions from 5 onward, involving use‑after‑free and type‑confusion bugs in OPcache.  
+Why you should care: PHP underpins many web projects and internships; these flaws expose code to takeover, making immediate remediation essential for secure deployments.  
+Impact: Critical  
+What to do: Verify your PHP version, apply the latest security patches, and audit any legacy applications for vulnerable OPcache usage.  
+Source: cyber.gov.au  
 
-**CERT‑In warns Google Chrome users of critical remote code execution flaws**  
-What happened: India’s Computer Emergency Response Team (CERT‑In) issued an advisory on 17 August 2026 highlighting multiple high‑severity remote code execution vulnerabilities in the desktop version of Google Chrome.  
-Why you should care: As a Diploma IT student, many coursework and lab environments rely on Chrome; unpatched browsers could expose your development work and personal data to exploitation.  
+**Tencent Launches Hy4, a New Open‑Source Large Language Model**  
+What happened: Tencent announced Hy4, an open‑source LLM with visual understanding, long‑context handling and enhanced instruction‑following for agentic tasks.  
+Why you should care: The model is freely downloadable, enabling Diploma IT students to experiment with multimodal AI applications and build portfolio projects without licensing fees.  
 Impact: Medium  
-Source: TechGig  
+Source: Tencent  
 
-**Harvard CS50: Introduction to Computer Science – Free Online Course**  
-What happened: Harvard University offers its flagship CS50 course online for free, covering programming fundamentals, algorithms, and problem‑solving across multiple languages.  
-Why you should care: The curriculum aligns with core subjects in a Diploma IT program, providing structured, university‑level instruction and a recognized certificate that can strengthen resumes and interview prospects.  
+**IndiaAI Mission launches three indigenous AI models for offline and secure sector use**  
+What happened: The IndiaAI Mission unveiled three home‑grown foundation models designed to operate offline, targeting banking, cybersecurity and defence sectors.  
+Why you should care: These locally sourced models offer cost‑effective, compliance‑friendly AI alternatives, allowing Indian IT diploma graduates to work on secure AI projects for domestic enterprises.  
 Impact: Medium  
-Source: Harvard University (pll.harvard.edu)
+Source: Elets eGov
 
 ## AI
-**GitHub Copilot Free Plan Launch**  
-What happened: GitHub announced a free tier for Copilot offering 2,000 code completions per month at no cost. The service provides AI‑generated code suggestions directly within popular IDEs such as VS Code.  
-Why you should care: As a Diploma IT student, you can access an AI coding assistant for routine programming tasks, project work, and exam preparation without spending money, helping you write code faster and learn best practices.  
+**Tencent Launches Hy4, a New Open‑Source Large Language Model**  
+What happened: Tencent announced Hy4, its latest‑generation open‑source LLM with visual understanding, long‑context handling and enhanced instruction‑following for agentic tasks.  
+Why you should care: The model is freely available, so a Diploma IT student can download, experiment with multimodal AI applications, and build portfolio projects using cutting‑edge capabilities without licensing costs.  
 Impact: Medium  
-Source: THE PEOPLES PODCAST  
+Source: Tencent  
 
-**Claude Code Update – New Authentication & Cloud‑Session Features**  
-What happened: Anthropic released a major update to Claude Code, adding detailed authentication status, cloud‑session options, and improved reliability for remote connections and background agents.  
-Why you should care: The enhancements make Claude Code more secure and usable for collaborative projects and remote lab work, allowing you to integrate a powerful AI coding assistant into your development workflow with confidence.  
+**Microsoft Reports Threat Actors Exploiting Agentic AI to Harvest Cloud Secrets**  
+What happened: Microsoft’s security blog detailed how, since August 2026, attackers have used agentic AI frameworks to automate large‑scale queries on GitHub, targeting organization names and cloud‑service keywords to locate exposed secrets.  
+Why you should care: Understanding these tactics helps IT students grasp emerging AI‑driven security risks, informing secure coding practices and preparing them for cybersecurity roles.  
 Impact: Medium  
-Source: Releasebot.io  
+Source: Microsoft Security Blog  
 
 ## Developer World
-**Jenkins CI/CD Automation Tool**  
-What happened: Jenkins, an open‑source automation server, released version 2.462 with updated pipeline syntax, native Docker support, and enhanced security plugins.  
-Why you should care: Mastering Jenkins enables you to build, test, and deploy applications automatically—a core skill for IT diplomas and entry‑level DevOps roles in India.  
+**React Native emerges as the most-starred UI framework on GitHub**  
+What happened: React Native, the open‑source library from Facebook for building cross‑platform iOS and Android apps, has surpassed 121 k stars, making it the top‑ranked UI framework in GitHub’s trending list.  
+Why you should care: Mastering React Native gives a Diploma IT student a marketable skill for mobile app development, a high‑demand area in Indian tech firms and startups.  
 Impact: Medium  
-Source: Coursera  
+Source: Talent500 blog  
 
-**Docker Container Platform**  
-What happened: Docker introduced Docker Desktop 4.30, adding integrated Kubernetes, new resource controls, and streamlined multi‑arch image builds.  
-Why you should care: Knowing Docker lets you package applications with all dependencies, simplifying development, testing, and deployment—essential for modern software projects and internship projects.  
+**Flask highlighted as a lightweight, beginner‑friendly Python web framework**  
+What happened: Flask, an open‑source micro‑web framework written in Python, is noted for its simplicity and ease of learning, positioning it as a go‑to choice for rapid web development projects.  
+Why you should care: Knowing Flask enables quick prototyping of web services and APIs, a core competence for IT graduates aiming for full‑stack or backend roles in India’s growing startup ecosystem.  
 Impact: Medium  
-Source: Coursera  
+Source: Talent500 blog  
 
 ## Cybersecurity
-**CERT‑In warns Google Chrome users of critical remote code execution flaws**  
-What happened: India’s Computer Emergency Response Team (CERT‑In) issued an advisory on 17 August 2026 highlighting multiple high‑severity remote code execution vulnerabilities in the desktop version of Google Chrome.  
-Why you should care: As a Diploma IT student, many coursework and lab environments rely on Chrome; unpatched browsers could expose your development work and personal data to exploitation.  
+**Critical PHP Vulnerabilities (CVE‑2026‑109618, CVE‑2026‑109619) Discovered**  
+What happened: Researchers reported two critical remote‑code‑execution flaws affecting all PHP versions from 5 onward, including use‑after‑free and type‑confusion bugs in OPcache.  
+Why you should care: PHP is core to many web development projects and internships; understanding these flaws helps you secure code, audit legacy applications, and prepare for employer‑driven security audits.  
 Impact: Medium  
-Source: TechGig  
+Source: cyber.gov.au  
 
 ## India
-**Union Cabinet approves ₹14,500 crore VGF scheme for large‑scale energy storage**  
-What happened: The Indian government announced a Viability Gap Funding scheme of ₹14,500 crore to support the deployment of 92 GWh of new grid‑scale energy storage capacity between 2026‑27 and 2030‑31.  
-Why you should care: Access to affordable, reliable storage will accelerate renewable‑energy projects and create demand for IT‑related roles in system integration, data analytics, and IoT monitoring—areas where a Diploma IT graduate can find entry‑level positions.  
+**IndiaAI Mission launches three indigenous AI models for offline and secure sector use**  
+What happened: The IndiaAI Mission unveiled three home‑grown foundation models designed to operate offline, targeting sectors such as banking, cybersecurity, and defence.  
+Why you should care: These models provide a locally sourced, cost‑effective alternative to foreign AI services, enabling Indian IT diploma graduates to work on secure, compliance‑friendly AI projects for domestic enterprises.  
 Impact: Medium  
-Source: The Hindu  
+Source: Elets eGov  
 
-**India approves USD 297 million Critical Mineral Processing Scheme**  
-What happened: A government program worth USD 297 million was launched to develop domestic capacity for processing critical minerals, reducing reliance on imports for high‑purity compounds used in electronics and clean‑energy technologies.  
-Why you should care: The scheme will boost local manufacturing of components that underpin hardware and semiconductor work, increasing opportunities for IT students in supply‑chain software, automation, and R&D collaborations with mineral‑processing firms.  
+**Preview of India’s AI Impact Summit focusing on democratizing AI resources**  
+What happened: MeitY Secretary S. Krishnan outlined the upcoming AI Impact Summit, emphasizing the mission’s plan to build inexpensive AI models and provide compute infrastructure tailored to Indian conditions.  
+Why you should care: The summit will highlight funding, training, and partnership opportunities that diploma‑level IT students can tap for internships, project collaborations, and access to government‑backed AI resources.  
 Impact: Medium  
-Source: Spherical Insights  
+Source: CSIS  
 
 ## Learn
-**Harvard CS50: Introduction to Computer Science – Free Online Course**  
-What happened: Harvard University offers its flagship CS50 course online for free, covering programming fundamentals, algorithms, and problem‑solving across multiple languages.  
-Why you should care: The curriculum aligns with core subjects in a Diploma IT program, providing structured, university‑level instruction and a recognized certificate that can strengthen resumes and interview prospects.  
-Impact: Medium  
-Source: Harvard University (pll.harvard.edu)  
+**Harvard CS50 – Introduction to Computer Science (edX)**  
+What happened: Harvard’s CS50 course is offered for free on edX, covering programming fundamentals, algorithms, and computer architecture; a verified certificate can be earned for a fee.  
+Why you should care: The course provides a solid foundation for diploma‑level IT studies and is recognized internationally, enhancing both resume and LinkedIn profile.  
+Impact: Medium.  
+Source: edX  
 
-**Best Google Programming Courses – Free Access List**  
-What happened: Business Insider compiled a list of eight free Google‑provided programming courses covering topics such as Android development, cloud computing, and data analytics.  
-Why you should care: These courses are directly sourced from Google, teaching industry‑relevant skills and tools (e.g., TensorFlow, Google Cloud) that are in demand for entry‑level IT positions in India.  
-Impact: Medium  
-Source: Business Insider (businessinsider.com)  
+**Google AI Bootcamp – Free AI Fundamentals Course (2026)**  
+What happened: Google launched a free, one‑day online AI bootcamp in 2026, delivering introductory AI concepts, hands‑on labs, and a completion certificate.  
+Why you should care: The program gives diploma IT students practical exposure to current AI tools and techniques, aligning with industry demand and boosting employability.  
+Impact: Medium.  
+Source: Google (via freeCodeCamp)  
 
 ## Opportunities
-No relevant opportunities were identified.
+**Katalon Launches Virtual Internship Program for Indian Students**  
+What happened: Katalon partnered with SmartBridge to offer a virtual internship focused on software test automation, targeting students from AICTE‑affiliated institutes.  
+Why you should care: Provides hands‑on experience with a leading automation tool, enhances resume and builds industry contacts without needing to relocate.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+**Lumen India’s Quest 2026 Hackathon Internship Program**  
+What happened: Lumen Technologies India announced the Quest 2026 hackathon, offering participants the chance to work on real‑world problems, receive mentorship, and earn an internship with the company.  
+Why you should care: Enables Diploma IT students to apply coding skills in a corporate setting, gain practical project experience, and potentially secure a full‑time role at a global tech firm.  
+Impact: Medium  
+Source: Lumen Jobs  
 
 ## Events Near You
 No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
 
 ## Tools Worth Trying
-**HubSpot Developer Platform – New API and App Tools Released**  
-What happened: HubSpot announced updates to its developer platform, adding new APIs, app creation tools, and CMS extensions for building business solutions.  
-Why you should care: Learning to integrate HubSpot’s APIs can help a Diploma IT student build real‑world CRM and marketing automation projects, enhancing employability in the Indian tech market.  
+**Amazon Q Developer – Free Tier AI Coding Assistant for AWS‑Centric Development**  
+What happened: Amazon launched a free tier of Q Developer, an AI‑powered coding assistant integrated with popular IDEs and CLI tools, offering contextual help for AWS services, Lambda functions, CloudWatch debugging, and infrastructure‑as‑code.  
+Why you should care: A Diploma IT student in India often works on cloud‑based projects or campus labs that use AWS; the assistant’s built‑in AWS knowledge can accelerate learning, reduce time spent on cloud configuration, and produce correct code snippets without a paid subscription.  
 Impact: Medium  
-Source: HubSpot Developers  
+
+**AskCodi – Free AI Assistant Tailored for Students and Beginners**  
+What happened: AskCodi released a free tier focused on code explanations, documentation generation, and step‑by‑step guidance, positioning itself as a learning‑oriented AI coding helper.  
+Why you should care: Ideal for students new to programming concepts, AskCodi can clarify syntax, generate example code, and produce documentation, helping you grasp fundamentals and complete assignments faster.  
+Impact: Medium  
+Source: perplexityaimagazine.com; thesaninfo.com  
 
 ## Tech Outside AI
-**Meta Partners With Arm to Develop New Class of Data Center Silicon**  
-What happened: Meta announced a partnership with Arm to design new CPUs aimed at handling increasing AI workloads in data centers.  
-Why you should care: Understanding emerging processor architectures and AI‑focused hardware is essential for IT students planning careers in cloud computing, AI development, or hardware design.  
-Impact: Medium  
-Source: about.fb.com
+No items were provided for this section.
 
 ## My Action for Tomorrow
-Enroll in Harvard’s free CS50 online course and begin the first module to supplement your Diploma IT curriculum.
+Download and set up the Hy4 open‑source model on a local development environment to experiment with its multimodal capabilities.
 
 ## If You Only Remember 3 Things
-- GitHub Copilot’s free tier gives you instant AI‑assisted coding without cost.  
-- Patch Chrome immediately to avoid remote code execution risks highlighted by CERT‑In.  
-- Leverage the free CS50 course to deepen core computer‑science knowledge and boost employability.
+- Patch all PHP installations immediately to mitigate critical remote‑code‑execution bugs.  
+- Leverage Tencent’s Hy4 LLM for free, hands‑on AI project development.  
+- Explore IndiaAI Mission’s offline models for secure, locally compliant AI solutions.
