@@ -1,0 +1,108 @@
+Hedwig's 9 PM Intelligence Report - Saturday, 07 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Free AI & Cloud Certification Prep – Anthropic Academy and Other Platforms**  
+What happened: Multiple providers, including Anthropic Academy, now offer completely free AI and cloud certification preparation courses without paywalls, covering fundamentals of large language models, prompt engineering, and cloud services.  
+Why you should care: These courses align with core IT diploma topics such as cloud computing, AI fundamentals, and emerging technologies, and provide certificates that can strengthen your résumé for internships or entry‑level jobs in India’s growing tech sector.  
+Impact: Medium  
+Source: YouTube – sthithapragna  
+
+**Free AI and Cloud Training for Telangana Students – TASK × AWS Partnership**  
+What happened: The Telangana government, in partnership with Amazon Web Services (AWS), launched a program offering free AI and cloud training to eligible students, covering AWS fundamentals, AI/ML services, and hands‑on labs.  
+Why you should care: As a Diploma IT student, you can acquire industry‑recognized AWS skills at no cost, enhancing employability for cloud‑focused roles in Indian companies and improving eligibility for AWS certifications.  
+Impact: Medium  
+Source: YouTube – bloopcommits  
+
+**Microsoft Security Blog – “ARTEX abuse expands as cybercriminals target financial sector”**  
+What happened: Microsoft reports a rise in AI‑driven attack tools, notably the ARTEX framework, being used to accelerate phishing and ransomware campaigns against financial institutions.  
+Why you should care: Understanding AI‑enhanced threats and the corresponding defensive AI tools is essential for IT students preparing for cybersecurity roles, especially when securing banking and fintech systems in India.  
+Impact: Medium  
+Source: Microsoft Security Blog
+
+## AI
+No items to report.
+
+## Developer World
+**Oracle’s new database security tool is free — for six months**  
+What happened: Oracle released a database security tool that provides a centralized view of security risks across database environments, and it is offered free of charge for six months.  
+Why you should care: As a Diploma IT student, gaining hands‑on experience with enterprise‑grade security tools can enhance your resume and prepare you for roles in database administration or security. The free period allows you to explore the tool without cost.  
+Impact: Low  
+Source: InfoWorld
+
+## Cybersecurity
+**Microsoft Security Blog – “ARTEX abuse expands as cybercriminals target financial sector”**  
+What happened: Microsoft reports a rise in AI‑driven attack tools, notably the ARTEX framework, being used to accelerate phishing and ransomware campaigns against financial institutions.  
+Why you should care: Understanding AI‑enhanced threats and the corresponding defensive AI tools is essential for IT students preparing for cybersecurity roles, especially when securing banking and fintech systems in India.  
+Impact: Medium  
+Source: Microsoft Security Blog  
+
+**Reuters – “AI sharpens cat-and-mouse hacking battle as companies strengthen defences”**  
+What happened: Reuters details how generative AI is being weaponized for rapid vulnerability discovery, citing incidents like a major cryptocurrency theft at Binance and compromised supermarket IoT devices.  
+Why you should care: Highlights the growing need for skills in AI‑assisted vulnerability assessment and secure coding—key competencies for Indian IT graduates entering the security workforce.  
+Impact: Medium  
+Source: Reuters
+
+## India
+No items to report.
+
+## Learn
+**Free AI & Cloud Certification Prep – Anthropic Academy and Other Platforms** – Worth doing  
+What happened: Multiple providers, including Anthropic Academy, now offer completely free AI and cloud certification preparation courses without paywalls, covering fundamentals of large language models, prompt engineering, and cloud services.  
+Why you should care: These courses align with core IT diploma topics such as cloud computing, AI fundamentals, and emerging technologies, and provide certificates that can strengthen your résumé for internships or entry‑level jobs in India’s growing tech sector.  
+Impact: Medium  
+Source: YouTube – sthithapragna  
+
+**Free AI and Cloud Training for Telangana Students – TASK × AWS Partnership** – Worth doing  
+What happened: The Telangana government, in partnership with Amazon Web Services (AWS), launched a program offering free AI and cloud training to eligible students, covering AWS fundamentals, AI/ML services, and hands‑on labs.  
+Why you should care: As a Diploma IT student, you can acquire industry‑recognized AWS skills at no cost, enhancing employability for cloud‑focused roles in Indian companies and improving eligibility for AWS certifications.  
+Impact: Medium  
+Source: YouTube – bloopcommits
+
+## Opportunities
+**Protean Vidyasaarathi launches digital‑first scholarship platform**  
+What happened: Protean Vidyasaarathi announced a new online platform that aggregates and distributes scholarships for students across India, positioning itself as a trusted digital ecosystem for educational funding.  
+Why you should care: As a Diploma IT student, you can access a centralized source of merit‑based and need‑based scholarships, reducing the time spent searching for financial aid and increasing your chances of receiving support for tuition and related expenses.  
+Impact: Low  
+Source: Yahoo Finance
+
+## Events Near You
+**AI Café – House of Starts – Ahmedabad (Friday, 27 November, 4 pm)**  
+What happened: A local meetup hosted by House of Starts featuring an AI‑focused discussion session open to developers and students.  
+Why you should care: Provides a chance to network with regional startups, learn about practical AI projects, and discover internship or project collaboration opportunities relevant to a Diploma IT curriculum.  
+Impact: Low  
+Source: eChai Ventures
+
+## Tools Worth Trying
+**Visual Studio Code (VS Code) – Free, Extensible IDE**  
+What happened: VS Code remains the leading free code editor in 2026, offering a lightweight core with a vast marketplace of extensions for languages, debuggers, Git integration, and AI‑assisted coding.  
+Why you should care: As a Diploma IT student, VS Code provides all the tools needed for coursework, labs, and project development without licensing costs, and its extensions can streamline learning new languages and frameworks.  
+Impact: Medium  
+Source: Propel Code  
+
+**AI Coding Assistants (e.g., GitHub Copilot, Tabnine)**  
+What happened: AI‑driven code completion tools are now mainstream, integrating directly into IDEs like VS Code to suggest whole lines or functions, detect bugs, and generate documentation.  
+Why you should care: Leveraging an AI assistant can accelerate coding assignments, help understand unfamiliar APIs, and improve code quality, giving you a productivity edge in a competitive job market.  
+Impact: Medium  
+Source: Keito Blog
+
+## Tech Outside AI
+**Tesla unveils Dojo 3 AI accelerator with 80× performance boost**  
+What happened: Tesla announced its third‑generation Dojo training accelerator, branded SI6, promising up to 80 times more compute performance than previous versions and plans to deploy it in terrestrial data centres and on SpaceX missions.  
+Why you should care: Understanding cutting‑edge AI hardware trends helps Diploma IT students grasp future requirements for deep‑learning workloads and informs choices when building or optimizing models for high‑performance compute.  
+Impact: Medium  
+Source: Tom’s Hardware  
+
+**Microsoft launches Maia 200 inference accelerator built on TSMC 3nm**  
+What happened: Microsoft introduced the Maia 200, an AI inference accelerator featuring FP8/FP4 tensor cores, 216 GB HBM3e memory delivering 7 TB/s bandwidth, and 272 MB on‑chip SRAM, aimed at reducing the cost of large‑scale token generation.  
+Why you should care: Exposure to the latest inference‑focused silicon gives students practical insight into hardware‑accelerated AI deployment, valuable for projects, internships, and upcoming industry roles.  
+Impact: Medium  
+Source: Microsoft Blog
+
+## My Action for Tomorrow
+Enroll in the free AI and cloud certification preparation course offered by Anthropic Academy or another listed provider and begin the first module.
+
+## If You Only Remember 3 Things
+- Free AI and cloud certification courses are now available without paywalls; use them to boost your résumé.  
+- Telangana’s partnership with AWS provides no‑cost AI/cloud training for eligible students; take advantage to gain industry‑recognized skills.  
+- AI‑driven attack tools like ARTEX are targeting the financial sector; familiarize yourself with defensive AI techniques to stay competitive in cybersecurity roles.
