@@ -1,0 +1,136 @@
+Hedwig's 9 PM Intelligence Report - Sunday, 08 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**PHP Security Flaws Trigger Global Scramble; CERT‑In Flags Critical Vulnerabilities**  
+What happened: CERT‑In issued an advisory on 23 Oct 2026 warning of two critical remote‑code‑execution flaws in PHP, with confirmed large‑scale exploitation in the wild.  
+Why you should care: PHP underpins many web‑development projects and campus labs; unpatched servers can be compromised, leading to loss of data and reputation—key concerns for a Diploma IT student learning web technologies.  
+Impact: Medium  
+Source: Times of India  
+
+**Android Update Alert: Critical Vulnerabilities in Android 14‑17**  
+What happened: On 7 Nov 2026 CERT‑In released a critical warning that multiple security flaws affect Android versions 14 through 17, urging users to apply the latest software updates immediately.  
+Why you should care: Mobile app development and testing are core parts of the IT curriculum; outdated Android devices can become attack vectors, compromising development environments and personal data.  
+Impact: Medium  
+Source: Techlusive (via Facebook)  
+
+**India Announces Semiconductor Mission 2.0 in Union Budget 2026‑27**  
+What happened: The Union Budget 2026‑27 introduced “India Semiconductor Mission 2.0,” a policy drive to boost domestic semiconductor design, equipment, and material production.  
+Why you should care: A stronger local chip ecosystem can create internships, entry‑level jobs, and training programs for IT diploma students, and may lead to increased demand for software developers familiar with hardware‑software integration.  
+Impact: Medium  
+Source: Press Information Bureau
+
+## AI
+**Google Antigravity AI Coding Assistant Launched**  
+What happened: Google introduced Antigravity, a next‑generation AI coding assistant built in Go, replacing Gemini CLI and Gemini Code Assist tiers, with support for async background workflows and faster code generation.  
+Why you should care: As a Diploma IT student, Antigravity can accelerate learning and project development by generating code snippets, handling long‑running tasks without blocking, and integrating with Google Cloud services you may use in coursework.  
+Impact: Medium  
+Source: shakudo.io  
+
+**JetBrains AI Assistant Adds Skills Manager**  
+What happened: JetBrains released a new Skills Manager in its AI Assistant for IDEs, allowing users to discover, install, and manage “Agent Skills” directly within supported JetBrains IDEs, enabling customizable agentic workflows.  
+Why you should care: Most IT curricula use JetBrains IDEs (e.g., IntelliJ IDEA, PyCharm). The Skills Manager lets you extend AI assistance with project‑specific capabilities, improving code suggestions and automating routine tasks during assignments.  
+Impact: Medium  
+Source: jetbrains.com  
+
+## Developer World
+**Encore simplifies backend development and deployment by automating cloud resource provisioning directly from application code.**  
+What happened: Encore enables developers to run backend services locally and deploy them to AWS or GCP without separate infrastructure scripts, integrating with CI pipelines for automated provisioning.  
+Why you should care: For a Diploma IT student, mastering a tool that bridges code and cloud resources reduces the learning curve for DevOps tasks and speeds up project deployments in campus labs or internships.  
+Impact: Medium  
+Source: encore.dev  
+
+**Insomnia adds Inso CLI, allowing API specifications to be integrated into DevOps pipelines.**  
+What happened: Insomnia’s new Inso command‑line tool lets teams embed OpenAPI, gRPC, and GraphQL definitions into CI/CD workflows, supporting automated testing and documentation.  
+Why you should care: Learning to incorporate API contracts into pipelines equips you with a market‑ready skill for modern API‑centric development and DevOps roles.  
+Impact: Medium  
+Source: konghq.com  
+
+## Cybersecurity
+**PHP Security Flaws Trigger Global Scramble; CERT‑In Flags Critical Vulnerabilities**  
+What happened: CERT‑In issued an advisory on 23 Oct 2026 warning of two critical remote‑code‑execution flaws in the widely used PHP scripting language, with confirmed large‑scale exploitation in the wild.  
+Why you should care: PHP underpins many web‑development projects and campus labs; unpatched servers can be compromised, leading to loss of data and reputation—key concerns for a Diploma IT student learning web technologies.  
+Impact: Medium  
+Source: Times of India  
+
+**Android Update Alert: Critical Vulnerabilities in Android 14‑17**  
+What happened: On 7 Nov 2026 CERT‑In released a critical warning that multiple security flaws affect Android versions 14 through 17, urging users to apply the latest software updates immediately.  
+Why you should care: Mobile app development and testing are core parts of the IT curriculum; outdated Android devices can become attack vectors, compromising development environments and personal data.  
+Impact: Medium  
+Source: Techlusive (via Facebook)  
+
+## India
+**India Announces Semiconductor Mission 2.0 in Union Budget 2026‑27**  
+What happened: The Union Budget 2026‑27 introduced “India Semiconductor Mission 2.0,” a policy drive to boost domestic semiconductor design, equipment, and material production.  
+Why you should care: A stronger local chip ecosystem can create internships, entry‑level jobs, and training programs for IT diploma students, and may lead to increased demand for software developers familiar with hardware‑software integration.  
+Impact: Medium  
+Source: Press Information Bureau  
+
+**Government Approves 12 Projects Under Electronics Component Manufacturing Scheme (ECMS) – ₹7,503 crore Investment**  
+What happened: The Ministry of Electronics and Information Technology cleared 12 new projects under ECMS, committing ₹7,503 crore and projecting output of ₹39,045 crore, expected to generate over 7,000 direct jobs.  
+Why you should care: The approved projects will expand Indian electronics manufacturing capacity, opening opportunities for technical apprenticeships, campus placements, and hands‑on experience with component design—areas directly relevant to a Diploma IT curriculum.  
+Impact: Medium  
+Source: Economic Times Government  
+
+## Learn
+**Google IT Automation with Python – Crash Course on Coursera**  
+What happened: Google offers a free-to-audit “Crash Course on Python” on Coursera, part of its IT Automation with Python certificate program, taught by a Google Site Reliability Engineer.  
+Why you should care: The course covers Python basics, scripting, and automation tasks directly aligned with common IT support and system administration duties, providing a solid foundation for diploma projects and future job roles.  
+Impact: Medium  
+Source: Business Insider Africa  
+
+**C Programming Full Course – Free YouTube Tutorial**  
+What happened: A comprehensive, step‑by‑step video tutorial walks beginners through C language fundamentals, including VS Code setup, syntax, control structures, and variable scope, using practical coding examples.  
+Why you should care: Mastery of C is essential for understanding low‑level programming, embedded systems, and operating‑system concepts, all of which are core topics in Indian IT diploma curricula.  
+Impact: Medium  
+Source: YouTube (cprogrammingfullcourse)  
+
+## Opportunities
+**Google Summer of Code (GSoC)**  
+What happened: Google announced its annual Google Summer of Code, a three‑month paid open‑source development internship for students worldwide.  
+Why you should care: Participating gives a Diploma IT student hands‑on experience with real‑world codebases, mentorship from seasoned developers, and a stipend that can support study expenses.  
+Impact: Medium  
+Source: LinkedIn post by Shivam Sahay  
+
+**MLH Fellowship**  
+What happened: The Major League Hacking (MLH) Fellowship program opened applications for its remote, full‑time software engineering fellowship aimed at students and early‑career developers.  
+Why you should care: The fellowship provides structured learning, mentorship, and a chance to build a portfolio project, all of which are valuable for securing internships or jobs in India’s tech sector.  
+Impact: Medium  
+Source: LinkedIn post by Shivam Sahay  
+
+## Events Near You
+No in‑person tech events, conferences, meetups, exhibitions, or summits were found scheduled in Gandhinagar, Ahmedabad, or GIFT City, Gujarat for the current reporting period.
+
+## Tools Worth Trying
+**Zuplo – Free API Management Platform**  
+What happened: Zuplo launched a free tier that lets developers design, build, and deploy APIs to the edge with features like API‑key authentication, rate limiting, auto‑generated docs, and monetisation, all programmable via TypeScript and OpenAPI. The free plan includes up to 10 projects, unlimited production edge environments, 1 million monthly requests and 10 GB egress.  
+Why you should care: For a Diploma IT student building backend services or micro‑services projects, Zuplo provides a ready‑made, low‑cost environment to expose and manage APIs without needing to set up complex infrastructure, helping you focus on coding and learning API design.  
+Impact: Medium  
+Source: free‑for.dev  
+
+**Google Maps Platform – Free Credits for Eligible Accounts**  
+What happened: Google offers a $300 free trial for Google Cloud Platform and a $200 monthly credit specifically for Google Maps Platform to eligible users, enabling access to Maps, Routes, and Places APIs at no cost during the credit period.  
+Why you should care: Many IT projects, especially web and mobile apps, require geolocation, routing, or map visualisation. The free credits let you integrate these services into your coursework or personal projects without incurring expenses, giving practical experience with a widely used industry API.  
+Impact: Medium  
+Source: developers.google.com/maps/get-started  
+
+## Tech Outside AI
+**Arm Announces AGI‑CPU, a New Production‑Ready AI Chip for Data‑Center Workloads**  
+What happened: Arm unveiled its first production silicon, the Arm AGI CPU, designed to handle high‑throughput, agentic AI workloads in data‑center environments, promising higher performance per watt and tighter memory integration.  
+Why you should care: Understanding the architecture of emerging AI‑focused processors helps IT students grasp future hardware trends, informs coursework on system design, and can guide project choices involving AI inference or edge‑AI deployments.  
+Impact: Medium  
+Source: Arm Newsroom  
+
+**Funding and acquisitions in Indian startups this week (Nov 02‑Nov 07 2026)**  
+What happened: AI‑powered clean‑energy platform Two Point O Capital (TW\.O) secured $10 million in a round led by Transition Venture Capital, and wealth‑tech platform PowerUp Money raised $10 million led by Flourish Ventures, with participation from Accel and Blume Ventures.  
+Why you should care: Both startups operate in high‑growth sectors—clean energy and fintech—offering potential internship, project collaboration, or entry‑level employment opportunities for Diploma IT students in India, and their funding signals expanding demand for AI‑driven software development skills.  
+Impact: Medium.  
+Source: Entrackr – “Funding and acquisitions in Indian startups this week (Nov 02‑Nov 07)”.
+
+## My Action for Tomorrow
+Update all development machines and lab servers to the latest PHP patches and Android OS versions to mitigate the newly disclosed vulnerabilities.
+
+## If You Only Remember 3 Things
+- Critical PHP RCE flaws are being exploited; patch immediately.  
+- Android 14‑17 contain serious security bugs; install latest updates.  
+- India’s new Semiconductor Mission aims to expand the local chip ecosystem, opening tech opportunities.
