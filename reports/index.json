@@ -208,5 +208,12 @@
     "txt": "hedwig_report_2026-11-08.txt",
     "generated_at": "2026-11-08T22:37:47.985913+05:30",
     "preview": "PHP Security Flaws Trigger Global Scramble; CERT\u2011In Flags Critical Vulnerabilities**"
+  },
+  {
+    "date": "2026-11-10",
+    "pdf": "hedwig_report_2026-11-10.pdf",
+    "txt": "hedwig_report_2026-11-10.txt",
+    "generated_at": "2026-11-10T02:59:48.270531+05:30",
+    "preview": "OpenSSH \u201cSSHole\u201d vulnerability (CVE\u20112026\u201110839) actively exploited**"
   }
 ]
