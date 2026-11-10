@@ -215,5 +215,12 @@
     "txt": "hedwig_report_2026-11-10.txt",
     "generated_at": "2026-11-10T02:59:48.270531+05:30",
     "preview": "OpenSSH \u201cSSHole\u201d vulnerability (CVE\u20112026\u201110839) actively exploited**"
+  },
+  {
+    "date": "2026-11-11",
+    "pdf": "hedwig_report_2026-11-11.pdf",
+    "txt": "hedwig_report_2026-11-11.txt",
+    "generated_at": "2026-11-11T00:13:38.287750+05:30",
+    "preview": "Meta AI releases TRIBE\u202fv2 predictive foundation model for neuroscience**"
   }
 ]

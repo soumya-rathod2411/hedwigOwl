@@ -1,0 +1,125 @@
+Hedwig's 9 PM Intelligence Report - Wednesday, 11 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Meta AI releases TRIBE v2 predictive foundation model for neuroscience**  
+What happened: Meta AI published a research paper, model weights, and code for TRIBE v2, a predictive foundation model designed to simulate how the human brain processes complex stimuli, available under a CC BY‑NC license via a demo website.  
+Why you should care: The open‑source model provides Diploma IT students with concrete material to study large‑scale transformer architectures and experiment with brain‑inspired AI for coursework or hackathons.  
+Impact: Medium  
+Source: meta.com  
+
+**Google releases 9 free AI courses with certificates**  
+What happened: Google launched nine no‑cost AI courses covering fundamentals such as cloud computing, generative AI, and AI ethics, each offering a completion certificate.  
+Why you should care: The courses give Diploma IT students practical knowledge of cloud‑based AI services and a recognised credential without any fee, useful for campus projects and entry‑level job interviews.  
+Impact: Medium  
+What to do: Register for at least one course on the Google AI learning portal and complete it to earn a certificate.  
+Source: LinkedIn  
+
+**OpenAI Codex integrates into IDEs and CLI for AI‑assisted coding**  
+What happened: OpenAI released Codex, an AI coding assistant accessible via ChatGPT web and desktop, as an IDE extension and command‑line tool, enabling developers to assign bounded tasks that run in a cloud workspace and submit changes as pull requests.  
+Why you should care: Using Codex can speed up learning of new languages, automate repetitive coding tasks, and provide instant code reviews, helping Diploma IT students complete assignments and projects faster.  
+Impact: Medium  
+Source: catio.tech
+
+## AI
+**Meta AI releases TRIBE v2 predictive foundation model for neuroscience**  
+What happened: Meta AI published a research paper, model weights, and code for TRIBE v2, a predictive foundation model designed to simulate how the human brain processes complex stimuli. The resources are available under a CC BY‑NC license and can be accessed via a demo website.  
+Why you should care: The open‑source model and code give Diploma IT students practical material to study large‑scale transformer architectures, experiment with brain‑inspired AI, and build prototype projects for coursework or hackathons.  
+Impact: Medium  
+Source: meta.com  
+
+**DeepMind’s WeatherNext AI model sets new standard in cyclone forecasting**  
+What happened: DeepMind announced that its WeatherNext AI model achieved state‑of‑the‑art accuracy in predicting cyclone tracks, intensity, and wind structure, extending reliable forecasts by an extra day compared with previous models. Results were published in *Nature*.  
+Why you should care: The model demonstrates advanced time‑series and geospatial AI techniques that can be replicated on modest cloud resources, offering a concrete case study for students learning about AI applications in environmental science and data engineering.  
+Impact: Medium  
+Source: deepmind.google  
+
+## Developer World
+**Best Database Tools for Developers – Ultimate List**  
+What happened: An online article compiled a comprehensive list of database tools, highlighting CI/CD solutions that automate integration, testing, and deployment of database changes.  
+Why you should care: Understanding and using these tools can help a Diploma IT student streamline database workflows, reduce manual errors, and align with modern DevOps practices common in Indian IT projects.  
+Impact: Low  
+Source: dbvis.com  
+
+## Cybersecurity
+**AI‑Generated Phishing and Deepfake Attacks Surge in 2026**  
+What happened: Reports highlight that AI‑crafted phishing emails and deepfake audio/video are now nearly indistinguishable from legitimate communications, enabling attackers to impersonate executives and bypass traditional security controls.  
+Why you should care: As a Diploma IT student, you’ll likely handle corporate communications and user‑education tasks; understanding these AI‑driven tactics is essential for building effective phishing‑awareness programs and for designing detection mechanisms.  
+Impact: Medium.  
+Source: securityjournalamericas.com  
+
+## India
+No items available.
+
+## Learn
+**Google releases 9 free AI courses with certificates**  
+What happened: Google has launched nine no‑cost AI courses covering fundamentals such as cloud computing, generative AI, and AI ethics, each offering a completion certificate.  
+Why you should care: The courses give a Diploma IT student practical knowledge of cloud‑based AI services and a recognised credential without any fee, useful for campus projects and entry‑level job interviews.  
+Impact: Medium  
+Source: LinkedIn  
+
+**Microsoft AI free certifications and sweepstakes**  
+What happened: Microsoft is offering free certification exams for AI Business Professional, AI Transformation Leader, and Microsoft 365 Copilot & Agent Administration Fundamentals, plus a sweepstakes for 50 % off future exams.  
+Why you should care: Earning a Microsoft AI certification validates cloud‑AI skills that are directly relevant to Indian IT firms using Azure, enhancing employability and internship prospects.  
+Impact: Medium  
+Source: Microsoft Q&A  
+
+## Opportunities
+**India Science, Technology & Innovation (ISTI) Portal – Fellowships & Scholarships**  
+What happened: The ISTI portal lists a comprehensive set of publicly funded fellowships and scholarships for school, college, and research students across India, based purely on merit.  
+Why you should care: As a Diploma IT student, you can access these listings to find funding for higher‑education courses, certifications, or research projects in technology and engineering fields.  
+Impact: Low  
+Source: indiascienceandtechnology.gov.in  
+
+**Shraman Foundation – Technical Education Scholarships**  
+What happened: The Shraman Foundation offers scholarship packages specifically aimed at providing technical education opportunities to financially needy students in India.  
+Why you should care: The scholarships can be used to cover tuition, certification fees, or online courses in IT, helping you bridge the cost gap while gaining industry‑relevant skills.  
+Impact: Low  
+Source: shraman.org  
+
+## Events Near You
+**Bharat Startup Summit Gujarat – FROEXPO 2026, Gandhinagar**  
+What happened: The Bharat Startup Summit will be held at FROEXPO in Gandhinagar, bringing together emerging job creators, MSME leaders, industry veterans, and disruptive startups to discuss sustainable, scalable business models.  
+Why you should care: Attending offers direct exposure to Gujarat’s startup ecosystem, networking with potential mentors, recruiters, and partners, and insight into market trends relevant for IT projects and internships.  
+Impact: Medium  
+Source: Bharat Startup Summit Gujarat  
+
+**eChai Ventures & i‑Hub Gujarat Startup Meetup – 31 Oct 2026, Ahmedabad**  
+What happened: eChai Ventures and i‑Hub Gujarat are hosting a Startup Meetup featuring a panel of founders and operators discussing early wins and go‑to‑market challenges for new ventures.  
+Why you should care: The session provides practical lessons on product development, market entry, and scaling—key knowledge for a Diploma IT student planning freelance work or entrepreneurship.  
+Impact: Medium  
+Source: iHub Gujarat (Facebook)  
+
+## Tools Worth Trying
+**OpenAI Codex integrates into IDEs and CLI for AI‑assisted coding**  
+What happened: OpenAI released Codex, an AI coding assistant accessible via ChatGPT web and desktop, as an IDE extension and command‑line tool, enabling developers to assign bounded tasks that run in a cloud workspace and submit changes as pull requests.  
+Why you should care: As a Diploma IT student, using Codex can speed up learning of new languages, automate repetitive coding tasks, and provide instant code reviews, helping you complete assignments and projects faster.  
+Impact: Medium  
+Source: catio.tech  
+
+**Cursor AI IDE offers in‑IDE autocomplete, code editing and workflow automation**  
+What happened: Cursor launched an AI‑driven development environment that lets developers ask questions, edit files, run agentic workflows and receive autocomplete suggestions without leaving the IDE.  
+Why you should care: The tool consolidates multiple productivity extensions into one interface, reducing context switching and simplifying project setup—useful for students building portfolio apps or preparing for internships.  
+Impact: Medium  
+Source: greptile.com  
+
+## Tech Outside AI
+**Microsoft unveils Maia 200 AI accelerator with developer SDK preview**  
+What happened: Microsoft announced the Maia 200 AI accelerator and released a preview of its developer SDK aimed at researchers and developers for early optimization of AI workloads on Azure.  
+Why you should care: The SDK gives Diploma‑IT students in India access to cutting‑edge AI hardware for hands‑on projects and campus labs, enabling experimentation with performance‑critical models without costly cloud fees.  
+Impact: Medium  
+Source: Microsoft News  
+
+**DFRobot DX‑M1 AI accelerator module launches at $139**  
+What happened: DFRobot introduced the DX‑M1 AI accelerator, a M.2‑slot card delivering 25 TOPS of AI performance at 5 W, priced at $139, targeting edge computing tasks such as computer vision and object detection.  
+Why you should care: The low‑cost, low‑power module can be added to standard desktops or laptops for student projects, allowing practical experience with on‑device AI inference and prototyping without needing expensive GPUs.  
+Impact: Medium  
+Source: WCCFTech
+
+## My Action for Tomorrow
+Enroll in one of Google’s free AI courses and begin the first module today.
+
+## If You Only Remember 3 Things
+- Meta’s TRIBE v2 model is openly available for hands‑on transformer and neuroscience AI study.  
+- Google’s free AI courses provide certified, zero‑cost skill building for cloud‑AI fundamentals.  
+- OpenAI Codex can be added to your IDE to accelerate coding practice and project delivery.
