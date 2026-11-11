@@ -1,0 +1,119 @@
+Hedwig's 9 PM Intelligence Report - Thursday, 12 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**India launches Semicon 2.0 portal with ₹1,27,500 crore outlay and approves 12 ECMS projects**  
+What happened: The Union Cabinet approved a ₹1.27 trillion budget for the Semiconductor Mission (Semicon 2.0) covering chip design, fabrication, advanced packaging, equipment, materials, R&D and talent development, and cleared 12 applications under the Electronics Components Manufacturing Scheme (ECMS).  
+Why you should care: The program will fund new semiconductor fabs, design houses and training centres, creating internship, apprenticeship and entry‑level job opportunities for Diploma IT students and expanding the skill‑development ecosystem in India.  
+Impact: Medium  
+Source: Energetica India Magazine.
+
+**CERT‑In urges Android users to update phones over critical security flaws**  
+What happened: CERT‑In issued advisory CIVN‑2026‑0536 on 4 Nov 2026, flagging major security gaps in Android 14‑17 (including QPR2) that could allow remote code execution without user interaction.  
+Why you should care: Most Diploma IT students use Android devices for coursework and development; unpatched phones risk data theft, credential compromise, and could be used as entry points to campus networks.  
+Impact: Medium  
+What to do: Apply the latest security patches to all Android devices immediately.  
+Source: TechGig.
+
+**Google Summer of Code 2024 – Paid Open‑Source Development Program**  
+What happened: Google Summer of Code (GSoC) is a 17‑year‑old, paid program that matches university students with open‑source organizations for a three‑month coding stint. Selected students receive a stipend and mentorship while contributing real‑world code to projects ranging from AI tools to web frameworks.  
+Why you should care: As a Diploma IT student, GSoC offers hands‑on experience, a professional network, and a resume‑boosting credential without needing a full‑time internship; the stipend helps cover expenses.  
+Impact: Medium  
+Source: stavanshah.framer.website.
+
+## AI
+**CodeGPT – AI Coding Assistant with Custom API Keys**  
+What happened: A new web‑based AI coding assistant, CodeGPT, lets users plug in their own API keys for models like Claude, Gemini or others, offering full visibility and control over code suggestions and edits.  
+Why you should care: Enables Diploma IT students to experiment with different large‑language models for programming tasks without relying on a single provider, useful for projects and learning prompt engineering.  
+Impact: Medium  
+Source: codegpt.co  
+
+**Claude 2.0 – Free Setup Kit Released**  
+What happened: Anthropic launched Claude 2.0, a more capable conversational AI, and published a free setup kit that allows developers to run the model locally or via API.  
+Why you should care: Provides students with access to a powerful model for building AI‑driven applications, labs, or coursework without incurring high cloud costs.  
+Impact: Medium  
+Source: Futurepedia (YouTube)  
+
+## Developer World
+**DevOps from Zero to Hero: Build and Deploy a Production API (YouTube Tutorial)**  
+What happened: A video tutorial walks through creating a production‑ready backend API, integrating a cloud‑hosted PostgreSQL service (Neon DB), and covering DevOps practices for deployment and security.  
+Why you should care: Offers practical, end‑to‑end guidance on modern API development and cloud database usage, directly applicable to coursework and project work in a Diploma IT program.  
+Impact: Medium  
+Source: YouTube (video link)  
+
+## Cybersecurity
+**CERT‑In urges Android users to update phones over critical security flaws**  
+What happened: CERT‑In issued advisory CIVN‑2026‑0536 on 4 Nov 2026, flagging major security gaps in Android 14‑17 (including QPR2) that could allow remote code execution without user interaction.  
+Why you should care: Most Diploma IT students use Android devices for coursework and development; unpatched phones risk data theft, credential compromise, and could be used as entry points to campus networks.  
+Impact: Medium  
+Source: TechGig  
+
+**CERT‑In and NSA warn of critical PHP vulnerabilities affecting pre‑8.5.12 releases**  
+What happened: On 21 Oct 2026 CERT‑In, together with the U.S. NSA, warned that PHP versions older than 8.5.12, 8.4.27, 8.3.36 and 8.2.35 contain memory‑corruption flaws that allow attackers to take over servers via crafted requests.  
+Why you should care: Many college labs, web‑development projects, and internship tasks still run on older PHP stacks; exploiting these flaws could compromise student code, grades, and personal data.  
+Impact: Medium  
+Source: CNBC TV18  
+
+## India
+**India launches Semicon 2.0 portal with ₹1,27,500 crore outlay and approves 12 ECMS projects**  
+What happened: The Union Cabinet approved a ₹1.27 trillion budget for the Semiconductor Mission (Semicon 2.0) covering chip design, fabrication, advanced packaging, equipment, materials, R&D and talent development, and simultaneously cleared 12 applications under the Electronics Components Manufacturing Scheme (ECMS).  
+Why you should care: The program will fund new semiconductor fabs, design houses and training centres, creating internship, apprenticeship and entry‑level job opportunities for Diploma IT students and expanding the skill‑development ecosystem in India.  
+Impact: Medium  
+Source: Energetica India Magazine.  
+
+## Learn
+**Learn These 5 FREE AI Courses Before It’s Too Late!**  
+What happened: A YouTube tutorial lists five completely free online courses covering AI fundamentals, machine‑learning basics, and practical projects.  
+Why you should care: AI skills are increasingly required in entry‑level IT roles and can boost a Diploma IT graduate’s employability in India’s growing tech sector.  
+Impact: Medium  
+Source: YouTube – Science and Fun Motivation  
+
+**5 Free Websites to Learn Coding & Computer Science Like You’re at a Top University**  
+What happened: A YouTube video highlights five reputable platforms (including freeCodeCamp, Coursera, edX, and others) that offer university‑level programming and CS curricula at no cost.  
+Why you should care: These resources provide structured learning paths for languages such as Python, Java, and C++, aligning with the syllabus of many Indian Diploma IT programs and preparing students for campus placements.  
+Impact: Medium  
+Source: YouTube – Tech With John  
+
+## Opportunities
+**Google Summer of Code 2024 – Paid Open‑Source Development Program**  
+What happened: Google Summer of Code (GSoC) is a 17‑year‑old, paid program that matches university students with open‑source organizations for a three‑month coding stint. Selected students receive a stipend and mentorship while contributing real‑world code to projects ranging from AI tools to web frameworks.  
+Why you should care: As a Diploma IT student, GSoC offers hands‑on experience, a professional network, and a resume‑boosting credential without needing a full‑time internship; the stipend helps cover expenses.  
+Impact: Medium.  
+Source: stavanshah.framer.website.  
+
+## Events Near You
+No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat at this time.
+
+## Tools Worth Trying
+**KeyRunner – Free Local‑First API Client for Developers**  
+What happened: KeyRunner launched a free, no‑account‑required API client that runs locally, keeps secrets on your own infrastructure and offers mock servers, VS Code integration and a CLI.  
+Why you should care: It lets Diploma IT students test and debug APIs securely on a personal machine without exposing credentials, a practical skill for projects and internships.  
+Impact: Medium.  
+Source: keyrunner.app  
+
+**X API Pay‑Per‑Use Pricing with Free xAI Credits**  
+What happened: X (formerly Twitter) introduced a pay‑per‑use model for its API and added a program that refunds up to 20 % of spend as free xAI credits, enabling developers to integrate the new Grok AI models.  
+Why you should care: Gives IT students access to cutting‑edge large‑language‑model capabilities at low cost, useful for coursework, prototypes, and building AI‑enhanced applications.  
+Impact: Medium.  
+Source: devcommunity.x.com  
+
+## Tech Outside AI
+**NVIDIA Announces Jetson Orin Nano 2 Robotics Computer for Entry‑Level Edge AI**  
+What happened: NVIDIA launched the Jetson Orin Nano 2, an edge‑AI module featuring an 8‑core Arm CPU, 8 GB memory and 78 trillion operations per second of AI compute, aimed at low‑cost robotics and vision applications.  
+Why you should care: The platform offers a ready‑to‑use hardware base for student projects in AI, robotics, and IoT, with extensive software support (CUDA, TensorRT, ROS) and a price point suitable for campus labs or personal development.  
+Impact: Medium.  
+Source: NVIDIA Newsroom.  
+
+**US CHIPS and Science Act Funding Boosts Domestic Chip Manufacturing**  
+What happened: The 2022 CHIPS and Science Act authorises $39 billion in manufacturing incentives and $13 billion for research, aiming to revive U.S. semiconductor production and reduce reliance on foreign supply chains.  
+Why you should care: India’s IT graduates can target emerging job roles in design, testing, and supply‑chain management as U.S. fabs partner with Indian service firms and outsource certain engineering tasks. Understanding this funding helps align skill development with global demand.  
+Impact: Medium.  
+Source: LSE Business Review.
+
+## My Action for Tomorrow
+Update the operating system and security patches on all Android devices you use for coursework.
+
+## If You Only Remember 3 Things
+- Semicon 2.0’s massive funding will soon generate semiconductor‑related internships and jobs for Diploma IT students in India.  
+- Critical Android vulnerabilities demand immediate patching to protect personal and campus data.  
+- Google Summer of Code provides a paid, project‑based pathway to gain open‑source experience and strengthen your employability.
