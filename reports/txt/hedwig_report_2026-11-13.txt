@@ -1,0 +1,114 @@
+Hedwig's 9 PM Intelligence Report - Friday, 13 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Critical RCE Vulnerability Discovered in Apache HTTP Server’s HTTP/2 Module (CVE‑2026‑119618)**  
+What happened: A race‑condition bug in the `mod_http2` module allows unauthenticated attackers to corrupt heap memory and achieve remote code execution on servers running Apache HTTP 2.0. No official workaround; vendors recommend disabling HTTP/2 until patches are applied.  
+Why you should care: Most Indian colleges and small businesses use Apache on web‑hosting labs; the flaw can compromise any server you manage for projects or internships, exposing code and data. Understanding this vulnerability helps you harden web services and prepare for industry security audits.  
+Impact: Medium  
+Source: Wiz Blog  
+
+**AWS Emulator – Free Local Stand‑in for AWS Services Built by AI Agents**  
+What happened: AWS released a developer tool called AWS Emulator that simulates over 200 AWS services on a local machine, generated entirely by AI agents without human‑written code.  
+Why you should care: Enables you to develop, test, and debug cloud‑based applications without internet access or incurring AWS charges—ideal for lab work and project assignments in a Diploma IT program.  
+Impact: Medium  
+
+**IndiaAI Innovation Challenge 2026 Launches to Boost AI Application Development**  
+What happened: IndiaAI, under MeitY’s Digital India Corporation, announced the IndiaAI Innovation Challenge 2026, aimed at democratizing AI by supporting development, deployment, and adoption of AI applications in high‑impact sectors.  
+Why you should care: The challenge offers Diploma IT students a platform to work on real‑world AI projects, gain mentorship, and potentially secure funding or internships with industry partners.  
+Impact: Medium  
+Source: indiaai.gov.in
+
+## AI
+**AWS Emulator – Free Local Stand‑in for AWS Services Built by AI Agents**  
+What happened: AWS released a developer tool called AWS Emulator that simulates over 200 AWS services on a local machine, generated entirely by AI agents without human‑written code.  
+Why you should care: Enables you to develop, test, and debug cloud‑based applications without internet access or incurring AWS charges—ideal for lab work and project assignments in a Diploma IT program.  
+Impact: Medium.  
+
+**Databricks Launches Always‑on Genie – Autonomous AI for Enterprise Workflows**  
+What happened: Databricks introduced the second‑generation Genie, an always‑on autonomous AI agent that can accept high‑level goals, delegate tasks to sub‑agents, track progress, and follow up on missing items.  
+Why you should care: Provides a practical example of AI‑driven automation you can explore in coursework on cloud data platforms, workflow orchestration, and AI integration with big‑data tools.  
+Impact: Medium.  
+Source: Databricks press release.
+
+## Developer World
+No relevant items.
+
+## Cybersecurity
+**Critical RCE Vulnerability Discovered in Apache HTTP Server’s HTTP/2 Module (CVE‑2026‑119618)**  
+What happened: A race‑condition bug in the `mod_http2` module allows unauthenticated attackers to corrupt heap memory and achieve remote code execution on servers running Apache HTTP 2.0. No official workaround; vendors recommend disabling HTTP/2 (`h2` and `h2c` protocols) until patches are applied.  
+Why you should care: Most Indian colleges and small businesses use Apache on web‑hosting labs; the flaw can compromise any server you manage for projects or internships, exposing code and data. Understanding this vulnerability helps you harden web services and prepare for industry security audits.  
+Impact: Medium  
+Source: Wiz Blog  
+
+**Urgent Windows‑Only Zoom Vulnerability Fixed (CVE‑2026‑108186)**  
+What happened: Zoom Workplace for Windows contained a critical flaw (CVSS 9.6) that could let an attacker take full control of the victim’s system. A patch was released on 12 Nov 2026, and Zoom urges immediate updating.  
+Why you should care: Zoom is widely used for remote labs, webinars, and interview practice in Indian IT curricula. An unpatched client could be a gateway for malware on student laptops, jeopardizing personal data and any code repositories you access during coursework.  
+Impact: Medium  
+Source: Cybernews
+
+## India
+**IndiaAI Innovation Challenge 2026 Launches to Boost AI Application Development**  
+What happened: IndiaAI, under MeitY’s Digital India Corporation, announced the IndiaAI Innovation Challenge 2026, aimed at democratizing AI by supporting development, deployment, and adoption of AI applications in high‑impact sectors.  
+Why you should care: The challenge offers Diploma IT students a platform to work on real‑world AI projects, gain mentorship, and potentially secure funding or internships with industry partners.  
+Impact: Medium.  
+Source: indiaai.gov.in
+
+## Learn
+**Free AI Course with Certificate by Google, YouTube & Government of India** – Worth doing  
+What happened: Google, YouTube and the Indian government launched a free 33‑hour AI skills program (AI Skills House) offering a certificate upon completion.  
+Why you should care: The curriculum covers fundamentals of generative AI, Vertex AI, and practical projects, directly aligning with entry‑level IT roles and enhancing employability for diploma students.  
+Impact: Medium  
+Source: Data Logic With Shivam (YouTube)  
+
+**Microsoft AI Skills Passport – Free Certification for Students** – Maybe  
+What happened: Microsoft is offering a free AI Skills Passport course to students, providing an industry‑recognized certificate after completing modules on AI concepts and tools.  
+Why you should care: The credential is valued by Indian employers and adds recognized cloud‑AI expertise to a diploma graduate’s resume, supporting job placements and internships.  
+Impact: Medium  
+Source: Jhoom Baba Gyaan (YouTube)
+
+## Opportunities
+**Goldman Sachs India Hackathon 2026**  
+What happened: Goldman Sachs announced an online hackathon for engineering students graduating in 2027‑2028, with applications open 22 April–10 May 2026 and a mentorship session in June followed by a finale event.  
+Why you should care: Participating offers practical experience with real‑world data, exposure to a global financial firm, and networking that can strengthen a Diploma IT résumé.  
+Impact: Medium  
+Source: Goldman Sachs India​  
+
+## Events Near You
+**The Smarter E India 2027 – Exhibition & Conference**  
+When: March 9‑11, 2027  
+Where: Helipad Exhibition Centre and Gift City Club, Gandhinagar  
+Details: Exhibition and conference focused on new energy innovations. Registration information available on the event website.  
+
+**TechAI India Summit 2026**  
+When: Saturday, December 12, 2026  
+Where: Welcomhotel, Ashram Road, Ahmedabad  
+Details: AI talks, workshops, and startup networking. Attendees can register via the Eventbrite listing.
+
+## Tools Worth Trying
+**Amazon Q Developer Free Tier Launches for Developers**  
+What happened: Amazon Q Developer, AWS’s AI‑powered coding assistant, is now available with a free tier that offers 50 agentic chat interactions, up to 1,000 lines of code transformation per month, and up to 180,000 code completions monthly.  
+Why you should care: The free tier gives Diploma IT students in India access to AI‑driven code suggestions, debugging help, and test generation without any cost, enabling faster project development and skill building on familiar AWS tooling.  
+Impact: Medium  
+Source: VentureBeat  
+
+## Tech Outside AI
+**Nvidia dominates China’s data‑centre AI chip market**  
+What happened: Nvidia held 34% of China’s data‑centre AI chip market in H1 2026, shipping about 678,000 AI accelerators, according to IDC data cited by Reuters.  
+Why you should care: Understanding the market share of leading GPU vendors helps IT students grasp which hardware platforms dominate AI workloads, informing choices for projects, internships, or further study.  
+Impact: Medium  
+Source: Times of India  
+
+**MediaTek targets $16 billion in AI accelerator sales by 2027**  
+What happened: Market‑research firm TrendForce reports MediaTek aims for roughly $16 billion in AI accelerator revenue by 2027, positioning the company as a growing competitor to Nvidia and AMD.  
+Why you should care: The rise of alternative AI hardware expands the ecosystem of platforms you may encounter in labs or coursework, and may open internship or entry‑level job opportunities with firms adopting MediaTek solutions.  
+Impact: Medium  
+Source: Chosun Ilbo
+
+## My Action for Tomorrow
+Disable HTTP/2 (`h2` and `h2c` protocols) on any Apache servers you control and schedule patch application as soon as updates are released.
+
+## If You Only Remember 3 Things
+- A critical Apache HTTP/2 RCE bug requires immediate mitigation on student labs.  
+- AWS Emulator lets you practice cloud development locally without incurring costs.  
+- The IndiaAI Innovation Challenge provides a concrete avenue for AI project experience and potential funding.
