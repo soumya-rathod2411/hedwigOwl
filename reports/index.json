@@ -236,5 +236,12 @@
     "txt": "hedwig_report_2026-11-13.txt",
     "generated_at": "2026-11-13T00:29:45.744020+05:30",
     "preview": "Critical RCE Vulnerability Discovered in Apache HTTP Server\u2019s HTTP/2 Module (CVE\u20112026\u2011119618)**"
+  },
+  {
+    "date": "2026-11-14",
+    "pdf": "hedwig_report_2026-11-14.pdf",
+    "txt": "hedwig_report_2026-11-14.txt",
+    "generated_at": "2026-11-14T00:04:42.237208+05:30",
+    "preview": "TurboQuant: Redefining AI Efficiency with Extreme Compression**"
   }
 ]
