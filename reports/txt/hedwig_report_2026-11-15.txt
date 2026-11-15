@@ -1,0 +1,118 @@
+Hedwig's 9 PM Intelligence Report - Sunday, 15 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Vercel Releases UI SDK with 50+ UI Behaviors for AI Coding Agents**  
+What happened: Vercel launched a UI SDK that provides over 50 ready‑made UI behaviors designed to integrate AI coding agents into web applications.  
+Why you should care: The SDK lets IT students quickly add AI‑driven assistance (code suggestions, auto‑completion, debugging tips) to projects built with Vercel, enhancing portfolio work and familiarising with emerging agentic AI development practices.  
+Impact: Medium  
+Source: MarkTechPost  
+
+**Maximum‑Severity GitLab Flaw Puts Supply Chains at Risk**  
+What happened: CVE‑2026‑85706, a critical path‑traversal bug in both GitLab Community and Enterprise Editions, is being actively exploited to compromise software supply chains.  
+Why you should care: Most IT curricula include version‑control and CI/CD pipelines; understanding this flaw helps you secure projects and avoid malicious code injection in campus or internship environments.  
+Impact: Medium  
+Source: Dark Reading  
+
+**MIT Offers Free Online Courses in Computer Programming Using Python (edX)** – Worth doing  
+What happened: MIT’s edX platform now provides free, self‑paced Python programming courses with optional paid certificates. The curriculum covers fundamentals, data structures, and introductory algorithms.  
+Why you should care: Python is a core language for most IT diploma curricula and industry jobs; completing a MIT‑authored course adds reputable knowledge and can bolster your résumé without tuition fees.  
+Impact: Medium  
+Source: https://priyadogra.com/mit-offers-free-online-courses-in-computer-programming-using-python-edx-free-certification-courses
+
+## AI
+**Vercel Releases UI SDK with 50+ UI Behaviors for AI Coding Agents**  
+What happened: Vercel launched a UI SDK that provides over 50 ready‑made UI behaviors designed to integrate AI coding agents into web applications.  
+Why you should care: The SDK lets IT students quickly add AI‑driven assistance (code suggestions, auto‑completion, debugging tips) to projects built with Vercel, enhancing portfolio work and familiarising with emerging agentic AI development practices.  
+Impact: Medium  
+Source: MarkTechPost  
+
+**LangChain Secures $300 Million Series C to Expand Agentic AI Platform**  
+What happened: LangChain, a platform for building, running, and governing AI agents, closed a $300 million Series C round, bringing its valuation to $3 billion.  
+Why you should care: LangChain’s open‑source tools are widely used for creating AI‑powered applications; the funding signals rapid growth and increased resources, making it a timely time for students to learn the framework and contribute to community projects that could boost employability.  
+Impact: Medium  
+Source: Crunchbase News  
+
+## Developer World
+No relevant items.
+
+## Cybersecurity
+**Maximum‑Severity GitLab Flaw Puts Supply Chains at Risk**  
+What happened: CVE‑2026‑85706, a critical path‑traversal bug in both GitLab Community and Enterprise Editions, is being actively exploited to compromise software supply chains.  
+Why you should care: Most IT curricula include version‑control and CI/CD pipelines; understanding this flaw helps you secure projects and avoid malicious code injection in campus or internship environments.  
+Impact: Medium  
+Source: Dark Reading  
+
+**MongoBleed (CVE‑2025‑14847) Now Exploited in the Wild**  
+What happened: An unauthenticated information‑leak vulnerability in MongoDB Server, dubbed MongoBleed, is being leveraged by attackers to extract data from misconfigured databases.  
+Why you should care: MongoDB is widely used in web‑app development courses; knowing how to patch and configure it securely prevents data exposure in student projects and future employment.  
+Impact: Medium  
+Source: CybersecurityNews  
+
+## India
+**A Decade of ‘Digital India Mission’: Achievements, Gaps, and the Way Forward**  
+What happened: A policy analysis published on 14 August 2025 reviews the evolution of budget allocations for the Ministry of Electronics and Information Technology, noting that since the 2023‑24 Union Budget, key Digital India components have been moved to separate budget heads, altering funding visibility.  
+Why you should care: Understanding these budget shifts helps IT diploma students anticipate which government programmes (e.g., Digital Literacy, Skill Development, or Startup India) may receive dedicated funding, influencing internship opportunities, scholarship schemes, and sector‑specific skill demands.  
+Impact: Low  
+Source: ORF Online  
+
+## Learn
+**MIT Offers Free Online Courses in Computer Programming Using Python (edX)** – Worth doing  
+What happened: MIT’s edX platform now provides free, self‑paced Python programming courses with optional paid certificates. The curriculum covers fundamentals, data structures, and introductory algorithms.  
+Why you should care: Python is a core language for most IT diploma curricula and industry jobs; completing a MIT‑authored course adds reputable knowledge and can bolster your résumé without tuition fees.  
+Impact: Medium  
+Source: https://priyadogra.com/mit-offers-free-online-courses-in-computer-programming-using-python-edx-free-certification-courses  
+
+**Introduction to Computer Science Certification Course – Saylor Academy** – Maybe  
+What happened: Saylor Academy launched a free online Introduction to Computer Science certification that includes modules on programming basics, computer architecture, and problem‑solving, with a downloadable certificate upon passing assessments.  
+Why you should care: The course aligns with diploma‑level topics, offers a recognized credential at no cost, and can be used to demonstrate foundational competence to employers or for further studies.  
+Impact: Medium  
+Source: https://priyadogra.com/introduction-of-computer-science-certification-course-of-saylor-academy  
+
+## Opportunities
+**MNIT Jaipur Student Hackathon 2026**  
+What happened: An online student hackathon organized by MNIT Jaipur is scheduled for 5 December 2026, offering free participation and certificates.  
+Why you should care: Provides a platform to apply IT concepts, build projects, and earn a certificate that can strengthen a diploma résumé.  
+Impact: Low  
+Source: Internshala  
+
+**micro1 Eval Hackathon 2026**  
+What happened: The micro1 Eval Hackathon will be held online on 23 November 2026, with free entry and prize money up to $10,000 USD.  
+Why you should care: Opportunity to work on real‑world problems, develop a portfolio piece, and potentially win cash prizes that can fund further learning resources.  
+Impact: Low  
+Source: Internshala  
+
+## Events Near You
+**FINMAT EXPO – GIFT City, Gandhinagar (13 Oct 2026)**  
+What happened: A fintech‑focused exhibition and conference bringing together startup founders, investors, bankers and consultants to discuss digital banking, blockchain and the future of finance in India.  
+Why you should care: Attending offers direct exposure to industry leaders, networking with potential mentors or investors, and insight into emerging fintech technologies relevant to IT curricula and job prospects.  
+Impact: Medium  
+Source: startupgrantsindia.com  
+
+## Tools Worth Trying
+**Claude Code AI Coding Assistant now free**  
+What happened: Anthropic released its Claude Code AI coding assistant with a free tier, allowing developers to generate code suggestions and completions at no cost.  
+Why you should care: As a Diploma IT student in India, you can access a powerful AI helper for programming assignments and projects without paying for subscription fees, accelerating learning and productivity.  
+Impact: Low  
+Source: YouTube - The Tech Girl  
+
+## Tech Outside AI
+**Taiwan Semiconductor Manufacturing Co. (TSMC) to More Than Double N2 Capacity in 2027 and Begin A14 Volume Production in 2028**  
+What happened: TSMC announced it will more than double its N2 (5 nm) production capacity in 2027 and start volume production of the A14 node in 2028, positioning itself as a critical supplier for AI‑focused chips.  
+Why you should care: Understanding the roadmap of the world’s leading foundry helps a Diploma IT student anticipate which semiconductor technologies will be available for future projects, internships, or coursework involving AI accelerators and embedded systems.  
+Impact: Medium  
+Source: 24/7 Wall St.  
+
+**Semiconductor export controls tighten amid chip‑smuggling allegations**  
+What happened: A recent case involving alleged smuggling of Nvidia GPUs highlights that advanced chips are now treated as strategic assets governed by export controls and national security concerns rather than just market price.  
+Why you should care: Understanding these geopolitical shifts helps Diploma IT students anticipate future supply‑chain constraints, compliance requirements, and potential career opportunities in semiconductor policy or secure hardware development in India.  
+Impact: Low  
+Source: IMD
+
+## My Action for Tomorrow
+Enroll in the free MIT Python programming course on edX and complete the first module to reinforce core coding skills.
+
+## If You Only Remember 3 Things
+- Vercel’s new UI SDK enables rapid integration of AI agents into web projects.  
+- CVE‑2026‑85706 in GitLab is actively exploited; secure your version‑control pipelines now.  
+- MIT’s free Python courses provide accredited skill building without cost.
