@@ -1,0 +1,110 @@
+Hedwig's 9 PM Intelligence Report - Tuesday, 17 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Oracle Database 23c Free – Developer Release Now Available**  
+What happened: Oracle launched a free, no‑license‑required version of Oracle Database 23c for developers, downloadable directly from the internet and featuring the new JSON Relational Duality and operational property graph capabilities.  
+Why you should care: Gives Diploma IT students in India access to a full‑featured enterprise‑class relational database for learning SQL, JSON handling, and graph data without cost, preparing them for jobs that require Oracle skills.  
+Impact: Medium  
+Source: PR Newswire  
+
+**Google launches free AI and Cloud courses with certificates (2026)**  
+What happened: Google released a series of free online courses covering large language models, image generation, and cloud computing, each offering a certification upon completion.  
+Why you should care: The courses provide foundational AI and cloud skills directly relevant to IT diploma curricula and are accessible without cost, helping you build a resume‑ready skill set.  
+Impact: Medium  
+Source: TechGig  
+
+**OpenAI Codex – AI‑powered coding assistant for IDEs**  
+What happened: OpenAI released Codex, an AI coding agent integrated into ChatGPT web, desktop, IDE extensions, and a CLI, allowing developers to assign bounded tasks that run in a cloud workspace and generate code changes ready for review.  
+Why you should care: As a Diploma IT student, you can use Codex to accelerate learning and project work, getting instant code suggestions, debugging help, and automated pull‑request creation without leaving your editor.  
+Impact: Medium  
+Source: Catio.tech
+
+## AI
+No items to report.
+
+## Developer World
+**Oracle Database 23c Free – Developer Release Now Available**  
+What happened: Oracle launched a free, no‑license‑required version of Oracle Database 23c for developers, downloadable directly from the internet and featuring the new JSON Relational Duality and operational property graph capabilities.  
+Why you should care: Gives Diploma IT students in India access to a full‑featured enterprise‑class relational database for learning SQL, JSON handling, and graph data without cost, preparing them for jobs that require Oracle skills.  
+Impact: Medium  
+Source: PR Newswire  
+
+**Database Workbench 5 Released – Multi‑DBMS Development Tool**  
+What happened: The latest major version of Database Workbench, a cross‑database IDE supporting Firebird, Oracle, MySQL, PostgreSQL and others, was announced with UI improvements and enhanced scripting features.  
+Why you should care: Provides a free‑to‑try environment for students to practice SQL development, schema design, and migration tasks across multiple database systems, a common requirement in Indian IT projects.  
+Impact: Medium  
+Source: Firebird News  
+
+## Cybersecurity
+**FBI warns ARTE X AI hacking tool is powering global cyberattacks**  
+What happened: The FBI issued a flash alert that the ARTE X framework, an AI‑driven penetration‑testing tool written in Go, can autonomously perform reconnaissance, vulnerability discovery, exploitation, and privilege escalation with minimal human input, enabling even low‑skill threat groups to run large‑scale multi‑target campaigns.  
+Why you should care: Understanding how AI can automate attack phases helps IT diploma students grasp emerging threat vectors, informs secure coding practices, and prepares them for defensive roles that must detect and counter automated intrusion tools.  
+Impact: Medium  
+Source: FBI flash alert (therecord.media)  
+
+**AI is changing the nature of cyberattacks**  
+What happened: CSO Online reports that AI is accelerating the speed and scale of traditional attack techniques such as phishing, malware delivery, and vulnerability exploitation, while also enabling new capabilities like AI‑generated social‑engineering content and automated reconnaissance.  
+Why you should care: The article highlights concrete ways AI augments common attack methods, giving students practical insight into the kinds of defenses they’ll need to implement—e.g., AI‑enhanced detection, threat‑intel gathering, and secure coding to mitigate automated exploits.  
+Impact: Medium  
+Source: CSO Online (csoonline.com)
+
+## India
+No items to report.
+
+## Learn
+**Google launches free AI and Cloud courses with certificates (2026)**  
+What happened: Google released a series of free online courses covering large language models, image generation, and cloud computing, each offering a certification upon completion.  
+Why you should care: The courses provide foundational AI and cloud skills directly relevant to IT diploma curricula and are accessible without cost, helping you build a resume‑ready skill set.  
+Impact: Medium  
+Source: TechGig  
+
+**Microsoft offers free certification program covering Cloud, Security & AI (2026)**  
+What happened: Microsoft’s Certification Week provides free live instruction, hands‑on labs on the Skillable platform, and complimentary exam vouchers for certifications in cloud infrastructure, AI, and enterprise security.  
+Why you should care: Earning a Microsoft certification enhances employability in India’s growing cloud and cybersecurity job market and aligns with diploma coursework on modern IT platforms.  
+Impact: Medium  
+Source: CourseJoiner  
+
+## Opportunities
+No items to report.
+
+## Events Near You
+**Global Startup Summit 2026 – Ahmedabad**  
+What happened: A one‑day summit for startups and entrepreneurs scheduled for Saturday, 12 December 2026, from 8:30 AM to 5:00 PM at the Welcomhotel by ITC Hotels, Ashram Road, Ahmedabad.  
+Why you should care: Attending can provide networking opportunities, exposure to emerging tech trends, and insight into startup ecosystems relevant for an IT diploma student seeking internships or project ideas.  
+Impact: Low  
+Source: Meetup (Global Startup Summit 2026)
+
+## Tools Worth Trying
+**OpenAI Codex – AI‑powered coding assistant for IDEs**  
+What happened: OpenAI released Codex, an AI coding agent integrated into ChatGPT web, desktop, IDE extensions, and a CLI, allowing developers to assign bounded tasks that run in a cloud workspace and generate code changes ready for review.  
+Why you should care: As a Diploma IT student, you can use Codex to accelerate learning and project work, getting instant code suggestions, debugging help, and automated pull‑request creation without leaving your editor.  
+Impact: Medium  
+Source: Catio.tech  
+
+**GitLens for VS Code – Enhanced Git insights within the editor**  
+What happened: GitLens, a VS Code extension with over 40 million installs, adds advanced Git navigation, inline blame, repository history, and pull‑request management directly inside the IDE.  
+Why you should care: Mastering version control is essential for IT coursework and internships; GitLens streamlines code reviews and repository handling, helping you avoid common Git mistakes and improve collaboration.  
+Impact: Medium  
+Source: GitKraken.com  
+
+## Tech Outside AI
+**Apple launches M6 and M5 Ultra chips with advanced AI accelerators**  
+What happened: Apple announced its M6 and M5 Ultra processors, featuring up to 80 GPU cores and a dedicated Neural Accelerator that delivers up to 4.5 × the AI compute performance of the previous generation.  
+Why you should care: Understanding the architecture of mainstream AI‑focused silicon helps you prepare for future coursework and projects that involve on‑device AI, edge computing, and performance optimisation on popular platforms.  
+Impact: Medium  
+Source: Apple Newsroom  
+
+**Tenstorrent releases Blackhole series AI accelerator**  
+What happened: In April 2025 Tenstorrent introduced the Blackhole AI accelerator, built with 16 RISC‑V cores and 32 GB of GDDR6 memory per chip, targeting high‑throughput machine‑learning workloads.  
+Why you should care: The Blackhole’s open‑source RISC‑V design offers a practical example of next‑gen AI hardware that can be explored in labs or projects, giving you hands‑on exposure to emerging accelerator architectures.  
+Impact: Medium  
+Source: TechTarget
+
+## My Action for Tomorrow
+Install the OpenAI Codex extension in your primary IDE and complete a small coding task using it to assess its usefulness for your coursework.
+
+## If You Only Remember 3 Things
+- Oracle Database 23c Free gives you enterprise‑grade SQL practice at no cost.  
+- Google’s free AI and Cloud courses provide certified credentials aligned with diploma topics.  
+- OpenAI Codex can speed up coding and debugging, offering practical assistance for projects.
