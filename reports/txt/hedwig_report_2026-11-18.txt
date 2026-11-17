@@ -1,0 +1,120 @@
+Hedwig's 9 PM Intelligence Report - Wednesday, 18 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**India Allocates $10 bn to Boost Semiconductor & Display Manufacturing**  
+What happened: The government announced a USD 10 billion allocation under the Semicon India Program to develop a domestic semiconductor and display manufacturing ecosystem.  
+Why you should care: The funding will spur new chip and display fabs, creating internship and entry‑level job opportunities for IT diploma graduates, and may lead to industry‑academia partnerships for practical training.  
+Impact: Medium  
+Source: Economic Times Manufacturing.
+
+**CERT‑In publishes weekly high‑severity advisories on enterprise software vulnerabilities**  
+What happened: The Indian Computer Emergency Response Team (CERT‑In) released its latest advisory flagging remote code execution flaws, authentication bypasses and cryptographic weaknesses in widely used enterprise applications, web servers, digital signature tools and cloud platforms, emphasizing the 72‑hour breach reporting requirement under the DPDP Act.  
+Why you should care: Understanding these advisories helps you focus on current security gaps in the tools you may use for projects or internships, and prepares you for compliance with Indian data‑protection regulations.  
+Impact: Medium  
+Source: dpdpa.support.
+
+**GitHub Education – Campus Program (MCA Dept, Amal Jyothi College of Engineering)**  
+What happened: The college is a member of the GitHub Campus Program, granting students free access to the GitHub Student Developer Pack and associated cloud resources, AI coding assistance, and over 100 partner offers.  
+Why you should care: The pack includes free credits for platforms like AWS, DigitalOcean, and Heroku, as well as tools for CI/CD, design, and security, enabling you to build, host and showcase projects without personal expense.  
+Impact: Medium  
+Source: ajce.in.
+
+## AI
+**Mobile Se Android AI Assistant APK Kaise Banaye? – No Coding Required**  
+What happened: A YouTube tutorial demonstrates how to create an Android AI assistant APK using a no‑code builder, guiding viewers step‑by‑step through the process.  
+Why you should care: Enables a Diploma IT student to build and test a functional AI‑powered Android app without deep programming knowledge, useful for project work or portfolio building.  
+Impact: Low  
+Source: Codeninjavik Official  
+
+**Maple Flow 2026 Launch – AI‑Driven Coding Assistant Added**  
+What happened: Maple Flow 2026, the latest version of Maplesoft’s engineering calculation software, introduces an AI coding assistant alongside faster math engines.  
+Why you should care: The AI assistant can help students generate and debug code snippets for engineering calculations, streamlining lab assignments and project development.  
+Impact: Low  
+Source: Maplesoft  
+
+## Developer World
+**Top 10 DevOps Automation Tools for 2026**  
+What happened: Control Plane published a list of the ten most widely used DevOps automation tools for 2026, covering CI/CD pipelines, infrastructure‑as‑code, monitoring and secret management. The list includes tools such as Jenkins, GitHub Actions, Terraform, Argo CD, Ansible, Prometheus, Grafana, HashiCorp Vault, Docker, and Kubernetes.  
+Why you should care: Mastering any of these tools aligns with the core syllabus of a Diploma IT program and improves employability in Indian IT firms that rely on cloud‑native workflows.  
+Impact: Medium  
+Source: Control Plane  
+
+**Curated GitHub Repository of DevOps Tools**  
+What happened: The “techiescamp/devops-tools” repository on GitHub aggregates a categorized collection of free and enterprise DevOps utilities, including API testing (Postman, Hoppscotch, SoapUI, Swagger), CI/CD, container orchestration, and monitoring solutions, with links to documentation and tutorials.  
+Why you should care: The repo serves as a ready‑made reference for building lab projects, preparing for certifications, or completing coursework that requires hands‑on experience with industry‑standard tools.  
+Impact: Medium  
+Source: GitHub  
+
+## Cybersecurity
+**CERT-In publishes weekly high‑severity advisories on enterprise software vulnerabilities**  
+What happened: The Indian Computer Emergency Response Team (CERT‑In) released its latest advisory flagging remote code execution flaws, authentication bypasses and cryptographic weaknesses in widely used enterprise applications, web servers, digital signature tools and cloud platforms. The notice emphasizes the 72‑hour breach reporting requirement under the DPDP Act.  
+Why you should care: As a Diploma IT student, understanding these advisories helps you focus on current security gaps in the tools you may use for projects or internships, and prepares you for compliance with Indian data‑protection regulations.  
+Impact: Medium  
+Source: dpdpa.support  
+
+**Fortinet issues urgent patches for multiple FortiOS products**  
+What happened: Fortinet released an urgent update addressing critical vulnerabilities in FortiOS, FortiManager, FortiMail, FortiAuthenticator and FortiAnalyzer, affecting network security deployments across Indian businesses.  
+Why you should care: Many Indian firms and campus labs use Fortinet firewalls; knowing the patch details lets you secure lab environments, demonstrate practical vulnerability‑management skills, and add relevant experience to your résumé.  
+Impact: Medium  
+Source: threatwatch360.com  
+
+## India
+**India Allocates $10 bn to Boost Semiconductor & Display Manufacturing**  
+What happened: The government announced a USD 10 billion allocation under the Semicon India Program to develop a domestic semiconductor and display manufacturing ecosystem.  
+Why you should care: The funding will spur new chip and display fabs, creating internship and entry‑level job opportunities for IT diploma graduates, and may lead to industry‑academia partnerships for practical training.  
+Impact: Medium.  
+Source: Economic Times Manufacturing.  
+
+## Learn
+**Carnegie Mellon University – Free CS Lecture Series on YouTube**  
+What happened: Carnegie Mellon has posted its full undergraduate computer‑science lecture videos to YouTube, covering topics such as algorithms, data structures, operating systems, and software engineering.  
+Why you should care: The material matches many Diploma‑IT curricula and is taught by leading professors, providing high‑quality, no‑cost supplemental learning for core subjects.  
+Impact: Medium  
+Source: Causalnote  
+
+**Apna College – “How to Start Coding & Get a Job (2026)” YouTube Series**  
+What happened: Apna College released a comprehensive YouTube playlist that walks beginners through coding fundamentals, practical projects, and interview preparation, aimed at securing tech placements.  
+Why you should care: The series is tailored to Indian students, includes job‑ready coding exercises, and links to free resources and placement support relevant for a Diploma‑IT graduate.  
+Impact: Medium  
+Source: Apna College  
+
+## Opportunities
+**Open Source in India 2026: Complete Student Guide – GSSoC 2026**  
+What happened: The Girlscript Summer of Code (GSSoC) 2026 program offers a structured mentorship pipeline for students to contribute to major open‑source projects such as TensorFlow, Kubernetes, React and Node.js.  
+Why you should care: Participation provides hands‑on experience with industry‑relevant codebases, mentorship from experienced contributors, and a résumé‑building credential that is recognized by Indian tech recruiters.  
+Impact: Medium  
+Source: gssoc.girlscript.org  
+
+**GitHub Education – Campus Program (MCA Dept, Amal Jyothi College of Engineering)**  
+What happened: The college is a member of the GitHub Campus Program, granting students free access to the GitHub Student Developer Pack and associated cloud resources, AI coding assistance, and over 100 partner offers.  
+Why you should care: The pack includes free credits for platforms like AWS, DigitalOcean, and Heroku, as well as tools for CI/CD, design, and security, enabling you to build, host and showcase projects without personal expense.  
+Impact: Medium  
+Source: ajce.in  
+
+## Events Near You
+No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+No tool entries available.
+
+## Tech Outside AI
+**Global Semiconductor Market Projected to Reach $3 trillion by 2031**  
+What happened: A market research report released in October 2026 projects the worldwide semiconductor industry to grow at a 24.9% compound annual growth rate, expanding from roughly $792 billion in 2025 to about $3.01 trillion by 2031, driven by AI data centers and high‑bandwidth memory demand.  
+Why you should care: Understanding this rapid growth helps Diploma IT students anticipate high‑demand skill areas—such as AI‑accelerator design, embedded systems, and hardware‑software integration—informing elective choices and job market positioning in India.  
+Impact: Low  
+Source: Yahoo Finance (uk.finance.yahoo.com)  
+
+**Synaptics Launches Astra SR200 Series Multimodal Edge‑AI Processors**  
+What happened: Synaptics announced the Astra SR200 series, combining Arm Cortex‑M85 and Cortex‑M52 cores to deliver edge AI processing for always‑on sensing, voice, vision and multimedia workloads.  
+Why you should care: The processors illustrate how low‑power AI can be embedded in devices—a practical example for diploma‑level projects on IoT, embedded AI, and hardware‑software co‑design. Understanding this architecture helps when selecting microcontrollers for prototype development or when preparing for industry‑focused interviews.  
+Impact: Medium  
+Source: Synaptics press release (https://www.synaptics.com/company/news/synaptics-astra-sr200-series-multimodal-edge-ai-processors)
+
+## My Action for Tomorrow
+Register for the GitHub Student Developer Pack through your college’s Campus Program portal to obtain free cloud credits and development tools for upcoming projects.
+
+## If You Only Remember 3 Things
+- The $10 bn Semicon India funding will expand local chip and display manufacturing, opening internship and job pathways.  
+- CERT‑In’s weekly advisories highlight current security flaws and reporting obligations under the DPDP Act.  
+- The GitHub Campus Program provides free developer resources and cloud credits essential for hands‑on learning and portfolio building.
