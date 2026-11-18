@@ -1,0 +1,122 @@
+Hedwig's 9 PM Intelligence Report - Thursday, 19 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Critical PHP Vulnerabilities (CVE‑2026‑109618 & CVE‑2026‑109619) – Immediate Patch Required**  
+What happened: Two high‑severity remote‑code‑execution flaws were disclosed in core PHP, added to the U.S. CISA Known Exploited Vulnerabilities catalog and confirmed exploited in the wild.  
+Why you should care: PHP powers many Indian web‑development projects and college labs; unpatched servers can be hijacked, leading to data loss or service disruption for coursework and internships.  
+Impact: High  
+Source: CISA (https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching)
+
+**Critical Node.js Brotli Decoder Vulnerability (CVE‑2026‑111497) – Patch Now**  
+What happened: A critical flaw (CVSS 9.8) was found in Node.js’s Brotli decoder component, allowing remote code execution. The Cyber Security Agency of Singapore released an emergency update.  
+Why you should care: Node.js is widely used in modern JavaScript back‑ends and many student projects; exploitation can compromise APIs and services you develop for assignments or campus hackathons.  
+Impact: Medium  
+Source: Cyber Security Agency of Singapore (https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-154)
+
+**India AI Governance Guidelines Unveiled by MeitY**  
+What happened: The Ministry of Electronics and Information Technology released the India AI Governance Guidelines under the IndiaAI Mission, outlining a framework for safe, inclusive, and responsible AI adoption across sectors.  
+Why you should care: Understanding these guidelines helps Diploma IT students align projects and coursework with national standards, ensuring future work complies with emerging regulatory expectations.  
+Impact: Medium  
+Source: Digital India (MeitY)
+
+## AI
+**Microsoft rolls out new first‑party models for agentic AI coding**  
+What happened: Microsoft released MAI‑Code‑2 for demanding coding tasks and MAI‑Code‑2‑Flash for high‑volume everyday coding, both now generally available on GitHub (Code‑2‑Flash in private preview).  
+Why you should care: The models can be used to accelerate software development projects and to experiment with AI‑assisted coding, a skill increasingly valued in Indian IT roles and campus placements.  
+Impact: Medium  
+Source: Microsoft (siliconangle.com); also reported in **Microsoft launches MAI Code 2 in GitHub Copilot** (GeekWire)
+
+**Google introduces Gemini 4 Hydrogen for safer, more aligned agentic workflows**  
+What happened: Google unveiled Gemini 4 Hydrogen, an upgrade that reduces over‑reach in agentic tasks by up to 81 % and cuts misaligned actions 12‑fold, improving tool‑use and coding reliability.  
+Why you should care: Access to a more reliable, safety‑focused LLM helps students build AI‑driven applications and automation scripts without risky behaviour, aligning with curriculum labs and project work.  
+Impact: Medium  
+Source: Google (blog.google)
+
+## Developer World
+**LangChain framework gains traction for building LLM‑powered applications**  
+What happened: LangChain, an open‑source framework for constructing applications that use large language models, is highlighted among the most popular GitHub projects, offering components for prompts, models, output parsers, and integration with external services.  
+Why you should care: Mastering LangChain equips a Diploma IT student with practical skills to develop AI‑driven software, a fast‑growing area in India’s tech industry and a valuable addition to a junior developer’s portfolio.  
+Impact: Medium  
+Source: Dice.com
+
+## Cybersecurity
+**Critical PHP Vulnerabilities (CVE‑2026‑109618 & CVE‑2026‑109619) – Immediate Patch Required**  
+What happened: Two high‑severity remote‑code‑execution flaws were disclosed in core PHP, rapidly added to the U.S. CISA Known Exploited Vulnerabilities (KEV) catalog and confirmed exploited in the wild.  
+Why you should care: PHP powers many Indian web‑development projects and college labs; unpatched servers can be hijacked, leading to data loss or service disruption for coursework and internships.  
+Impact: High  
+What to do: Verify the PHP version on all development and production machines; apply the latest security patches from php.net within 24 hours; enable web‑application firewalls and monitor logs for suspicious activity.  
+Source: CISA (https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching)
+
+**Critical Node.js Brotli Decoder Vulnerability (CVE‑2026‑111497) – Patch Now**  
+What happened: A critical flaw (CVSS 9.8) was found in Node.js’s Brotli decoder component, allowing remote code execution. The Cyber Security Agency of Singapore released an emergency update.  
+Why you should care: Node.js is widely used in modern JavaScript back‑ends and many student projects; exploitation can compromise APIs and services you develop for assignments or campus hackathons.  
+Impact: Medium  
+What to do: Update Node.js to the latest stable release (v20.x or later) that includes the fix; test your applications after upgrade and review dependency lock‑files for vulnerable packages.  
+Source: Cyber Security Agency of Singapore (https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-154)
+
+## India
+**India AI Governance Guidelines Unveiled by MeitY**  
+What happened: The Ministry of Electronics and Information Technology released the India AI Governance Guidelines under the IndiaAI Mission, outlining a framework for safe, inclusive, and responsible AI adoption across sectors.  
+Why you should care: Understanding these guidelines helps Diploma IT students align projects and coursework with national standards, ensuring future work complies with emerging regulatory expectations.  
+Impact: Medium  
+Source: Digital India (MeitY)
+
+**Indigenous Foundation Models EKA‑1, Dhīr 2B, and Dhīr 5B Launched**  
+What happened: MeitY introduced three home‑grown AI foundation models—EKA‑1, Dhīr 2B, and Dhīr 5B—developed by Indian firms to reduce reliance on foreign AI services and support offline, secure use in critical sectors.  
+Why you should care: Access to these models offers students locally hosted AI resources for experimentation, research, and building applications without costly external licences.  
+Impact: Medium  
+Source: The Hindu
+
+## Learn
+**Harvard CS50 (2023) – Full Computer Science University Course** – Worth doing  
+What happened: Harvard’s introductory computer science course, CS50, is available online for free, covering topics from Scratch and C to Python, SQL, web development with Flask, and cybersecurity.  
+Why you should care: Provides a comprehensive, university‑level curriculum that aligns with the core subjects of a Diploma IT program, giving you strong fundamentals and a recognized certificate to enhance your résumé.  
+Impact: Medium  
+Source: Class Central  
+
+**Alison – Free Online IT and Computing Courses** – Worth doing  
+What happened: Alison offers a range of free courses covering Python, JavaScript, C++, networking, server management, blockchain, and more, with optional paid certification.  
+Why you should care: Allows you to build practical skills across multiple IT domains relevant to your diploma at no cost, and the certifications can be added to your professional profile for job or internship applications.  
+Impact: Medium  
+Source: Alison
+
+## Opportunities
+**Uber HackTag** – Medium  
+What happened: Uber is hosting the HackTag hackathon offering cash prizes up to 5 Lakh INR, mentorship from industry experts, and pathways to full‑time positions or internships for winners.  
+Why you should care: As a Diploma IT student, participating can give you real‑world project experience, exposure to Uber’s tech stack, and a high‑value prize that can fund further studies or projects.  
+Source: opportunityhub-list-of-opportunities.github.io  
+
+**Juspay Hiring Challenge** – Medium  
+What happened: Juspay has launched a hiring challenge targeting undergraduate students, with the promise of full‑time job offers or internship placements for successful participants.  
+Why you should care: Juspay is a leading fintech payment gateway in India; securing an internship or job here provides hands‑on experience with payment processing systems, a valuable addition to any IT résumé.  
+Source: opportunityhub-list-of-opportunities.github.io  
+
+## Events Near You
+**Cyber Security Conclave 2026** – 27 March 2026, Renaissance Hotel, Ahmedabad  
+A two‑day security conference covering network security, ethical hacking, and emerging threats. Open to students and professionals; registration details available on the Knowledge Chamber of Commerce and Industry site.  
+
+**TechAI India Summit – Ahmedabad 2026** – 12 December 2026, Welcomhotel By ITC Hotels, Ashram Road, Ahmedabad  
+Features AI workshops, startup pitches, and panel discussions. Attendance requires online registration via Eventbrite; student discounts offered.
+
+## Tools Worth Trying
+**Codeium – Free AI‑Powered Code Assistant**  
+Real‑time AI code completions for 40+ IDEs, supporting Python, JavaScript, C++, TypeScript, with privacy‑focused local and cloud models.  
+
+**Replit Ghostwriter – AI Coding Companion in the Browser**  
+Integrated AI code generation, debugging, and explanations within the Replit online IDE; runs fully in the browser, ideal for low‑spec machines.
+
+## Tech Outside AI
+**NVIDIA Expands Commitments With Supply‑Chain Partners to Support AI Infrastructure Buildout**  
+Announced deeper collaboration with Foxconn and other manufacturers to scale production of next‑generation GPUs and networking platforms for AI workloads.  
+
+**Anthropic unveils “Claude Sheets,” “Claude Meetings,” and “Claude Whiteboards” office‑productivity AI tools**  
+Introduces AI‑driven productivity applications positioned as alternatives to traditional office suites, offering hands‑on experience with emerging AI‑enhanced software.
+
+## My Action for Tomorrow
+Patch all PHP installations on development and production machines to the latest version from php.net and verify the update.
+
+## If You Only Remember 3 Things
+- Apply critical PHP security patches immediately to protect lab and project servers.  
+- Update Node.js to the latest stable release to close the Brotli decoder RCE flaw.  
+- Review the new India AI Governance Guidelines to ensure your AI projects meet national compliance standards.
