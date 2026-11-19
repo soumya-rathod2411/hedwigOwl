@@ -1,0 +1,118 @@
+Hedwig's 9 PM Intelligence Report - Friday, 20 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**DPDP Rules to Boost Demand for Cybersecurity Professionals by May 2027**  
+What happened: Indian companies must comply with the Digital Personal Data Protection (DPDP) Rules 2025 by 13 May 2027, with penalties of up to ₹250 crore for security failures.  
+Why you should care: The compliance deadline is expected to create a surge in hiring for cybersecurity roles, offering immediate internship and entry‑level job opportunities for Diploma IT graduates.  
+Impact: Medium  
+Source: techobserver.in  
+
+**AI-Powered Cyberattacks Accelerate with Generative Tools**  
+What happened: CrowdStrike reports that attackers are increasingly using generative AI and machine learning to automate research, script generation, and social‑engineering content, turning previously manual attack phases into rapid, automated processes.  
+Why you should care: Understanding AI‑driven tactics is essential for a Diploma IT student preparing for cybersecurity roles, as these techniques will shape threat detection and response strategies in Indian enterprises.  
+Impact: Medium  
+Source: CrowdStrike  
+
+**Microchip launches Hailo‑8 AI accelerator with 26 TOPS performance**  
+What happened: Microchip introduced the Hailo‑8 AI accelerator, delivering 26 trillion operations per second (TOPS) in a compact, penny‑sized package, aimed at edge‑device machine‑learning workloads.  
+Why you should care: The device’s high efficiency and tiny form factor make it a practical platform for student projects on embedded AI, enabling experimentation with real‑time inference on low‑power hardware without large GPUs.  
+Impact: Medium  
+Source: Microchip Technology
+
+## AI
+No items.
+
+## Developer World
+**Toad Database Developer Tools – New 2026 Release**  
+What happened: Quest released an updated suite of Toad tools for database developers, administrators and analysts, including Toad for Oracle with enhanced automation, performance optimization and risk‑mitigation features.  
+Why you should care: The tools streamline SQL development, help catch code defects early and automate routine DBA tasks—skills directly relevant to IT diploma projects and internships that involve relational databases.  
+Impact: Medium  
+Source: TrustRadius  
+
+**Baserow 2.4 – Open‑Source No‑Code Database & App Builder**  
+What happened: Baserow launched version 2.4, adding row‑triggered actions, built‑in charting, and AI model integration for its no‑code platform.  
+Why you should care: Enables rapid prototyping of data‑driven web apps without extensive coding, useful for coursework, portfolio projects, and small‑scale deployments in startups or campus clubs.  
+Impact: Medium  
+Source: Baserow.io  
+
+## Cybersecurity
+**AI-Powered Cyberattacks Accelerate with Generative Tools**  
+What happened: CrowdStrike reports that attackers are increasingly using generative AI and machine learning to automate research, script generation, and social‑engineering content, turning previously manual attack phases into rapid, automated processes.  
+Why you should care: Understanding AI‑driven tactics is essential for a Diploma IT student preparing for cybersecurity roles, as these techniques will shape threat detection and response strategies in Indian enterprises.  
+Impact: Medium  
+Source: CrowdStrike  
+
+**2026 Cybersecurity Forecast Highlights AI‑Driven Threats**  
+What happened: Google Cloud’s 2026 Cybersecurity Forecast warns that AI will be used across the full attack lifecycle, including prompt‑injection, AI‑generated phishing, deepfakes, and ransomware combined with data‑theft extortion, while “shadow AI” tools inside organizations expand the attack surface.  
+Why you should care: The forecast identifies the most damaging attack vectors likely to target Indian firms, informing curriculum focus on AI‑aware defense mechanisms and practical lab exercises.  
+Impact: Medium  
+Source: Vikingcloud  
+
+## India
+**DPDP Rules to Boost Demand for Cybersecurity Professionals by May 2027**  
+What happened: Indian companies must comply with the Digital Personal Data Protection (DPDP) Rules 2025 by 13 May 2027, with penalties of up to ₹250 crore for security failures.  
+Why you should care: The compliance deadline is expected to create a surge in hiring for cybersecurity roles, offering immediate internship and entry‑level job opportunities for Diploma IT graduates.  
+Impact: Medium  
+Source: techobserver.in  
+
+**Data Protection Board Begins Active Enforcement in 2026**  
+What happened: The Data Protection Board of India became operational in late 2025, ending the grace period; 2026 marks the start of active enforcement of the Digital Personal Data Protection Act 2023 with substantial financial penalties for non‑compliance.  
+Why you should care: Early enforcement means organizations are rapidly upgrading data‑security practices, increasing demand for IT students skilled in data‑privacy compliance, audit support, and secure software development.  
+Impact: Medium  
+Source: chambers.com  
+
+## Learn
+**Top 6 FREE AI Courses with Certificates – YouTube (2026)**  
+What happened: A compiled list of six free artificial‑intelligence courses from providers such as Google, IBM and Microsoft, each offering a completion certificate.  
+Why you should care: The diplomas cover fundamentals of AI, cloud‑based ML services and practical coding labs that align with entry‑level IT roles in Indian firms; certificates can be added to a résumé or LinkedIn profile.  
+Impact: Medium  
+Source: YouTube – “Top 6 FREE AI Courses with Certificates🔥Learn From Google, IBM, Microsoft and More”
+
+**Oracle Cloud Infrastructure (OCI) AI Foundations Full Course – YouTube (2026)**  
+What happened: A 2.3‑hour free exam‑preparation video covering OCI AI Foundations (exam 1Z0-1122-26) with practice questions and explanations.  
+Why you should care: OCI is a growing cloud platform in Indian enterprises; mastering its AI services prepares you for cloud‑focused internships or junior developer positions and the free practice exam helps you earn the OCI AI Foundations certification.  
+Impact: Medium  
+Source: YouTube – “OCI AI Foundations Full Course 2026 (1Z0-1122-26)”
+
+## Opportunities
+**AI Scholarship Programme for B.Tech, M.Tech & PhD Students Launched by Union Minister Ashwini Vaishnaw**  
+What happened: The Indian government announced a new AI scholarship scheme covering undergraduate, postgraduate and doctoral programs, open to engineering and non‑engineering streams.  
+Why you should care: As a Diploma IT student aiming to upgrade to a degree, you can apply for funding to pursue a B.Tech or higher in AI‑related fields, reducing financial barriers and gaining access to government‑backed research projects.  
+Impact: Medium  
+Source: YouTube (Ashwini Vaishnaw AI Scholarship announcement)
+
+**Google Computer Science Education Scholarships for Indian Students**  
+What happened: Google is offering scholarships in India for students passionate about computer science and sustainability, with eligibility covering undergraduate study and a focus on real‑world CS applications.  
+Why you should care: The scholarship provides tuition assistance, mentorship from Google engineers, and potential internship pathways, directly supporting your progression from diploma to a CS degree.  
+Impact: Medium  
+Source: Google CS Education website  
+
+## Events Near You
+**Bharat Startup Summit 2026** – 28–29 November 2026, Mahatma Mandir Convention & Exhibition Centre, Gandhinagar. Registration via startupmelas.in.  
+
+**15th Empresario Startup Summit** – 13–15 March 2026, Entrepreneurship Development Institute of India, Ahmedabad. Details and registration on Instagram (StartupNews.fyi).  
+
+## Tools Worth Trying
+No items.
+
+## Tech Outside AI
+**Microchip launches Hailo‑8 AI accelerator with 26 TOPS performance**  
+What happened: Microchip introduced the Hailo‑8 AI accelerator, delivering 26 trillion operations per second (TOPS) in a compact, penny‑sized package, aimed at edge‑device machine‑learning workloads.  
+Why you should care: The device’s high efficiency and tiny form factor make it a practical platform for student projects on embedded AI, enabling experimentation with real‑time inference on low‑power hardware without large GPUs.  
+Impact: Medium  
+Source: Microchip Technology  
+
+**AMD releases Instinct MI455X GPU for AI workloads**  
+What happened: AMD announced the Instinct MI455X GPU, part of the MI400 series, offering leading inference performance on the Helios rack‑scale solution for data‑center AI applications.  
+Why you should care: Access to a state‑of‑the‑art AI GPU provides Diploma IT students with a benchmark platform for learning GPU programming, deep‑learning model optimization, and comparative performance testing against other accelerators.  
+Impact: Medium  
+Source: AMD
+
+## My Action for Tomorrow
+Set up a development environment on a low‑cost edge board (e.g., Raspberry Pi) and install the Hailo‑8 SDK to prototype a simple image‑classification model, documenting the workflow for future project use.
+
+## If You Only Remember 3 Things
+- DPDP compliance deadline will drive new cybersecurity hiring in India.  
+- Generative AI is reshaping attack methods; learn AI‑aware defense tactics.  
+- The Hailo‑8 accelerator offers a hands‑on route to embedded AI projects.
