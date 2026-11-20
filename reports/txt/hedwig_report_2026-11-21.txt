@@ -1,0 +1,110 @@
+Hedwig's 9 PM Intelligence Report - Saturday, 21 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**JetBrains Junie AI Coding Assistant now in eight IDEs with 30% faster processing**  
+What happened: JetBrains released Junie across its eight major IDE products in the 2025.2 update, boosting code‑completion speed by 30% and adding BYOK support for custom API keys and local model compatibility.  
+Why you should care: Faster, integrated AI assistance can cut coding time for your Java, Python or web projects and lets you use in‑house models, reducing subscription costs—useful for diploma‑level assignments and internships.  
+Impact: Medium  
+Source: augmentcode.com  
+
+**India Semiconductor Mission 2.0 Launched to Boost Domestic Chip Production**  
+What happened: The government announced India Semiconductor Mission (ISM) 2.0, expanding the 2021 initiative with schemes for semiconductor fabs, display fabs, compound semiconductors, and a Design Linked Incentive (DLI) programme.  
+Why you should care: Access to government incentives can lower entry barriers for students and startups aiming to work on chip design or fabrication, aligning with core IT hardware curricula and future job markets.  
+Impact: Medium  
+Source: testbook.com  
+
+**Free Google Programming Courses – Audit at No Cost**  
+What happened: Business Insider lists eight Google‑offered programming courses (e.g., Android development, TensorFlow, Cloud computing) that can be audited for free, bypassing the usual paid enrollment.  
+Why you should care: The courses align with industry‑standard tools and cloud platforms used in Indian IT firms; completing them adds credible, vendor‑backed knowledge to a Diploma IT résumé without expense.  
+Impact: Medium  
+Source: Business Insider
+
+## AI
+**JetBrains Junie AI Coding Assistant now in eight IDEs with 30% faster processing**  
+What happened: JetBrains released Junie across its eight major IDE products in the 2025.2 update, boosting code‑completion speed by 30% and adding BYOK support for custom API keys and local model compatibility.  
+Why you should care: Faster, integrated AI assistance can cut coding time for your Java, Python or web projects and lets you use in‑house models, reducing subscription costs—useful for diploma‑level assignments and internships.  
+Impact: Medium  
+Source: augmentcode.com  
+
+**Microchip launches MPLAB AI Coding Assistant for embedded development**  
+What happened: Microchip introduced an AI assistant within MPLAB that offers context‑aware autocomplete, code generation, explanation and commenting, drawing on Microchip‑specific datasheets to minimise hallucinations.  
+Why you should care: If you work on microcontroller projects or lab assignments, the tool streamlines writing and understanding embedded code, helping you meet deadlines and improve code quality.  
+Impact: Medium  
+Source: microchip.com  
+
+## Developer World
+No items to report.
+
+## Cybersecurity
+**CERT-In Issues Critical Advisory on Autonomous AI Agents and Cloud Security**  
+What happened: CERT-In released a advisory urging developers to apply least‑privilege principles in cloud and backend‑as‑a‑service deployments, avoid embedding privileged keys in client‑side code, restrict write access to authenticated roles, and remove internet‑exposed management interfaces.  
+Why you should care: The guidance aligns with security best practices you’ll need for internships, campus projects, and future job roles in India’s growing IT sector, helping you build secure applications and avoid common vulnerabilities.  
+Impact: Medium  
+Source: rmaindia.org  
+
+## India
+**India Semiconductor Mission 2.0 Launched to Boost Domestic Chip Production**  
+What happened: The government announced India Semiconductor Mission (ISM) 2.0, expanding the 2021 initiative with schemes for semiconductor fabs, display fabs, compound semiconductors, and a Design Linked Incentive (DLI) programme.  
+Why you should care: Access to government incentives can lower entry barriers for students and startups aiming to work on chip design or fabrication, aligning with core IT hardware curricula and future job markets.  
+Impact: Medium  
+Source: testbook.com  
+
+**Electronics Manufacturing Component Scheme (EMCS) Approves First Seven Projects Worth ₹5,500 Crore**  
+What happened: The Ministry of Electronics and Information Technology approved seven projects under EMCS, focusing on multi‑layer PCBs, HDI PCBs, camera modules, copper‑clad laminates and polypropylene films to be manufactured in India.  
+Why you should care: The scheme strengthens the domestic electronics supply chain, creating internship and entry‑level opportunities in PCB design, manufacturing and testing—key skill areas for IT diploma students.  
+Impact: Medium  
+Source: digitalindia.gov.in  
+
+## Learn
+**Free Google Programming Courses – Audit at No Cost**  
+What happened: Business Insider lists eight Google‑offered programming courses (e.g., Android development, TensorFlow, Cloud computing) that can be audited for free, bypassing the usual paid enrollment.  
+Why you should care: The courses align with industry‑standard tools and cloud platforms used in Indian IT firms; completing them adds credible, vendor‑backed knowledge to a Diploma IT résumé without expense.  
+Impact: Medium  
+Source: Business Insider  
+
+**Carnegie Mellon University CS Learn – Full Lecture Series on YouTube**  
+What happened: Carnegie Mellon University released complete lecture videos for eight undergraduate computer‑science courses on its CS Learn YouTube channel, covering topics such as programming abstractions, systems, and algorithms.  
+Why you should care: The material provides university‑level depth in core CS subjects, useful for reinforcing concepts taught in diploma programs and for self‑paced study.  
+Impact: Medium  
+Source: YouTube (CS Learn)  
+
+## Opportunities
+**NJACK Winter of Code – IIT Patna**  
+What happened: IIT Patna’s NJACK Winter of Code (WiCo) program invites students to contribute to open‑source projects over a winter term, offering mentorship and a modest stipend for selected participants.  
+Why you should care: Provides hands‑on experience with real‑world codebases, mentorship from faculty and industry experts, and a stipend that can help cover study expenses—valuable for a Diploma IT student seeking practical exposure and resume building.  
+Impact: Medium  
+Source: GeeksforGeeks  
+
+**BOSS – Bountiful Open Source Summer by Coding Blocks**  
+What happened: Coding Blocks runs the Bountiful Open Source Summer (BOSS) program, a three‑month summer initiative where students contribute to curated open‑source projects, receive mentorship, and may earn project‑based bounties.  
+Why you should care: Aligns with the academic calendar, offers structured learning, mentorship, and potential earnings, helping you develop full‑stack development skills and strengthen your portfolio for future job placements.  
+Impact: Medium  
+Source: GeeksforGeeks  
+
+## Events Near You
+No in‑person tech events were found in Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+No items to report.
+
+## Tech Outside AI
+**Arm unveils Cortex‑M42 processor for edge‑AI devices**  
+What happened: Arm announced the Cortex‑M42 core, offering up to three‑fold higher vector compute and twice the power efficiency of the Cortex‑M33, aimed at low‑cost, small edge devices with built‑in machine‑learning and DSP capabilities.  
+Why you should care: The new core enables development of AI‑enabled IoT projects (e.g., sensor analytics, tiny vision systems) using affordable microcontrollers, a practical skill set for a Diploma IT student looking to build hardware‑software prototypes.  
+Impact: Medium  
+Source: Arm Newsroom  
+
+**Microsoft ships ARM‑based Cobalt 200 chips to general availability**  
+What happened: Microsoft released its Cobalt 200 ARM‑based processors, targeting edge compute workloads and supporting WebAssembly‑based AI inference, with performance comparable to traditional x86 solutions.  
+Why you should care: Access to Cobalt 200 hardware allows students to experiment with edge AI and WebAssembly runtimes on a mainstream ARM platform, expanding hands‑on experience beyond typical x86 labs.  
+Impact: Medium  
+Source: The New Stack
+
+## My Action for Tomorrow
+Enroll in at least one of the free Google programming courses listed and begin the first module today.
+
+## If You Only Remember 3 Things
+- JetBrains Junie now speeds up coding in eight major IDEs by 30% with local model support.  
+- India’s Semiconductor Mission 2.0 introduces new incentives for chip design and fabrication.  
+- Free Google programming courses are available for audit, offering industry‑relevant skills at no cost.
