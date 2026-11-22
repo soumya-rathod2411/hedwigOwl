@@ -1,0 +1,116 @@
+Hedwig's 9 PM Intelligence Report - Monday, 23 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**India’s Digital Personal Data Protection (DPDP) Rules 2025 – Phased Roll‑out Timeline**  
+What happened: The DPDP Rules, notified Nov 2025, will be implemented in stages, beginning with definitions and the Data Protection Board in Nov 2025, consent‑manager registration from Nov 2026, and full fiduciary obligations plus principal rights by May 2027.  
+Why you should care: As a Diploma IT student, you will soon handle personal data in labs, internships, or entry‑level roles; knowing the compliance dates lets you prepare appropriate safeguards and consent‑management tools in advance.  
+Impact: Medium  
+Source: Trilegient  
+
+**Oracle Database 23c Free Developer Release announced**  
+What happened: Oracle unveiled a free “Developer Release” of Oracle Database 23c, positioned as the successor to Oracle XE, at the Oracle CloudWorld event in Singapore.  
+Why you should care: The free edition gives Diploma‑level IT students in India immediate access to the latest enterprise‑grade database for learning SQL, PL/SQL, and advanced features without licensing costs, strengthening job‑ready skills.  
+Impact: Medium  
+Source: amysimpsongrange.com  
+
+**AI‑Powered Cyberattack Trends Accelerate – New Threat Landscape**  
+What happened: Recent analyses highlight a surge in AI‑driven attacks, including autonomous malware generation, rapid weaponisation of vulnerabilities, and AI‑targeted infrastructure such as prompt‑injection on LLM servers.  
+Why you should care: Understanding these trends is essential for a Diploma IT student to grasp emerging security challenges and to shape coursework or projects around AI‑based defence techniques, a skill set increasingly demanded by Indian IT firms.  
+Impact: Medium  
+Source: Socprime
+
+## AI
+**Yann LeCun’s New Paper Challenges the AI Scaling Law**  
+What happened: Yann LeCun released a study showing a 109‑million‑parameter model outperformed a 72‑billion‑parameter counterpart, arguing that model size alone does not guarantee better understanding.  
+Why you should care: The finding emphasizes the importance of training techniques over sheer scale, guiding Diploma IT students to focus on efficient model design and optimization rather than chasing larger models.  
+Impact: Medium.  
+Source: 36kr  
+
+**Harvard, Anthropic, and QuEra Demonstrate AI‑Designed Quantum Circuits**  
+What happened: Researchers published a preprint showing large‑language‑model‑generated quantum circuits reduced gate counts and qubit requirements across seven of eight benchmark building blocks, with a novel approach discovered for the eighth.  
+Why you should care: The work illustrates how AI can accelerate quantum‑computing research, offering a concrete example of interdisciplinary AI applications that IT students can explore in projects or further study.  
+Impact: Medium.  
+Source: PR Newswire  
+
+## Developer World
+**Oracle Database 23c Free Developer Release announced**  
+What happened: Oracle unveiled a free “Developer Release” of Oracle Database 23c, positioned as the successor to Oracle XE, at the Oracle CloudWorld event in Singapore.  
+Why you should care: The free edition provides Diploma‑level IT students in India with access to the latest enterprise‑grade database for learning SQL, PL/SQL, and advanced features without licensing costs.  
+Impact: Medium  
+Source: amysimpsongrange.com  
+
+## Cybersecurity
+**AI‑Powered Cyberattack Trends Accelerate – New Threat Landscape**  
+What happened: Recent analyses highlight a surge in AI‑driven attacks, including autonomous malware generation, rapid weaponisation of vulnerabilities, and AI‑targeted infrastructure such as prompt‑injection on LLM servers.  
+Why you should care: Understanding these trends is essential for a Diploma IT student to grasp emerging security challenges and to tailor coursework or projects around AI‑based defence techniques, a skill set increasingly demanded by Indian IT firms.  
+Impact: Medium  
+Source: Socprime  
+
+**2027 Cybersecurity Trends – AI and Machine Learning as Double‑Edged Swords**  
+What happened: A Coursera briefing outlines how AI and machine learning are being exploited for faster, more convincing phishing, automated vulnerability discovery, and synthetic content generation, while also offering new defensive tools.  
+Why you should care: The summary provides a concise overview of technologies you’ll encounter in advanced modules and helps you identify areas for self‑study, such as AI‑enhanced threat detection, to stay competitive in the job market.  
+Impact: Medium  
+Source: Coursera  
+
+## India
+**India’s Digital Personal Data Protection (DPDP) Rules 2025 – Phased Roll‑out Timeline**  
+What happened: The DPDP Rules, notified Nov 2025, will come into effect in stages – definitions and the Data Protection Board start Nov 2025, registration of consent managers from Nov 2026, and full data fiduciary obligations plus principal rights by May 2027.  
+Why you should care: As an IT diploma student, you will soon handle personal data in projects, internships or entry‑level jobs; understanding the compliance dates helps you plan needed safeguards, consent‑management tools, and documentation to avoid penalties.  
+Impact: Medium  
+Source: Trilegient  
+
+**RBI’s New Technology Directions (July 2026) Update Cybersecurity Requirements**  
+What happened: In July 2026 the Reserve Bank of India issued fresh technology directions that replace earlier frameworks, tightening cybersecurity standards for entities dealing with banking data, including mandatory security controls, incident reporting, and regular audits.  
+Why you should care: Many IT roles in fintech, banking support, or startups require adherence to RBI guidelines; early familiarity equips you to design compliant systems, enhancing employability and reducing risk of non‑compliance.  
+Impact: Medium  
+Source: Instagram post by Briskinfosec  
+
+## Learn
+**Free AI With Cloud Course – LearnTube** – Worth doing  
+What happened: LearnTube launched a completely free AI with Cloud course that includes lessons, quizzes, an AI tutor and an optional paid certificate. The platform claims recognition by over 900 hiring partners across India and easy LinkedIn sharing.  
+
+**Google Generative AI Leader Certification – Free Prep Path** – Maybe  
+What happened: Google offers a free preparation path on Google Skills for the Generative AI Leader certification, a 90‑minute proctored exam with 50‑60 questions, valid for three years and requiring no prerequisites.  
+
+## Opportunities
+**List of International Tech Fellowships for Students/Researchers offered by India**  
+What happened: The Indian Embassy in Buenos Aires published a compiled list of international technology fellowships available to Indian students and researchers, covering programs such as ITEC, ICCR scholarships, AYUSH scholarships and others for study and research abroad.  
+Why you should care: A Diploma IT student can explore funded opportunities to gain overseas exposure, enhance technical skills, and add valuable research experience to a resume, all with financial support.  
+Impact: Medium  
+Source: Embassy of India, Buenos Aires  
+
+## Events Near You
+**Bharat Startup Summit 2026 – Gandhinagar**  
+What happened: The 24th International Startup Summit will take place at Mahatma Mandir Convention & Exhibition Centre, Gandhinagar, Gujarat on 28‑29 November 2026.  
+Why you should care: Attending offers a diploma IT student exposure to emerging tech startups, networking with industry professionals, and potential internship or recruitment opportunities in India’s startup ecosystem.  
+Impact: Low  
+Source: StartupMelas.in  
+
+## Tools Worth Trying
+**Cursor AI‑first IDE launches with VS Code foundation**  
+What happened: Cursor, an AI‑first integrated development environment built on VS Code, was released featuring inline code generation, chat‑based editing, and codebase‑aware suggestions with diff highlighting.  
+Why you should care: Provides Diploma IT students in India a free, AI‑enhanced coding environment that can accelerate learning and project work without needing separate AI services.  
+Impact: Low  
+Source: keito.ai  
+
+## Tech Outside AI
+**STMicroelectronics Unveils STM32H7P Industrial MCU with Built‑In AI Accelerator**  
+What happened: ST released the STM32H7P microcontroller, adding dedicated DSP and AI hardware accelerators for edge computing workloads. Samples are already with OEMs and mass production is slated for early 2027.  
+Why you should care: The MCU’s on‑chip AI engine lets diploma‑level students build low‑power AI‑enabled projects (e.g., smart sensors, robotics) without needing external GPUs, using familiar STM32 development tools.  
+Impact: Medium  
+Source: Thelec.net  
+
+**Google Introduces TPU 8i Max for Real‑Time Inference**  
+What happened: Google Cloud announced the TPU 8i Max, a dual‑chip accelerator delivering up to 80 % better inference price performance than the prior generation, aimed at large‑scale language models and real‑time AI services.  
+Why you should care: Students can access the TPU 8i Max through Google Cloud credits to experiment with high‑throughput inference workloads, gaining hands‑on experience with industry‑grade hardware without owning physical devices.  
+Impact: Medium  
+Source: blog.google
+
+## My Action for Tomorrow
+Download and install the free Oracle Database 23c Developer Release, then create a sample schema to practice SQL and PL/SQL queries relevant to upcoming coursework.
+
+## If You Only Remember 3 Things
+- DPDP Rules roll‑out begins Nov 2025; plan data‑privacy safeguards now.  
+- Oracle Database 23c is available free for developers—use it to build enterprise‑level DB skills.  
+- AI‑driven cyber threats are rising; incorporate AI‑based security concepts into your studies.
