@@ -1,0 +1,130 @@
+Hedwig's 9 PM Intelligence Report - Tuesday, 24 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**GitHub Copilot adds Claude Haiku 5.5 and local model support**  
+What happened: GitHub Copilot introduced Claude Haiku 5.5 for fast, high‑volume coding and enabled the Copilot CLI to discover and use locally‑run Ollama models, with optional sandboxing.  
+Why you should care: The new model provides cheaper, higher‑throughput code generation, and local model support lets you experiment without consuming cloud credits—useful for projects and exam practice on limited budgets.  
+Impact: Medium  
+Source: kimbodo.com  
+
+**GitHub launches three new programs for developers, students and startups to boost open‑source development in India**  
+What happened: GitHub announced three new initiatives—including an expanded Campus Experts program, a Student Developer Pack with free access to dozens of developer tools, and a startup‑focused accelerator—to increase open‑source contributions from Indian students.  
+Why you should care: As a Diploma IT student, you can obtain free licenses for IDEs, cloud services, and learning platforms, gaining hands‑on experience that strengthens resumes and interview performance.  
+Impact: Medium  
+Source: Best DevOps  
+
+**India Warns of New AI‑Driven Cyber‑Attacks Targeting Financial Sector**  
+What happened: CERT‑In issued a security advisory on 4 Nov 2026 warning that AI‑powered tools are being used to attack non‑banking financial companies, fintech platforms, payment aggregators and cryptocurrency exchanges.  
+Why you should care: Understanding these attack vectors and the recommended mitigations (patch management, AI model monitoring, secure API usage) aligns with core curriculum topics in network security and prepares you for emerging threats in India’s fintech ecosystem.  
+Impact: Medium  
+Source: Infosecurity Magazine
+
+## AI
+**GitHub Copilot adds Claude Haiku 5.5 and local model support**  
+What happened: GitHub Copilot introduced Claude Haiku 5.5 for fast, high‑volume coding and enabled the Copilot CLI to discover and use locally‑run Ollama models, with optional sandboxing.  
+Why you should care: The new model gives cheaper, higher‑throughput code generation, and local model support lets you experiment without consuming cloud credits—useful for projects and exam practice on limited budgets.  
+Impact: Medium  
+Source: kimbodo.com  
+
+**JetBrains IDEs roll out “Junie” AI chat agent and next‑edit suggestions**  
+What happened: JetBrains released Junie, an AI chat assistant accessible directly from the IDE, plus universally enabled next‑edit code suggestions in the 2025.3 update.  
+Why you should care: Students using IntelliJ, PyCharm, or WebStorm can get context‑aware code help and instant refactoring suggestions without leaving the editor, accelerating learning and assignment completion.  
+Impact: Medium  
+Source: lp.jetbrains.com  
+
+## Developer World
+**GitHub Actions – Integrated CI/CD for Automated Deployments**  
+What happened: GitHub Actions provides built‑in continuous integration and continuous delivery pipelines that can build, test, and deploy code directly from a GitHub repository to cloud platforms, containers, or servers.  
+Why you should care: As a Diploma IT student, you can practice end‑to‑end deployment workflows without extra costs, using the same tool many Indian companies adopt for DevOps automation.  
+Impact: Medium  
+Source: kloudschool.com  
+
+**Terraform – Infrastructure‑as‑Code for Multi‑Cloud Environments**  
+What happened: Terraform enables you to define cloud resources (AWS, Azure, GCP, Kubernetes, etc.) in declarative configuration files, allowing reproducible provisioning and version‑controlled infrastructure.  
+Why you should care: Learning Terraform equips you with a core skill for managing cloud infrastructure at scale, a requirement for most entry‑level DevOps or cloud‑related roles in India.  
+Impact: Medium  
+Source: roadmap.sh  
+
+## Cybersecurity
+**India Warns of New AI-Driven Cyber‑Attacks Targeting Financial Sector**  
+What happened: CERT‑In issued a security advisory on 4 Nov 2026 warning that AI‑powered tools are being used to attack non‑banking financial companies, fintech platforms, payment aggregators and cryptocurrency exchanges.  
+Why you should care: Understanding these attack vectors and the recommended mitigations (patch management, AI model monitoring, secure API usage) aligns with core curriculum topics in network security and prepares you for emerging threats in India’s fintech ecosystem.  
+Impact: Medium  
+Source: Infosecurity Magazine  
+
+**CERT‑In Publishes Multiple Vulnerabilities in Oracle, SAP and Microsoft Products**  
+What happened: Between 9 Oct and 14 Oct 2026 CERT‑In released advisories (CIAD‑2026‑0046 to CIAD‑2026‑0048) detailing critical flaws in Oracle, SAP and Microsoft software, urging organisations to apply patches and follow hardening guidelines.  
+Why you should care: These advisories provide concrete case studies of real‑world vulnerabilities, useful for lab exercises on vulnerability assessment, patch management and secure configuration—key skills for a Diploma IT student.  
+Impact: Medium  
+Source: CERT‑In Advisories Page  
+
+## India
+**IT Minister Unveils Six Pillars Under Semicon 2.0 Scheme**  
+What happened: The Union Minister for Electronics and Information Technology announced the Semicon 2.0 initiative, outlining six pillars aimed at strengthening India’s semiconductor design and manufacturing ecosystem, and launched a dedicated web portal for approvals.  
+Why you should care: A robust domestic semiconductor supply chain creates internship, training and entry‑level job opportunities for IT diploma holders, and the portal will list approved projects that may seek fresh talent.  
+Impact: Medium  
+Source: tele.net.in  
+
+**MeitY Approves 75 Projects Under Electronics Components Manufacturing Scheme (ECMS)**  
+What happened: The Ministry of Electronics and Information Technology cleared 75 applications for the ECMS, surpassing its target and allocating additional funding to boost local component production.  
+Why you should care: The approved projects will expand manufacturing capacity for electronic parts, increasing demand for technicians and junior engineers—roles well suited to Diploma IT graduates seeking practical experience.  
+Impact: Medium  
+Source: Whalesbook  
+
+## Learn
+**Python Full Course for Beginners – 2024 (Free on YouTube)** – Worth doing  
+What happened: A comprehensive, hour‑long Python tutorial covering fundamentals such as variables, type casting, control flow and basic I/O was published on YouTube in 2024.  
+Why you should care: Python is a core language for many IT diploma curricula and job placements in India; mastering it quickly can boost your coding confidence and improve your performance in assignments and interviews.  
+Impact: Medium  
+Source: YouTube – Python Full Course for free 🐍  
+
+**C Programming Full Course – Free on YouTube** – Worth doing  
+What happened: An extensive, step‑by‑step video series walks viewers through C language basics, including VSCode setup, file creation, user input, if‑statements, and variable scope.  
+Why you should care: C remains a foundational language for low‑level programming, embedded systems and many diploma exams; this free resource provides a complete starter kit without needing paid courses.  
+Impact: Medium  
+Source: YouTube – C Programming Full Course for free ⚙️  
+
+## Opportunities
+**GitHub launches three new programs for developers, students and startups to boost open‑source development in India**  
+What happened: GitHub announced three new initiatives—including an expanded Campus Experts program, a Student Developer Pack with free access to dozens of developer tools, and a startup‑focused accelerator—to increase open‑source contributions from Indian students.  
+Why you should care: As a Diploma IT student, you can obtain free licenses for IDEs, cloud services, and learning platforms, gaining hands‑on experience that strengthens resumes and interview performance.  
+Impact: Medium  
+Source: Best DevOps  
+
+**Curated list of open‑source internships and programs for Indian students**  
+What happened: A public GitHub repository compiles current open‑source internship opportunities and seasonal coding programs such as Delta Winter of Code, IIIT‑Kalyani Winter of Code, Smart India Hackathon, and MIT Battle of Codes, detailing eligibility, rewards, and application periods.  
+Why you should care: The list provides a ready‑to‑use directory of paid or stipend‑based projects where you can apply your Diploma‑level skills, earn certificates, and build a portfolio of real‑world contributions.  
+Impact: Medium  
+Source: deepanshu1422/List‑Of‑Open‑Source‑Internships‑Programs (GitHub)  
+
+## Events Near You
+**Mahatma Mandir Convention & Exhibition – Tech Expo** – 29 August 2024 – 31 August 2024, Mahatma Mandir Convention and Exhibition Centre, Gandhinagar  
+What happened: A three‑day technology expo will be held at Mahatma Mandir Convention and Exhibition Centre in Gandhinagar, featuring showcases of cutting‑edge technologies, industry trends and solutions to technical challenges.  
+Why you should care: Attending provides a local opportunity for Diploma IT students to network with tech companies, discover internship leads, and gain insight into emerging tools relevant to coursework and future employment.  
+Impact: Medium  
+Source: TradeIndia​  
+
+## Tools Worth Trying
+**Zuplo Launches Free API Management Platform for Developers**  
+What happened: Zuplo introduced a free tier allowing up to 10 API projects, unlimited edge environments, 1 million monthly requests, and 10 GB egress, with built‑in API key authentication, rate limiting, documentation, and monetization.  
+Why you should care: Diploma IT students can prototype, test, and deploy RESTful services without cost, gaining hands‑on experience with API design, security, and cloud edge deployment—skills directly relevant to coursework and junior developer roles.  
+Impact: Medium  
+Source: free-for.dev  
+
+**Google Maps Platform Extends $200 Monthly Credit for Eligible Users**  
+What happened: Google Maps Platform now offers a $200 monthly credit (in addition to the existing $300 free trial) for eligible accounts, enabling free usage of Maps, Routes, and Places APIs within set limits.  
+Why you should care: Students building location‑based apps for class projects or portfolios can access mapping services without incurring charges, allowing practical experimentation with geocoding, routing, and place search APIs.  
+Impact: Medium  
+Source: developers.google.com  
+
+## Tech Outside AI
+No candidate items for this section.
+
+## My Action for Tomorrow
+Register for the GitHub Student Developer Pack to secure free access to IDEs, cloud services, and other developer tools.
+
+## If You Only Remember 3 Things
+- Copilot now supports Claude Haiku 5.5 and local Ollama models for cost‑effective coding.  
+- GitHub’s new student programs provide free tools and mentorship opportunities.  
+- AI‑driven cyber‑attack threats to India’s fintech sector are rising; study the advisory’s mitigations.
