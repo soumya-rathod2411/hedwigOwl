@@ -299,5 +299,12 @@
     "txt": "hedwig_report_2026-11-24.txt",
     "generated_at": "2026-11-24T04:12:27.691983+05:30",
     "preview": "GitHub Copilot adds Claude\u202fHaiku\u202f5.5 and local model support**"
+  },
+  {
+    "date": "2026-11-25",
+    "pdf": "hedwig_report_2026-11-25.pdf",
+    "txt": "hedwig_report_2026-11-25.txt",
+    "generated_at": "2026-11-25T02:46:00.522166+05:30",
+    "preview": "CodeRabbit launches public beta of Verify, an AI agent that checks whether an app still works after a code change**"
   }
 ]

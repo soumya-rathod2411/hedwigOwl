@@ -1,0 +1,131 @@
+Hedwig's 9 PM Intelligence Report - Wednesday, 25 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**CodeRabbit launches public beta of Verify, an AI agent that checks whether an app still works after a code change**  
+What happened: CodeRabbit released Verify, an AI‑powered testing agent that automatically runs regression tests on codebases after each change and flags broken functionality.  
+Why you should care: Diploma IT students can use Verify to speed up debugging and learn best practices in continuous integration, giving hands‑on experience with AI‑assisted software quality assurance.  
+Impact: Medium  
+Source: The Observatory  
+
+**MeitY launches indigenous AI foundation models EKA‑1, Dhīr 2B and Dhīr 5B under the IndiaAI Mission**  
+What happened: The Ministry of Electronics and Information Technology announced three home‑grown large language models—EKA‑1 for banking and cybersecurity, and Dhīr 2B and Dhīr 5B optimized for low‑connectivity environments.  
+Why you should care: Access to these models offers a cost‑effective alternative to foreign AI services for projects, research, and internships, enabling you to build AI solutions that comply with Indian data regulations and are tailored to local use‑cases.  
+Impact: Medium  
+Source: Livemint.  
+
+**Summer Internship Hackathon 2026 – HackIndia**  
+What happened: HackIndia launched a Summer Internship Hackathon targeting full‑stack and AI‑native developers, offering tracks that combine project work with internship placements.  
+Why you should care: The event is open to Diploma IT students in India, provides hands‑on experience building full‑stack applications, and can lead directly to an internship rather than just a certificate.  
+Impact: Medium  
+What to do: Register for the hackathon at hackindia.org before the deadline and prepare a portfolio project to showcase your skills.  
+Source: hackindia.org
+
+## AI
+**CodeRabbit launches public beta of Verify, an AI agent that checks whether an app still works after a code change**  
+What happened: CodeRabbit released Verify, an AI‑powered testing agent that automatically runs regression tests on codebases after each change and flags broken functionality.  
+Why you should care: Diploma IT students can use Verify to speed up debugging and learn best practices in continuous integration, giving hands‑on experience with AI‑assisted software quality assurance.  
+Impact: Medium  
+Source: The Observatory  
+
+**“How Do I Create An AI Agent For Beginners” – tutorial video covering Claude Code and ChatGPT**  
+What happened: A YouTube tutorial walks beginners through building a simple AI agent using Claude Code and ChatGPT, covering prompt design, tool integration, and deployment basics.  
+Why you should care: Provides a step‑by‑step practical guide for students to create their first AI agent, reinforcing concepts from AI coursework and expanding portfolio projects.  
+Impact: Medium  
+Source: AI News  
+
+## Developer World
+No candidate items for this section.
+
+## Cybersecurity
+**CVE Remediation: What to Do When a Critical CVE Drops**  
+What happened: An article outlines steps for responding to critical vulnerability disclosures, citing the Verizon 2026 DBIR which shows 31% of breaches now start with software vulnerability exploitation.  
+Why you should care: Understanding rapid CVE response is essential for IT diploma students to secure applications and networks they may manage or develop, especially in Indian enterprises facing increased exploit activity.  
+Impact: Medium  
+Source: ox.security  
+
+**Critical 9.3‑Severity Flaw Disclosed in N‑able Mail Assure (CVE‑2026‑134624)**  
+What happened: N‑able reported a high‑severity vulnerability in its Mail Assure product that could allow privileged API users to access internal systems, highlighted by The Hacker News.  
+Why you should care: Familiarity with such high‑impact flaws helps students learn real‑world vulnerability analysis and prepares them for roles in incident response and secure cloud service deployment.  
+Impact: Medium  
+Source: The Hacker News (Facebook)  
+
+## India
+**MeitY launches indigenous AI foundation models EKA‑1, Dhīr 2B and Dhīr 5B under the IndiaAI Mission**  
+What happened: The Ministry of Electronics and Information Technology (MeitY) announced three home‑grown large language models—EKA‑1 for banking and cybersecurity, and Dhīr 2B and Dhīr 5B optimized for low‑connectivity environments.  
+Why you should care: Access to these models offers a cost‑effective alternative to foreign AI services for projects, research, and internships, enabling you to build AI solutions that comply with Indian data regulations and are tailored to local use‑cases.  
+Impact: Medium.  
+Source: Livemint.  
+
+## Learn
+**Coursera – Free Audit Access to Computer Science Courses**  
+What happened: Coursera now allows learners to audit a wide range of computer‑science courses at no cost, providing full video lectures and reading materials. Paid options are required only for graded assignments, certificates and instructor feedback. Financial aid is also available for those who need it.  
+Why you should care: As a Diploma IT student you can deepen knowledge in programming, algorithms, data structures or emerging topics like AI without spending money, supplementing your curriculum and strengthening your resume.  
+Impact: Low  
+Source: Coursera  
+
+**IBM SkillsBuild – Free Courses and Certifications in AI and IT**  
+What happened: IBM’s SkillsBuild platform offers free online courses covering artificial intelligence, cloud computing, data analytics and more, with the option to earn digital certificates upon completion.  
+Why you should care: The certifications are industry‑recognized and can enhance your portfolio, making you more competitive for internships and entry‑level IT roles in India.  
+Impact: Low  
+Source: IBM SkillsBuild  
+
+## Opportunities
+**Summer Internship Hackathon 2026 – HackIndia**  
+What happened: HackIndia launched a Summer Internship Hackathon targeting full‑stack and AI‑native developers, offering tracks that combine project work with internship placements.  
+Why you should care: The event is open to Diploma IT students in India, provides hands‑on experience building full‑stack applications, and can lead directly to an internship rather than just a certificate.  
+Impact: Medium  
+Source: hackindia.org  
+
+**Quest 2026 – Lumen India Hackathon Program**  
+What happened: Lumen Technologies India announced its Quest 2026 hackathon, inviting participants to develop solutions, collaborate with industry mentors, and compete for prizes and internship opportunities.  
+Why you should care: Participation gives Diploma IT students exposure to real‑world telecom and cloud projects, mentorship from professionals, and a pathway to an internship with a multinational tech firm.  
+Impact: Medium  
+Source: jobs.lumen.com  
+
+## Events Near You
+**Discovering the Future: Expedition to Gujarat International Finance Tec-City (GIFT City)**  
+What happened: A guided expedition to GIFT City organized by YSA and partners took place in Gandhinagar, offering attendees a walkthrough of the financial hub’s infrastructure and tech initiatives.  
+Why you should care: Provides a real‑world view of cutting‑edge fintech and smart‑city technologies that align with IT curriculum topics such as cloud services, IoT, and data centers.  
+Impact: Low  
+Source: Luma  
+
+**GIFT FutureLab Grand Challenge 2026–2027 – Applications Open**  
+What happened: The GIFT FutureLab Grand Challenge, a collaborative competition hosted by GIFT City, Gift IFI, IIEC and IIT Gandhinagar, has opened applications for research and technology teams to propose innovative solutions for the upcoming Vibrant Gujarat 2027 event.  
+Why you should care: Participation can give you hands‑on experience with emerging technologies, networking with industry mentors, and potential recognition or internships—valuable for a Diploma IT student’s portfolio.  
+Impact: Low  
+Source: Instagram (IIT Gandhinagar)  
+
+## Tools Worth Trying
+**Replit AI Coding Assistant expands to major IDEs and team chat platforms**  
+What happened: Replit released an AI coding assistant that integrates with JetBrains, Visual Studio, Eclipse, VS Code, the command line, Slack, and Microsoft Teams, offering code suggestions and security scans. The free tier allows 50 agentic chat interactions per month; a Pro plan adds a Java and .NET transformation agent for $19 per user per month.  
+Why you should care: The tool works across the IDEs commonly used in Indian diploma programs and adds collaborative support via team chat, helping you write and review code faster without leaving your primary development environment.  
+Impact: Medium  
+Source: Replit  
+
+**CoderFile blog lists five free AI coding agents that require no API key**  
+What happened: A CoderFile.io blog post evaluated five free AI coding assistants for 2026—Continue.dev (VS Code/JetBrains + Ollama), Aider (terminal agent), OpenCode (Gemini free tier), Tabby (self‑hosted), and CoderFile.io’s own browser‑based agent—highlighting options for offline privacy or low‑cost cloud inference via Groq.  
+Why you should care: These agents provide professional‑grade AI assistance without subscription fees or API keys, allowing diploma students to experiment with AI‑driven coding support on personal laptops or low‑cost cloud resources.  
+Impact: Medium  
+Source: CoderFile  
+
+## Tech Outside AI
+**Nvidia bankrolls AI‑accelerator supply‑chain build‑out with billion‑dollar deals**  
+What happened: Nvidia announced multi‑year, multibillion‑dollar contracts with six major suppliers to secure capacity in substrates, advanced packaging, testing and optical engines, aiming to increase AI‑GPU production by 2.5× by 2029.  
+Why you should care: The expansion will drive demand for hardware‑design knowledge, system‑integration skills and testing tools—areas that a Diploma IT graduate can enter as a junior hardware engineer or test technician in India’s growing AI‑hardware ecosystem.  
+Impact: Medium  
+Source: Tom’s Hardware  
+
+**OpenAI partners with AMD to accelerate chip‑design using AI models**  
+What happened: OpenAI collaborated with AMD to apply its generative models to SystemVerilog RTL code, achieving up to a 14% performance gain on flagship GPU IP and compressing a year‑long design cycle into five months.  
+Why you should care: Demonstrates a concrete use‑case for AI in semiconductor design; learning basic RTL, AI‑assisted verification, and model‑driven optimization will make you a more marketable candidate for hardware‑design internships and entry‑level roles in India’s chip‑fab sector.  
+Impact: Medium  
+Source: OpenAI
+
+## My Action for Tomorrow
+Register for the HackIndia Summer Internship Hackathon and outline a project proposal to submit.
+
+## If You Only Remember 3 Things
+- Verify AI testing agent can accelerate your debugging workflow.  
+- India’s new home‑grown LLMs (EKA‑1, Dhīr 2B, Dhīr 5B) are available for cost‑effective AI projects.  
+- The HackIndia Summer Internship Hackathon offers a direct path to internship experience.
