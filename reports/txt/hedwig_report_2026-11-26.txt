@@ -1,0 +1,126 @@
+Hedwig's 9 PM Intelligence Report - Thursday, 26 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**DPDP and CERT‑In Compliance Timeline (2026‑2027)**
+What happened: The Digital Personal Data Protection Rules, 2025 were notified in November 2025, with consent manager registration opening on 13 Nov 2026 and core obligations such as notice, consent, security safeguards and 72‑hour breach reporting becoming effective on 13 May 2027; CERT‑In requires cyber‑incident reporting within six hours and ICT log retention for 180 days since June 2022.  
+Why you should care: Knowing these dates lets a Diploma IT student plan coursework, certifications, and project timelines around data‑privacy and incident‑response requirements that will be mandatory for Indian employers.  
+Impact: Medium  
+Source: zuberpartners.com  
+
+**Google Releases 9 Free AI Courses with Certificates**
+What happened: Google launched nine new AI‑focused online courses that include free certificates upon completion, covering fundamentals of cloud computing, generative AI, and practical AI applications.  
+Why you should care: The courses are free, globally accessible, and align with skills in demand for entry‑level IT roles and diploma projects, providing a quick way to build AI‑related credentials for your resume.  
+Impact: Medium  
+Source: LinkedIn post by Steve Nouri  
+
+**Microsoft 100% Free Certification Weeks 2026 – AI, Cloud & Security**
+What happened: Microsoft is offering a five‑day virtual training program with hands‑on labs and a free exam voucher for select certifications such as Azure AI Fundamentals and Azure Security.  
+Why you should care: The program delivers vendor‑recognized credentials at no cost, directly enhancing employability for diploma IT graduates in India seeking cloud and AI positions.  
+Impact: Medium  
+Source: YouTube video “100% FREE Microsoft Certification Weeks 2026”.
+
+## AI
+No items to report.
+
+## Developer World
+**Microsoft releases new database developer tool (Community Technology Preview)**
+What happened: Microsoft announced a Community Technology Preview of a new database edition slated for release on June 12, featuring automated data shape analysis and synthetic data generation to mirror production datasets.  
+Why you should care: Understanding data distribution and generating realistic test data are essential skills for IT diploma projects and internships involving SQL Server or Azure databases. Early access lets you experiment with these capabilities before they become mainstream.  
+Impact: Medium  
+Source: Computerwoche  
+
+**Oracle SQL Developer 1.5 adds schema compare, formatting, and migration tools**
+What happened: Oracle SQL Developer 1.5 was released, introducing SQL formatting, schema compare, copy/export wizards, and migration support for Sybase, alongside other quality‑of‑life enhancements.  
+Why you should care: SQL Developer is a free, widely used IDE for Oracle databases; the new features streamline writing PL/SQL, comparing database schemas, and migrating legacy systems—tasks common in diploma coursework and entry‑level developer roles.  
+Impact: Medium  
+Source: Oracle​
+
+## Cybersecurity
+**AI‑Powered Phishing and Deepfake Threats 2026‑27**  
+What happened: Recent reports from the U.S. Government Accountability Office highlight that artificial‑intelligence tools are now being used to automatically generate convincing phishing emails and deepfake media, dramatically increasing the scale and success rate of social‑engineering attacks.  
+Why you should care: As a Diploma IT student, you will soon handle user authentication systems and corporate communications; understanding AI‑enhanced phishing techniques is essential for building resilient security policies and for preparing for certification exams such as CEH or CompTIA Security+.  
+Impact: Medium  
+Source: GAO  
+
+**Rise of Agentic Offensive Frameworks (ARTEX, Cairn, CyberStrikeAI, PentAGI)**  
+What happened: Multiple security blogs (Cato Networks, Google Cloud Threat Intelligence) report that in 2026 attacker groups began deploying autonomous “agentic” frameworks that use large language models to auto‑discover, reverse‑engineer, and exploit vulnerabilities without human oversight, accelerating weaponization of n‑day flaws.  
+Why you should care: Familiarity with these frameworks equips you to recognize automated attack patterns, improve incident response playbooks, and adds a cutting‑edge topic to project work or campus hackathons.  
+Impact: Medium  
+Source: Cato Networks
+
+## India
+**DPDP and CERT‑In Compliance Timeline (2026‑2027)**
+What happened: The Digital Personal Data Protection (DPDP) Rules, 2025 were notified in November 2025, with consent manager registration opening on 13 Nov 2026 and core obligations such as notice, consent, security safeguards and 72‑hour breach reporting becoming effective on 13 May 2027. CERT‑In requires cyber‑incident reporting within six hours and retention of ICT logs for 180 days since June 2022.  
+Why you should care: Understanding these dates helps a Diploma IT student plan coursework and certifications in data privacy, security compliance, and incident response—areas that will be mandatory for employers handling personal data in India.  
+Impact: Medium  
+Source: zuberpartners.com  
+
+**Demand Surge for Cybersecurity Professionals Post‑DPDP Implementation**
+What happened: Analysts predict a sharp increase in demand for cybersecurity talent as Indian firms rush to align with the DPDP Rules ahead of the May 2027 deadline, prompting investment in data‑protection frameworks, incident‑response plans, and managed security services.  
+Why you should care: The hiring outlook signals strong career opportunities for students with skills in data protection, risk assessment, and security operations; focusing on these competencies now can improve employability after graduation.  
+Impact: Medium  
+Source: Economic Times (CISO)
+
+## Learn
+**Google Releases 9 Free AI Courses with Certificates**  
+What happened: Google launched nine new AI‑focused online courses that include free certificates upon completion, covering fundamentals of cloud computing, generative AI, and practical AI applications.  
+Why you should care: The courses are accessible worldwide, require no payment, and align with skills in demand for entry‑level IT roles and diploma projects, especially for students aiming to build AI‑related portfolios.  
+Impact: Medium  
+Source: LinkedIn post by Steve Nouri  
+
+**Microsoft 100% Free Certification Weeks 2026 – AI, Cloud & Security**  
+What happened: Microsoft is offering a five‑day virtual training program with hands‑on labs and a free exam voucher for select certifications such as Azure AI Fundamentals and Azure Security.  
+Why you should care: The program provides structured, vendor‑recognized credentials at no cost, directly enhancing employability for diploma IT graduates in India seeking roles in cloud and AI services.  
+Impact: Medium  
+Source: YouTube video “100% FREE Microsoft Certification Weeks 2026”.
+
+## Opportunities
+**AICTE Students Development Scholarship**
+What happened: AICTE offers a scholarship of Rs 12,400 per month to full‑time GATE/GPAT qualified students admitted to M.E., M.Tech, M.Arch or M.Pharma programmes in AICTE‑approved institutions.  
+Why you should care: Reduces financial burden for diploma graduates who clear GATE/GPAT and wish to pursue postgraduate studies, enabling faster entry into higher‑pay roles or research.  
+Impact: Medium  
+Source: All India Council for Technical Education (AICTE)  
+
+**Shraman Foundation Scholarships for Engineering & Science Undergraduates**
+What happened: The Shraman Foundation provides merit‑based scholarships to highly talented undergraduate students in engineering and science streams at IITs, NITs, IISERs and state universities across India.  
+Why you should care: Offers additional financial support and recognition for top‑performing diploma graduates who have secured admission to premier institutions, helping cover tuition and living costs.  
+Impact: Medium  
+Source: Shraman Foundation
+
+## Events Near You
+**EFY Expo Gujarat – 3‑5 December 2026**  
+What happened: A three‑day technology and entrepreneurship expo scheduled at the Helipad Exhibition Centre, Gate 3, Gandhinagar.  
+Why you should care: Offers workshops, vendor demos, and networking with IT firms and startups—valuable for gaining industry exposure and learning emerging tech trends relevant to a Diploma IT curriculum.  
+Impact: Medium  
+Source: Eventbrite  
+
+**Global Startup Summit 2026 – 12 December 2026**  
+What happened: A one‑day summit at Welcomhotel by ITC Hotels, Ashram Road, Ahmedabad, featuring talks, panel discussions, and startup pitches.  
+Why you should care: Provides insight into startup ecosystems, funding avenues, and product development processes, useful for IT students interested in entrepreneurship or tech careers.  
+Impact: Medium  
+Source: Global Startups Club
+
+## Tools Worth Trying
+No items to report.
+
+## Tech Outside AI
+**NVIDIA Announces Major AI Hardware Update**
+What happened: NVIDIA unveiled a next‑generation AI accelerator chip architecture in November 2026, with early access expected for enterprise partners before a wider commercial rollout.  
+Why you should care: Understanding the capabilities and roadmap of leading AI hardware helps Diploma IT students align coursework and projects with industry‑standard platforms, and prepares them for future labs or internships that may use these accelerators.  
+Impact: Medium.  
+Source: emergent.sh  
+
+**Efficient Computer Launches Electron E1 Edge AI Accelerator**
+What happened: Efficient Computer introduced the Electron E1 accelerator, claiming up to 100× better energy efficiency than low‑power CPUs and enhanced programming flexibility for running large AI models on edge devices.  
+Why you should care: The high efficiency and form‑factor advantages make the Electron E1 a practical option for student projects involving on‑device AI, enabling experimentation with advanced models without excessive power or cost constraints.  
+Impact: Medium.  
+Source: efficient.computer
+
+## My Action for Tomorrow
+Enroll in one of Google’s free AI courses and schedule the first module for completion within the next week.
+
+## If You Only Remember 3 Things
+- DPDP compliance deadlines start in Nov 2026, with major obligations effective May 2027.  
+- Google’s free AI courses provide immediate, certificate‑backed skill building.  
+- Microsoft’s free certification weeks offer vendor‑validated credentials at no cost.
