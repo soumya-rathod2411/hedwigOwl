@@ -1,0 +1,125 @@
+Hedwig's 9 PM Intelligence Report - Friday, 27 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Gemini Code Assist Agent Mode Now Available for All Users**  
+What happened: Google Cloud opened Gemini Code Assist’s agent mode to all users, adding persistent chat state, real‑time shell output, and faster UI performance.  
+Why you should care: Diploma IT students can describe coding goals, get detailed plans, approve them, and let Gemini apply changes automatically, accelerating learning of best‑practice workflows in common IDEs.  
+Impact: Medium  
+Source: docs.cloud.google.com  
+
+**CERT‑In warns Android users to install November security patch immediately**  
+What happened: CERT‑In issued a high‑severity advisory urging Android 14‑17 users to apply the November 2026 security patch to close critical flaws that could enable remote code execution and data theft.  
+Why you should care: Unpatched Android devices used for coursework and development tools are vulnerable entry points for attackers, risking personal data and academic projects.  
+Impact: Medium  
+Source: (source not listed in body)  
+
+**Google Summer of Code (GSoC) – Paid Open‑Source Development Program**  
+What happened: Google Summer of Code offers paid summer internships for students to work on open‑source projects with mentor guidance, with coding periods typically from May to August.  
+Why you should care: Participation provides real‑world coding experience, a stipend, and a globally recognised résumé entry valued by Indian IT employers.  
+Impact: Medium  
+Source: stavanshah.framer.website
+
+## AI
+**Gemini Code Assist Agent Mode Now Available for All Users**  
+What happened: Google Cloud announced that Gemini Code Assist’s agent mode is now open to all users, removing the insiders‑channel requirement and adding persistent chat state across IDE restarts, real‑time shell command output, and faster UI performance.  
+Why you should care: The feature lets Diploma IT students describe a coding goal, receive a detailed plan, approve it, and have Gemini apply changes automatically—ideal for learning best‑practice workflows and speeding up project development in common IDEs.  
+Impact: Medium  
+Source: docs.cloud.google.com  
+
+**GitHub Copilot VSC AI Coding Assistant Chat Enhancements**  
+What happened: GitHub Copilot for Visual Studio Code introduced chat‑based fixes that automatically suggest error resolutions, explain terminal errors, and provide a “run in terminal” action for shell code blocks.  
+Why you should care: These enhancements give students immediate, context‑aware assistance when code fails, helping them understand errors and experiment with fixes without leaving the editor, thereby reinforcing learning and reducing debugging time.  
+Impact: Medium  
+Source: geeky-gadgets.com  
+
+## Developer World
+**Anything Platform Enables Full‑Stack AI Agent Apps with Postgres and Automated DevOps**  
+What happened: A new platform called “Anything” lets startups generate full‑stack applications backed by PostgreSQL, with built‑in CI/CD pipelines, hosting, and AI‑agent integration, requiring minimal manual configuration.  
+Why you should care: For a Diploma IT student in India, the tool provides a ready‑made environment to experiment with AI‑driven back‑ends and learn modern DevOps practices without setting up infrastructure from scratch.  
+Impact: Medium  
+Source: tpc.anything.com  
+
+**YouTube Tutorial: “DevOps from Zero to Hero – Build and Deploy a Production API”**  
+What happened: A step‑by‑step video walks viewers through creating a backend API, connecting to a cloud‑hosted PostgreSQL service (Neon DB), and deploying it using CI/CD tools, with all necessary account links provided.  
+Why you should care: The hands‑on guide offers practical experience in API development, cloud databases, and deployment workflows—key skills for IT diploma coursework and entry‑level developer roles.  
+Impact: Medium  
+Source: YouTube (video ID H5FAxTBuNM8)  
+
+## Cybersecurity
+**CERT-In warns Android users to install November security patch immediately**  
+What happened: The Indian Computer Emergency Response Team (CERT‑In) issued a high‑severity advisory urging users of Android 14‑17 to apply the November 2026 security patch to close critical flaws that could allow remote code execution and data theft.  
+Why you should care: As a Diploma IT student, you rely on Android devices for coursework, development tools, and communication; unpatched phones are easy entry points for attackers that could compromise personal data or academic projects.  
+Impact: Medium  
+
+**AI‑assisted cyberattacks trigger unauthorized payments at Indian banks and fintech firms**  
+What happened: CERT‑In reported a series of incidents where attackers used AI‑driven techniques to manipulate business applications and approval workflows, resulting in fraudulent transactions at several Indian financial institutions.  
+Why you should care: Understanding these attack vectors is essential for IT students focusing on security, as similar tactics could target student‑run projects, campus portals, or future employer systems.  
+Impact: Medium  
+Source: The Hacker News; India Today.  
+
+## India
+No relevant items were provided for this section.
+
+## Learn
+**Free Google Python Programming Course on Coursera**  
+What happened: Google’s Site Reliability Engineer Marga Manterola leads a free Coursera specialization that covers Python fundamentals, coding best practices, and real‑world scripting projects.  
+Why you should care: Python is a core language for software development, data analysis, and automation; mastering it will strengthen your diploma coursework and improve employability in Indian IT firms.  
+Impact: Medium  
+Source: Business Insider Africa  
+
+**Carnegie Mellon University Full Computer Science Lectures on YouTube (CS Learn)**  
+What happened: Carnegie Mellon has released complete lecture series for several undergraduate computer‑science courses on its free CS Learn YouTube channel, covering topics from algorithms to systems programming.  
+Why you should care: Access to elite university‑level instruction at no cost lets you deepen theoretical knowledge and supplement your diploma curriculum without extra fees.  
+Impact: Medium  
+Source: YouTube (CS Learn)  
+
+## Opportunities
+**Google Summer of Code (GSoC) – Paid Open‑Source Development Program**  
+What happened: Google Summer of Code, now in its 17th year, offers paid summer internships where students work on open‑source projects with mentors from participating organizations. Applications open early each year, with coding periods running typically from May to August.  
+Why you should care: As a Diploma IT student, GSoC provides real‑world coding experience, a stipend, and a strong résumé entry that is recognized globally and valued by Indian employers.  
+Impact: Medium  
+Source: stavanshah.framer.website  
+
+**Google Developer Student Clubs (DSC) – Campus‑Based Learning Communities**  
+What happened: Google Developer Student Clubs are university‑level groups that connect students with hands‑on workshops, mentorship, and project‑based learning using Google developer technologies. Clubs operate across India and welcome any undergraduate or graduate student.  
+Why you should care: Joining a DSC gives you access to free training, networking with peers and industry mentors, and opportunities to build portfolio projects that complement your diploma curriculum.  
+Impact: Medium  
+Source: leadiq.com  
+
+## Events Near You
+No in‑person tech events were found for Gandhinagar, Ahmedabad, or GIFT City, Gujarat.
+
+## Tools Worth Trying
+**OpenAI API Quickstart – Free Test API Access**  
+What happened: OpenAI released a quick‑start guide that lets developers run a free test request to its API, covering text, audio, image, and video generation, plus tools like the Chat Playground and Agents SDK.  
+Why you should care: Provides a low‑cost way for a Diploma IT student in India to experiment with cutting‑edge generative AI models and build prototype applications without upfront spending.  
+Impact: Medium  
+Source: developers.openai.com  
+
+**Unkey – Hosted API Key Management and Developer Portal**  
+What happened: Unkey launched a platform offering out‑of‑the‑box API key issuance, usage tracking, and automatically generated OpenAPI docs, with a zero‑code hosted developer portal.  
+Why you should care: Enables students to quickly set up secure API authentication for their projects or small services, saving time on building custom key‑management solutions.  
+Impact: Medium  
+Source: unkey.com  
+
+## Tech Outside AI
+**Arm Unveils Cortex‑M42: Up to 3× Vector Compute for Edge AI**  
+What happened: Arm announced the Cortex‑M42 MCU, built on Armv8.1‑M, delivering up to three times the vector compute capability and twice the power efficiency of the Cortex‑M33, with optional custom instructions for AI workloads.  
+Why you should care: The chip targets low‑power edge devices such as IoT sensors and smart‑home hubs, common project platforms for Diploma IT students learning embedded systems and AI inference on microcontrollers. Understanding its architecture helps when selecting hardware for campus projects or internships.  
+Impact: Medium  
+Source: Mashdigi Global  
+
+**Arm Begins In‑House AGI CPU Development on TSMC 3nm Process**  
+What happened: Arm disclosed that its first proprietary AI processor, the AGI CPU, will be fabricated on TSMC’s 3‑nanometer node, with plans for two subsequent generations (AGI CPU 2, AGI CPU 3).  
+Why you should care: The move signals Arm’s entry into high‑performance AI silicon, offering future opportunities for students to work with cutting‑edge CPU designs, contribute to open‑source toolchains, or secure internships at firms adopting these chips.  
+Impact: Medium  
+Source: Storm Media
+
+## My Action for Tomorrow
+Apply the November 2026 Android security patch to all Android devices you use for studies.
+
+## If You Only Remember 3 Things
+- Gemini Code Assist is now universally available, streamlining IDE coding workflows.  
+- Install the latest Android security patch to protect your development environment.  
+- Apply to Google Summer of Code for paid, resume‑building open‑source experience.
