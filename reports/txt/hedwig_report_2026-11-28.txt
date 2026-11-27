@@ -1,0 +1,147 @@
+Hedwig's 9 PM Intelligence Report - Saturday, 28 November 2026
+============================================================
+
+## 3 Things I Absolutely Should Know Today
+**Talent500 Publishes Developer Guide to Agentic AI Frameworks**  
+What happened: Talent500 released a detailed guide covering the latest agentic AI frameworks, explaining how to build AI agents that combine large language models with tools, memory, workflow orchestration, and safety controls.  
+Why you should care: Understanding agentic AI is becoming essential for modern software development; the guide provides practical concepts and examples that can be directly applied in projects and coursework for a Diploma IT student in India.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+**Cisco Expressway vulnerability exploited to breach internal networks (CVE‑2026‑76466)**  
+What happened: Attackers are actively exploiting a critical flaw in Cisco Expressway gateways, allowing them to infiltrate internal corporate networks. The US Cybersecurity and Infrastructure Security Agency (CISA) added the vulnerability to its Known Exploited Vulnerabilities (KEV) catalog.  
+Why you should care: Understanding this real‑world exploit helps you grasp how remote code execution flaws are weaponized in enterprise environments, a key topic for IT security coursework and future job interviews.  
+Impact: Medium  
+What to do: Review the latest security patches from Cisco and practice remediation steps in a lab environment.  
+Source: Help Net Security  
+
+**Flipkart GRiD Hackathon – 2026**  
+What happened: Flipkart’s GRiD hackathon, now in its 8th edition, runs a three‑track AI‑accelerator format with individual coding rounds followed by a live 24‑hour build at Flipkart’s Bangalore headquarters. The prize pool totals ₹6 lakh and top performers receive SDE‑1 job offers and stipends.  
+Why you should care: As a Diploma IT student, participation gives direct exposure to a major e‑commerce tech stack, a chance to earn a high‑paying entry‑level software role, and networking with recruiters from Flipkart and partner firms.  
+Impact: Medium  
+Source: velonx.in
+
+## AI
+**Talent500 Publishes Developer Guide to Agentic AI Frameworks**  
+What happened: Talent500 released a detailed guide covering the latest agentic AI frameworks, explaining how to build AI agents that combine large language models with tools, memory, workflow orchestration, and safety controls.  
+Why you should care: Understanding agentic AI is becoming essential for modern software development; the guide provides practical concepts and examples that can be directly applied in projects and coursework for a Diploma IT student in India.  
+Impact: Medium  
+Source: Yahoo Finance  
+
+**Cisco and OpenAI Launch Shirudo to Safeguard Agentic AI**  
+What happened: Cisco partnered with OpenAI to launch Shirudo, a security platform designed to protect against AI‑driven threats by providing self‑defending infrastructure that learns in real time and automates patching.  
+Why you should care: As you work with AI models and agentic applications, knowing how to secure them is critical; Shirudo offers a reference implementation and best‑practice guidance that can be incorporated into lab work and future internships.  
+Impact: Medium  
+Source: Cisco Newsroom  
+
+## Developer World
+**AMIS – Low‑Code Front‑End Framework by Baidu**  
+What happened: AMIS is an open‑source low‑code front‑end framework that lets developers generate complex user interfaces from JSON configurations; it has 18.3 k GitHub stars, was updated three days ago and accepts external pull requests.  
+Why you should care: Enables rapid UI prototyping and reduces manual coding effort, valuable for diploma‑level projects and portfolio demos without deep front‑end expertise.  
+Impact: Medium  
+Source: nocobase.com  
+
+**Expo – Open‑Source Framework for Universal Native Apps with React**  
+What happened: Expo is an open‑source framework that simplifies building cross‑platform native applications using React, with 52.8 k GitHub stars and recent activity.  
+Why you should care: Provides a straightforward path to create Android and iOS apps from a single codebase, useful for coursework, internships, or freelance gigs that require mobile app development.  
+Impact: Medium  
+Source: github.com  
+
+## Cybersecurity
+**Cisco Expressway vulnerability exploited to breach internal networks (CVE‑2026‑76466)**  
+What happened: Attackers are actively exploiting a critical flaw in Cisco Expressway gateways, allowing them to infiltrate internal corporate networks. The US Cybersecurity and Infrastructure Security Agency (CISA) added the vulnerability to its Known Exploited Vulnerabilities (KEV) catalog.  
+Why you should care: Understanding this real‑world exploit helps you grasp how remote code execution flaws are weaponized in enterprise environments, a key topic for IT security coursework and future job interviews.  
+Impact: Medium  
+Source: Help Net Security  
+
+**Critical Puppet RCE flaw (CVE‑2026‑115731) targets enterprise IaC servers**  
+What happened: A high‑severity deserialization vulnerability in Perforce Puppet, an infrastructure‑as‑code platform, is being actively exploited to achieve remote code execution. The issue is listed in CISA’s KEV catalog.  
+Why you should care: Puppet is widely used for configuration management; knowing how its RCE flaw works equips you to secure CI/CD pipelines and prepares you for roles in DevOps and cloud security.  
+Impact: Medium  
+Source: The Hacker News  
+
+## India
+**IndiaAI Mission Launches Chariot‑1 Foundation Models to Boost Indigenous AI**  
+What happened: The Ministry of Electronics and Information Technology (MeitY) unveiled the Chariot‑1 foundation models, developed by Chariot Artificial Intelligence Pvt. Ltd., as part of the IndiaAI Mission to strengthen sovereign AI capabilities, especially in multilingual processing and speech.  
+Why you should care: Access to domestically built large‑language models can reduce reliance on foreign AI services, lower costs for student projects, and provide opportunities for internships or collaborations with emerging Indian AI startups.  
+Impact: Medium  
+Source: IBEF  
+
+**MeitY Plans Expanded Compute Support for AI Inferencing under IndiaAI Mission**  
+What happened: MeitY Secretary S. Krishnan announced that the government is evaluating additional compute resources dedicated to AI inferencing, separate from model training, to accelerate deployment of AI services at scale.  
+Why you should care: Greater inferencing infrastructure will enable faster testing and deployment of AI applications in coursework and capstone projects, and may open up cloud‑compute credits or access programs for students.  
+Impact: Medium  
+Source: The Hindu Business Line  
+
+## Learn
+**1200 Free Computer Science Courses from Top Universities – freecodecamp.org** – Worth doing  
+What happened: freecodecamp.org compiled a directory of over 1,200 free computer‑science courses and certifications from leading universities and tech giants, covering topics such as data structures, algorithms, Java programming, computer architecture and AI.  
+Why you should care: The list includes courses from Harvard, MIT, Google and Microsoft that can be taken without tuition, giving a Diploma IT student in India access to globally recognised learning material and certificates to strengthen a resume.  
+Impact: Medium  
+Source: freecodecamp.org  
+
+**Free Java Programming Course in Hindi – MyCollegeGYD (YouTube)** – Worth doing  
+What happened: MyCollegeGYD released a full‑length, Hindi‑language Java programming course on YouTube, offering step‑by‑step tutorials and a downloadable certificate upon completion.  
+Why you should care: Java is a core language in the Indian IT job market; a Hindi‑medium, no‑cost course aligns with the student’s language preference and provides a credential that can be added to a portfolio or CV.  
+Impact: Medium  
+Source: MyCollegeGYD (YouTube)  
+
+## Opportunities
+**Flipkart GRiD Hackathon – 2026**  
+What happened: Flipkart’s GRiD hackathon, now in its 8th edition, runs a three‑track AI‑accelerator format with individual coding rounds followed by a live 24‑hour build at Flipkart’s Bangalore headquarters. The prize pool totals ₹6 lakh and top performers receive SDE‑1 job offers and stipends.  
+Why you should care: As a Diploma IT student, participation gives direct exposure to a major e‑commerce tech stack, a chance to earn a high‑paying entry‑level software role, and networking with recruiters from Flipkart and partner firms.  
+Impact: Medium  
+Source: velonx.in  
+
+**Goldman Sachs India Hackathon 2026**  
+What happened: Goldman Sachs announced its 2026 India Hackathon, open to engineering students graduating in 2027‑2028. Applications run from 22 April to 10 May 2026; finalists receive mentorship in June and compete in a final event with real‑world datasets.  
+Why you should care: Winning or placing can secure a coveted internship or full‑time role at a global investment bank, enhancing your résumé and providing experience with finance‑tech problem solving.  
+Impact: Medium  
+Source: goldmansachs.com  
+
+## Events Near You
+**Learn AI with Global Developers Community – Build with AI in GIFT CITY**  
+What happened: AICamp, in collaboration with Google, GDG Gandhinagar and SmartSense, is hosting a hands‑on AI event in GIFT City featuring tech talks on AI, GenAI, LLMs, workshops, and networking.  
+Why you should care: Direct exposure to current AI tools and practices, plus the chance to connect with developers and recruiters in a major technology hub—valuable for building practical skills and a professional network while studying a Diploma in IT.  
+Impact: Medium  
+Source: AICamp  
+
+**The Smarter E India Conference 2027**  
+What happened: A three‑day conference (March 9‑11, 2027) at GIFT City, Gandhinagar, with 75+ speakers and 500+ delegates covering industry news, market trends, and emerging technologies.  
+Why you should care: Attending offers insights into the latest IT and electronics trends in India, opportunities to meet industry experts, and potential leads for internships or projects relevant to your diploma studies.  
+Impact: Medium  
+Source: The Smarter E India  
+
+## Tools Worth Trying
+**Google Gemini Code Assist Goes Free with 180,000 Monthly Completions**  
+What happened: Google announced that its Gemini Code Assist tool is now free, offering up to 180,000 AI‑generated code completions per month for developers.  
+Why you should care: The generous quota lets Diploma IT students experiment with AI‑driven code suggestions, debugging help, and refactoring without cost, accelerating learning and project development.  
+Impact: Medium  
+Source: VentureBeat  
+
+**Amazon Q Developer Free Tier Launches with 50 Agentic Interactions and 1,000 Lines Code Transformations per Month**  
+What happened: Amazon introduced a free tier for its Q Developer AI coding assistant, providing 50 chat interactions and the ability to transform up to 1,000 lines of code each month.  
+Why you should care: Access to Amazon’s AI‑powered coding agent offers practical, hands‑on experience with cloud‑native development tools and can be integrated into popular IDEs, useful for coursework and personal projects.  
+Impact: Medium  
+Source: AWS (Amazon Q Developer)  
+
+## Tech Outside AI
+**Nvidia Board Moves Against CEO Jensen Huang**  
+What happened: Nvidia’s board announced actions that could lead to the removal of CEO Jensen Huang amid internal disputes.  
+Why you should care: As a core player in GPUs and AI hardware, Nvidia’s leadership changes could affect internship openings, campus recruitment, and the direction of AI development tools you may use in studies.  
+Impact: Medium  
+Source: YouTube – Morning Brief Nov 12 2026  
+
+**Anthropic Announces $1.4 Trillion IPO, Backed by Google and Major Tech Firms**  
+What happened: AI startup Anthropic filed for an IPO valued at roughly $1.4 trillion, with a $40 billion investment from Google and additional backing from Nvidia, AMD, Microsoft and others.  
+Why you should care: The influx of capital will accelerate Anthropic’s Claude model releases, creating demand for AI‑focused developers and opening potential internship or entry‑level roles for IT students in India.  
+Impact: Medium  
+Source: ProMarket – Big Tech Is Creating AI ‘Communities of Interest’ Nov 27 2026
+
+## My Action for Tomorrow
+Set up a lab environment to apply the latest Cisco Expressway security patches and test remediation steps for CVE‑2026‑76466.
+
+## If You Only Remember 3 Things
+- Talent500’s guide offers hands‑on agentic AI knowledge you can use in projects.  
+- The Cisco Expressway flaw highlights the need to stay current on enterprise security patches.  
+- The Flipkart GRiD Hackathon is a direct pathway to an SDE‑1 role and real‑world experience.
